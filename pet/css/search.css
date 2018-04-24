@@ -50,7 +50,8 @@ ul {
   font-size: 20px; }
 
 body {
-  background-color: #e6e6e6; }
+  background-color: #e6e6e6;
+  font-family: 'yahei'; }
 
 .flex {
   display: flex; }
@@ -153,7 +154,8 @@ html body .section.page-inside-nav {
     margin: 0 auto;
     display: flex;
     list-style: none;
-    font-size: 18px; }
+    font-size: 18px;
+    color: #1a1a1a; }
     html body .section.page-inside-nav .inside-nav li {
       display: inline-block;
       margin-left: 30px;
@@ -162,12 +164,14 @@ html body .section.page-inside-nav {
       html body .section.page-inside-nav .inside-nav li:first-child {
         margin-left: 0; }
       html body .section.page-inside-nav .inside-nav li a {
+        color: #1a1a1a;
         display: block; }
         html body .section.page-inside-nav .inside-nav li a.active {
           color: #ff5500;
           position: relative;
           height: 100%;
-          width: 100%; }
+          width: 100%;
+          font-size: 20px; }
           html body .section.page-inside-nav .inside-nav li a.active::before {
             content: '';
             display: block;
@@ -237,7 +241,8 @@ html body .section .search-choose {
       html body .section .search-choose .filter-detail .filter-class .filter-item a {
         display: inline-block;
         padding: 0px 16px 0px 4px;
-        margin: 5px 0px 5px 20px; }
+        margin: 5px 0px 5px 20px;
+        color: #666; }
       html body .section .search-choose .filter-detail .filter-class .hide-more {
         width: 80px;
         padding-left: 20px;
@@ -292,12 +297,15 @@ html body .section.models {
           display: inline-block;
           font-size: 14px;
           color: #b3b3b3;
-          margin-left: 15px; }
-      html body .section.models .model .model-name a.more {
-        color: #ff5500; }
-        html body .section.models .model .model-name a.more span {
-          position: relative;
-          top: -1px; }
+          margin-left: 15px;
+          line-height: 18px; }
+      html body .section.models .model .model-name a {
+        color: #808080; }
+        html body .section.models .model .model-name a.more {
+          color: #ff5500; }
+          html body .section.models .model .model-name a.more span {
+            position: relative;
+            top: -1px; }
     html body .section.models .model .models-list {
       font-size: 0;
       margin-left: -10px; }
@@ -308,7 +316,8 @@ html body .section.models {
         overflow: hidden;
         font-size: 12px;
         margin: 0 0 10px 10px;
-        background-color: #fff; }
+        background-color: #fff;
+        color: #333; }
         html body .section.models .model .models-list .model-item p {
           overflow: hidden;
           white-space: nowrap;
@@ -322,9 +331,6 @@ html body .section.models {
             vertical-align: middle; }
           html body .section.models .model .models-list .model-item .model-action img {
             vertical-align: middle; }
-html body .section .model .model-name ul li a {
-  font-size: 16px !important;
-  color: #000 !important; }
 html body .section .model .model-name a.more {
   font-size: 12px;
   color: #333333 !important; }
@@ -345,7 +351,8 @@ html body .section .pagenation {
       text-align: center;
       color: #808080;
       margin: 0 5px;
-      background-color: #fff; }
+      background-color: #fff;
+      cursor: pointer; }
       html body .section .pagenation .pagenation-btn-box .pagenation-btn.disable {
         color: #ccc;
         border: 1px solid #ccc; }
@@ -353,6 +360,12 @@ html body .section .pagenation {
         color: #fff;
         background-color: #ff5500;
         border: 1px solid #ff5500; }
+    html body .section .pagenation .pagenation-btn-box.first .pre {
+      color: #ccc;
+      border: 1px solid #ccc; }
+    html body .section .pagenation .pagenation-btn-box.last .next {
+      color: #ccc;
+      border: 1px solid #ccc; }
     html body .section .pagenation .pagenation-btn-box .pre, html body .section .pagenation .pagenation-btn-box .next {
       position: absolute;
       left: 0;
@@ -385,7 +398,9 @@ html body .section .pagenation {
       padding: 2px;
       color: #808080;
       text-align: center;
-      border-radius: 3px; }
+      border-radius: 3px;
+      outline: none;
+      cursor: pointer; }
 html body .gap-block {
   width: 1190px;
   margin: 0 auto;

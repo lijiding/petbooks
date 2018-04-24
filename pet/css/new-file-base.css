@@ -50,7 +50,8 @@ ul {
   font-size: 20px; }
 
 body {
-  background-color: #e6e6e6; }
+  background-color: #e6e6e6;
+  font-family: 'yahei'; }
 
 .flex {
   display: flex; }
@@ -153,7 +154,8 @@ html body .section.page-inside-nav {
     margin: 0 auto;
     display: flex;
     list-style: none;
-    font-size: 18px; }
+    font-size: 18px;
+    color: #1a1a1a; }
     html body .section.page-inside-nav .inside-nav li {
       display: inline-block;
       margin-left: 30px;
@@ -162,12 +164,14 @@ html body .section.page-inside-nav {
       html body .section.page-inside-nav .inside-nav li:first-child {
         margin-left: 0; }
       html body .section.page-inside-nav .inside-nav li a {
+        color: #1a1a1a;
         display: block; }
         html body .section.page-inside-nav .inside-nav li a.active {
           color: #ff5500;
           position: relative;
           height: 100%;
-          width: 100%; }
+          width: 100%;
+          font-size: 20px; }
           html body .section.page-inside-nav .inside-nav li a.active::before {
             content: '';
             display: block;
@@ -199,7 +203,8 @@ html body .section .activity {
         background-color: rgba(0, 0, 0, 0.43);
         font-size: 16px; }
         html body .section .activity ul li.activity-item .activity-tag.offline {
-          color: #ff5500; }
+          color: #fff;
+          background-color: #ff5500; }
       html body .section .activity ul li.activity-item .activity-banner {
         width: 730px;
         float: left; }
@@ -241,7 +246,8 @@ html body .section .activity {
             top: 16px;
             border-color: transparent #ff5500 #ff5500 transparent; }
         html body .section .activity ul li.activity-item .activity-desc .activity-title {
-          font-size: 16px; }
+          font-size: 16px;
+          font-weight: bold; }
         html body .section .activity ul li.activity-item .activity-desc .activity-city {
           color: #ff5500; }
         html body .section .activity ul li.activity-item .activity-desc .activity-hot-info {
