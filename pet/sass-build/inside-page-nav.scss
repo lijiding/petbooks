@@ -1,0 +1,40 @@
+&.page-inside-nav{
+	background-color: #fff;
+	.inside-nav{
+		@include manwidth();
+		display: flex;
+		list-style:none;
+		font-size: 18px;
+		color:#1a1a1a;
+		li{
+			display: inline-block;
+			margin-left: 30px;
+			height: 45px;
+			line-height: 45px;
+			&:first-child{
+				margin-left: 0;
+			}
+			a{
+				color: #1a1a1a;
+				display: block;
+				&.active{
+					color:$themecolor;
+					position: relative;
+					height: 100%;
+					width: 100%;
+					font-size: 20px;
+					&::before{
+						content:'';
+						display: block;
+						position: absolute;
+						bottom: 0;
+						left: 0	;
+						width: 100%;
+						height: 3px;
+						background-color: $themecolor;
+					}
+				}
+			}
+		}
+	}
+}

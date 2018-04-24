@@ -1,0 +1,7 @@
+.ad{
+	display: block;
+	width: 100%;
+	img{
+		@include manwidth();
+	}
+}

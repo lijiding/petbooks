@@ -1,0 +1,107 @@
+.search-choose{
+	@include manwidth();
+	margin-top: 10px;
+	.use-filter{
+		text-align:right;
+		margin-bottom: 10px;
+		a{
+			display: inline-block;
+			width: 100px;
+			height: 30px;
+			line-height: 30px;
+			background-color: #fff;
+			color:#000;
+			border-radius:3px;
+			text-align:center;
+
+		}
+	}
+	.filter-detail{
+		background-color: #fff;
+		color:#666;
+		font-size: 14px;
+		line-height: 20px;
+		.filter-class{
+			padding: 12px 0 12px 0px;
+			border-top:1px solid #e6e6e6;
+			&.filtered{
+				border:none;
+				.filter-title{
+					color:#666;
+				}
+				.filter-item{
+					a{
+						position: relative;
+						border:1px solid $themecolor;
+						border-radius:3px;
+						&::before{
+							content:'';
+							width: 10px;
+							height: 10px;
+							background-image: url('../img/close.png');
+							background-size: contain;
+							background-repeat: no-repeat;
+							position: absolute;
+							top: 5px;right: 4px;
+						}
+					}
+				}
+			}
+			.filter-title{
+				width: 64px;
+				text-align:center;
+				color:$themecolor;
+				position: relative;
+				line-height: 30px;
+				&::before{
+					content:'';
+					display: block;
+					width: 2px;height: 10px;
+					background-color: #666;
+					position: absolute;
+					top: 10px;
+					right: 0;
+				}
+			}
+			.filter-item{
+				a{
+					display: inline-block;
+					padding: 0px 16px 0px 4px;
+					margin:5px 0px 5px 20px;
+					color:#666;
+				}
+
+			}
+			.hide-more{
+				width: 80px;
+				padding-left: 20px;
+				color:$themecolor;
+				a{
+					color:$themecolor;
+					&:hover{
+						color:#666;
+					}
+
+				}
+				.fa-angle-up{
+					display: none;
+				}
+				&.hiding{
+					a{
+						color:#666;
+						&:hover{
+							color:$themecolor;
+						}
+					}
+					.fa-angle-down{
+						display: none;
+					}
+					.fa-angle-up{
+						display: inline-block;
+					}
+				}
+
+			}
+		}
+	}
+}
