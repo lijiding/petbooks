@@ -18,7 +18,12 @@ html{
 			@import "./community-activity.scss";
 			@import "./pagenation.scss";
 		}
-		@import "./gap-block.scss";
+		@import "./ad.scss";
+		.ad{
+			img{
+				margin-top: 0;
+			}
+		}
 		footer{
 			background-color: $footerbackground;
 			@import "./footer.scss";

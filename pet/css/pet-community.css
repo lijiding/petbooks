@@ -277,10 +277,11 @@ html body .section.models {
             vertical-align: middle; }
 html body .ad {
   display: block;
-  width: 100%; }
+  width: 100%;
+  width: 1190px;
+  margin: 0 auto; }
   html body .ad img {
-    width: 1190px;
-    margin: 0 auto; }
+    margin: 20px 0 30px 0; }
 html body .gap-block {
   width: 1190px;
   margin: 0 auto;
