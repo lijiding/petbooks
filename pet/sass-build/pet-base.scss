@@ -31,6 +31,10 @@ input{
 ul{
 	list-style:none;
 }
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
 .section{
 	// background-color: #fff;
 }

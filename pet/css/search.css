@@ -22,6 +22,10 @@ input {
 ul {
   list-style: none; }
 
+.clearfix {
+  overflow: auto;
+  zoom: 1; }
+
 .themecolor {
   color: #ff5500; }
 
@@ -119,7 +123,8 @@ html body .search {
           height: 40px;
           width: 500px;
           font-size: 16px;
-          border: 2px solid #ff5500; }
+          border: 2px solid #ff5500;
+          float: left; }
           html body .search .site-search .search-publish .search-area input[type='text']:focus + span {
             display: none; }
         html body .search .site-search .search-publish .search-area input[type='button'] {
@@ -211,18 +216,22 @@ html body .section .search-choose {
           color: #666; }
         html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a {
           position: relative;
-          border: 1px solid #ff5500;
+          border: 1px solid #808080;
           border-radius: 3px; }
           html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a::before {
             content: '';
             width: 10px;
             height: 10px;
-            background-image: url("../img/close.png");
+            background-image: url("../img/close-normal.png");
             background-size: contain;
             background-repeat: no-repeat;
             position: absolute;
             top: 5px;
             right: 4px; }
+          html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a:hover {
+            border: 1px solid #ff5500; }
+            html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a:hover::before {
+              background-image: url("../img/close.png"); }
       html body .section .search-choose .filter-detail .filter-class .filter-title {
         width: 64px;
         text-align: center;
