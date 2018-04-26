@@ -26,6 +26,23 @@ ul {
   overflow: auto;
   zoom: 1; }
 
+.btn {
+  border: 1px solid #4d4d4d;
+  color: #4d4d4d;
+  background-color: #fff;
+  font-size: 14px;
+  display: inline-block;
+  margin: 15px;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 3px; }
+  .btn.btn-theme, .btn .theme-btn {
+    border: 1px solid #ff5500;
+    color: #fff;
+    background-color: #ff5500; }
+
 .themecolor {
   color: #ff5500; }
 

@@ -55,12 +55,14 @@
 					a{
 						display: inline-block;
 						background-color: $themecolor;
+						border:1px solid $themecolor;
 						color:#fff;
 						height: 20px;
 						width: 100px;
 						line-height: 20px;
 						text-align:center;
 						border-radius:3px;
+						margin: 0;
 					}
 				}
 				.model-action{
