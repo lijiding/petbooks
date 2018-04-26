@@ -22,6 +22,27 @@ input {
 ul {
   list-style: none; }
 
+.clearfix {
+  overflow: auto;
+  zoom: 1; }
+
+.btn {
+  border: 1px solid #4d4d4d;
+  color: #4d4d4d;
+  background-color: #fff;
+  font-size: 14px;
+  display: inline-block;
+  margin: 15px;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 3px; }
+  .btn.btn-theme, .btn .theme-btn {
+    border: 1px solid #ff5500;
+    color: #fff;
+    background-color: #ff5500; }
+
 .themecolor {
   color: #ff5500; }
 
@@ -50,7 +71,8 @@ ul {
   font-size: 20px; }
 
 body {
-  background-color: #e6e6e6; }
+  background-color: #e6e6e6;
+  font-family: 'yahei'; }
 
 .flex {
   display: flex; }
@@ -86,7 +108,7 @@ html body header {
         html body header .nav-site li a.themecolor {
           color: #ff5500; }
   html body header .usr-help {
-    width: 301px;
+    width: 310px;
     font-size: 0; }
     html body header .usr-help .usr {
       float: left;
@@ -118,7 +140,8 @@ html body .search {
           height: 40px;
           width: 500px;
           font-size: 16px;
-          border: 2px solid #ff5500; }
+          border: 2px solid #ff5500;
+          float: left; }
           html body .search .site-search .search-publish .search-area input[type='text']:focus + span {
             display: none; }
         html body .search .site-search .search-publish .search-area input[type='button'] {
@@ -153,7 +176,8 @@ html body .section.page-inside-nav {
     margin: 0 auto;
     display: flex;
     list-style: none;
-    font-size: 18px; }
+    font-size: 18px;
+    color: #1a1a1a; }
     html body .section.page-inside-nav .inside-nav li {
       display: inline-block;
       margin-left: 30px;
@@ -162,12 +186,14 @@ html body .section.page-inside-nav {
       html body .section.page-inside-nav .inside-nav li:first-child {
         margin-left: 0; }
       html body .section.page-inside-nav .inside-nav li a {
+        color: #1a1a1a;
         display: block; }
         html body .section.page-inside-nav .inside-nav li a.active {
           color: #ff5500;
           position: relative;
           height: 100%;
-          width: 100%; }
+          width: 100%;
+          font-size: 20px; }
           html body .section.page-inside-nav .inside-nav li a.active::before {
             content: '';
             display: block;
@@ -199,7 +225,8 @@ html body .section .activity {
         background-color: rgba(0, 0, 0, 0.43);
         font-size: 16px; }
         html body .section .activity ul li.activity-item .activity-tag.offline {
-          color: #ff5500; }
+          color: #fff;
+          background-color: #ff5500; }
       html body .section .activity ul li.activity-item .activity-banner {
         width: 730px;
         float: left; }
@@ -241,7 +268,8 @@ html body .section .activity {
             top: 16px;
             border-color: transparent #ff5500 #ff5500 transparent; }
         html body .section .activity ul li.activity-item .activity-desc .activity-title {
-          font-size: 16px; }
+          font-size: 16px;
+          font-weight: bold; }
         html body .section .activity ul li.activity-item .activity-desc .activity-city {
           color: #ff5500; }
         html body .section .activity ul li.activity-item .activity-desc .activity-hot-info {

@@ -71,10 +71,10 @@
     <!-- page-inside-nav -->
     <div class="section page-inside-nav">
         <ul class="inside-nav">
-            <li><a href="javascript:;" class="active"> 首页 </a></li>
-            <li><a href="javascript:;"> 活动 </a></li>
-            <li><a href="javascript:;"> 寄养 </a></li>
-            <li><a href="javascript:;"> 寻宠 </a></li>
+            <li><a href="index.html" > 首页 </a></li>
+            <li><a href="activity.html" class="active"> 活动 </a></li>
+            <li><a href="entrust.html"> 寄养 </a></li>
+            <li><a href="find-pet.html"> 寻宠 </a></li>
             <li><a href="javascript:;"> 百科 </a></li>
         </ul>
     </div>
@@ -212,7 +212,7 @@
            </ul>
        </div>
        <div class="pagenation">
-           <div class="pagenation-btn-box ">
+           <div class="pagenation-btn-box first">
                <div class="pre pagenation-btn"> <上一页 </div>
                <div class="flex">
                    <div class="flex-item  pagenation-btn active">1</div>
@@ -246,7 +246,9 @@
 
 
 
-    <div class="gap-block"></div>
+    <div class="ad">
+        <img src="../../img/ad/ad1.png" alt="">
+    </div>
     <footer>
         <div class="footer">
             <div class="aboutus">
@@ -274,24 +276,8 @@
         </div>
     </footer>
     <!-- local -->
-    <script src="../../../Public/jQuery/jquery-2.1.4.min.js"></script>
+    <script src="../../js/jquery-2.1.4.min.js"></script>
     <!-- online pulgin -->
-    <!-- <script src="https://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script> -->
-    <script src="../../js/search-lable-control-min.js"></script>
-    <!-- swiper -->
-    <!-- <script src="../../js/swiper-4.2.2/dist/js/swiper.esm.js"></script> -->
-    <script src="../../js/swiper-4.2.2/dist/js/swiper.min.js"></script>
-    <script>
-    $(function() {
-        var banner = new Swiper('.community-banner', {
-            autoplay: true, //可选选项，自动滑动
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            }
-        })
-    })
-    </script>
 </body>
 
 </html>

@@ -1,0 +1,28 @@
+@import "../css/font-awesome-4.7.0/css/font-awesome.min.css";
+@import "./pet-base.scss";
+@import "./site-head.scss";
+@import "./site-search.scss";
+html{
+	body{
+		header{
+			@include site-head();
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+				@include site-search();
+			}
+		}
+		.section{
+			@import "./inside-page-nav.scss";
+			@import "./banner.scss";
+			@import "./model.scss";
+		}
+		@import "ad.scss";
+		@import "./gap-block.scss";
+		footer{
+			background-color: $footerbackground;
+			@import "./footer.scss";
+		}
+	}
+}
