@@ -1,6 +1,6 @@
-@import "../../css/font-awesome-4.7.0/css/font-awesome.min.css";
-@import "../normalize.css";
-@import "../build-base/build-base.scss";
+@import "../../../css/font-awesome-4.7.0/css/font-awesome.min.css";
+@import "../../normalize.css";
+@import "../../build-base/build-base.scss";
 html{
 	body{
 		header{
@@ -14,7 +14,7 @@ html{
 		}
 		.section{
 			@import "./filter-choose.scss";
-			@import "../build-base/model.scss";
+			@import "../../build-base/model.scss";
 			// search-model-diff
 			.model{
 				.model-name ul li{
@@ -27,7 +27,7 @@ html{
 				}
 			}
 
-			@import "../build-base/pagenation.scss";
+			@import "../../build-base/pagenation.scss";
 		}
 		.ad{
 			img{
