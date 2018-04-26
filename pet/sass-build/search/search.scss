@@ -1,0 +1,41 @@
+@import "../../css/font-awesome-4.7.0/css/font-awesome.min.css";
+@import "../normalize.css";
+@import "../build-base/build-base.scss";
+html{
+	body{
+		header{
+			@include site-head();
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+				@include site-search();
+			}
+		}
+		.section{
+			@import "./filter-choose.scss";
+			@import "../build-base/model.scss";
+			// search-model-diff
+			.model{
+				.model-name ul li{
+					a{
+					}
+				}
+				.model-name a.more{
+					font-size: 12px;
+					color:#333333 !important;
+				}
+			}
+
+			@import "../build-base/pagenation.scss";
+		}
+		.ad{
+			img{
+				margin-top: 0;
+			}
+		}
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}
