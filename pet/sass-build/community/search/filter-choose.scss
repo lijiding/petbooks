@@ -38,7 +38,7 @@
 							content:'';
 							width: 10px;
 							height: 10px;
-							background-image: url('../img/close-normal.png');
+							background-image: url('../../../img/close-normal.png');
 							background-size: contain;
 							background-repeat: no-repeat;
 							position: absolute;
@@ -47,7 +47,7 @@
 						&:hover{
 							border:1px solid $themecolor;
 							&::before{
-								background-image: url('../img/close.png');
+								background-image: url('../../../img/close.png');
 							}
 						}
 					}
