@@ -1,5 +1,5 @@
-@import url(../../../css/font-awesome-4.7.0/css/font-awesome.min.css);
-@import url(../../normalize.css);
+@import url(../../css/font-awesome-4.7.0/css/font-awesome.min.css);
+@import url(../normalize.css);
 * {
   box-sizing: border-box;
   margin: 0;
@@ -272,163 +272,90 @@ html body .search {
         color: #fff;
         background-color: #ff5500;
         border: 1px solid #ff5500; }
-html body .section .search-choose {
-  width: 1190px;
-  margin: 0 auto;
-  margin-top: 10px; }
-  html body .section .search-choose .use-filter {
-    text-align: right;
-    margin-bottom: 10px; }
-    html body .section .search-choose .use-filter a {
-      display: inline-block;
-      width: 100px;
-      height: 30px;
-      line-height: 30px;
-      background-color: #fff;
-      color: #000;
-      border-radius: 3px;
-      text-align: center; }
-  html body .section .search-choose .filter-detail {
-    background-color: #fff;
-    color: #666;
-    font-size: 14px;
-    line-height: 20px; }
-    html body .section .search-choose .filter-detail .filter-class {
-      padding: 12px 0 12px 0px;
-      border-top: 1px solid #e6e6e6; }
-      html body .section .search-choose .filter-detail .filter-class.filtered {
-        border: none; }
-        html body .section .search-choose .filter-detail .filter-class.filtered .filter-title {
-          color: #666; }
-        html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a {
-          position: relative;
-          border: 1px solid #808080;
-          border-radius: 3px; }
-          html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a::before {
-            content: '';
-            width: 10px;
-            height: 10px;
-            background-image: url("../../../img/close-normal.png");
-            background-size: contain;
-            background-repeat: no-repeat;
-            position: absolute;
-            top: 5px;
-            right: 4px; }
-          html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a:hover {
-            border: 1px solid #ff5500; }
-            html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a:hover::before {
-              background-image: url("../../../img/close.png"); }
-      html body .section .search-choose .filter-detail .filter-class .filter-title {
-        width: 64px;
-        text-align: center;
-        color: #ff5500;
-        position: relative;
-        line-height: 30px; }
-        html body .section .search-choose .filter-detail .filter-class .filter-title::before {
-          content: '';
-          display: block;
-          width: 2px;
-          height: 10px;
-          background-color: #666;
-          position: absolute;
-          top: 10px;
-          right: 0; }
-      html body .section .search-choose .filter-detail .filter-class .filter-item a {
-        display: inline-block;
-        padding: 0px 16px 0px 4px;
-        margin: 5px 0px 5px 20px;
-        color: #666; }
-      html body .section .search-choose .filter-detail .filter-class .hide-more {
-        width: 80px;
-        padding-left: 20px;
-        color: #ff5500; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more a {
-          color: #ff5500; }
-          html body .section .search-choose .filter-detail .filter-class .hide-more a:hover {
-            color: #666; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more .fa-angle-up {
-          display: none; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more.hiding a {
-          color: #666; }
-          html body .section .search-choose .filter-detail .filter-class .hide-more.hiding a:hover {
-            color: #ff5500; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more.hiding .fa-angle-down {
-          display: none; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more.hiding .fa-angle-up {
-          display: inline-block; }
-html body .section.models {
-  background-color: #e6e6e6; }
-  html body .section.models .model {
+html body .section .activity {
+  padding-top: 10px; }
+  html body .section .activity ul {
     width: 1190px;
     margin: 0 auto; }
-    html body .section.models .model .model-name {
-      height: 56px;
-      padding: 20px 0 10px 0; }
-      html body .section.models .model .model-name .model-name-title {
-        position: relative;
-        display: block;
-        color: #000;
-        font-size: 16px;
+    html body .section .activity ul li.activity-item {
+      border-radius: 5px;
+      overflow: hidden;
+      position: relative;
+      margin-bottom: 10px; }
+      html body .section .activity ul li.activity-item .activity-tag {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100px;
+        height: 30px;
+        color: #fff;
+        text-align: center;
+        line-height: 30px;
+        background-color: rgba(0, 0, 0, 0.43);
+        font-size: 16px; }
+        html body .section .activity ul li.activity-item .activity-tag.offline {
+          color: #fff;
+          background-color: #ff5500; }
+      html body .section .activity ul li.activity-item .activity-banner {
+        width: 730px;
+        float: left; }
+        html body .section .activity ul li.activity-item .activity-banner img {
+          width: 100%; }
+      html body .section .activity ul li.activity-item .activity-desc {
+        height: 340px;
+        width: 460px;
         float: left;
-        margin: 0 10px 0 0;
-        width: 60px;
-        padding-left: 20px;
-        text-align: center; }
-        html body .section.models .model .model-name .model-name-title::before {
-          content: '';
-          display: block;
-          position: absolute;
-          left: 0;
-          top: 0;
-          bottom: 0;
-          width: 3px;
-          height: 100%;
-          background: #ff5500; }
-      html body .section.models .model .model-name ul {
-        float: left;
-        display: flex;
-        list-style: none; }
-        html body .section.models .model .model-name ul li {
-          display: inline-block;
-          font-size: 14px;
-          color: #b3b3b3;
-          margin-left: 15px;
-          line-height: 18px; }
-      html body .section.models .model .model-name a {
-        color: #808080; }
-        html body .section.models .model .model-name a.more {
-          color: #ff5500; }
-          html body .section.models .model .model-name a.more span {
-            position: relative;
-            top: -1px; }
-    html body .section.models .model .models-list {
-      font-size: 0;
-      margin-left: -10px; }
-      html body .section.models .model .models-list .model-item {
-        display: inline-block;
-        width: 230px;
-        border-radius: 4px;
-        overflow: hidden;
         font-size: 12px;
-        margin: 0 0 10px 10px;
+        position: relative;
+        line-height: 35px;
+        padding-left: 20px;
+        padding-top: 25px;
         background-color: #fff;
-        color: #333; }
-        html body .section.models .model .models-list .model-item p {
-          overflow: hidden;
-          white-space: nowrap;
-          text-overflow: ellipsis;
-          margin: 10px 0;
-          text-indent: 10px; }
-        html body .section.models .model .models-list .model-item .model-action {
-          padding: 0 10px;
-          margin-bottom: 10px; }
-          html body .section.models .model .models-list .model-item .model-action .focus img {
-            vertical-align: middle; }
-          html body .section.models .model .models-list .model-item .model-action img {
-            vertical-align: middle; }
-html body .section .model .model-name a.more {
-  font-size: 12px;
-  color: #333333 !important; }
+        border-bottom-right-radius: 5px; }
+        html body .section .activity ul li.activity-item .activity-desc .out-time {
+          position: absolute;
+          top: 25px;
+          right: 0;
+          padding-left: 10px;
+          width: 135px;
+          background-color: #ff5500;
+          color: #fff;
+          font-size: 14px;
+          line-height: 32px; }
+          html body .section .activity ul li.activity-item .activity-desc .out-time::before, html body .section .activity ul li.activity-item .activity-desc .out-time::after {
+            position: absolute;
+            top: 0;
+            left: -16px;
+            content: '';
+            display: block;
+            width: 0;
+            height: 0;
+            border-width: 8px;
+            border-style: solid;
+            border-color: #ff5500 #ff5500 transparent transparent; }
+          html body .section .activity ul li.activity-item .activity-desc .out-time::after {
+            top: 16px;
+            border-color: transparent #ff5500 #ff5500 transparent; }
+        html body .section .activity ul li.activity-item .activity-desc .activity-title {
+          font-size: 16px;
+          font-weight: bold; }
+        html body .section .activity ul li.activity-item .activity-desc .activity-city {
+          color: #ff5500; }
+        html body .section .activity ul li.activity-item .activity-desc .activity-hot-info {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          height: 58px;
+          border-top: 1px solid #e6e6e6;
+          padding-top: 10px; }
+          html body .section .activity ul li.activity-item .activity-desc .activity-hot-info .publish-time {
+            float: left;
+            width: 240px;
+            padding-left: 20px; }
+            html body .section .activity ul li.activity-item .activity-desc .activity-hot-info .publish-time img {
+              position: relative;
+              top: 2px; }
 html body .section .pagenation {
   height: 40px;
   width: 760px;
@@ -501,4 +428,4 @@ html body .ad img {
 html body footer {
   background-color: #333; }
 
-/*# sourceMappingURL=search.css.map */
+/*# sourceMappingURL=activity.css.map */
