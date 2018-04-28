@@ -42,7 +42,7 @@
 			margin-bottom: 20px;
 			text-align:left;
 			color:#333;
-			padding: 10px 0;
+			padding: 0px 0 10px 0;
 			.classes{
 				.class{
 					border-bottom:1px solid #e6e6e6;
@@ -52,8 +52,9 @@
 					.class-title{
 						font-size: 16px;
 						position: relative;
-						line-height: 30px;
+						line-height: 35px;
 						padding-left: 20px;
+						margin-top: 5px;
 						&.active{
 							color:$themecolor;
 							&::before{
@@ -73,7 +74,7 @@
 						padding-left: 30px;
 						.class-item{
 							font-size: 14px;
-							line-height: 35px;
+							line-height: 30px;
 							.fa{
 								margin-right: 10px;
 							}
@@ -146,7 +147,8 @@
 		}
 		.save-basic{
 			display: block;
-			margin: 20px auto;
+			margin: 30px auto;
+			width: 60px;
 		}
 		.contact{
 			.info-tips{
