@@ -1,5 +1,5 @@
-@import url(../../../css/font-awesome-4.7.0/css/font-awesome.min.css);
-@import url(../../normalize.css);
+@import url(../../css/font-awesome-4.7.0/css/font-awesome.min.css);
+@import url(../normalize.css);
 * {
   box-sizing: border-box;
   margin: 0;
@@ -272,90 +272,30 @@ html body .search {
         color: #fff;
         background-color: #ff5500;
         border: 1px solid #ff5500; }
-html body .section .search-choose {
-  width: 1190px;
-  margin: 0 auto;
-  margin-top: 10px; }
-  html body .section .search-choose .use-filter {
-    text-align: right;
-    margin-bottom: 10px; }
-    html body .section .search-choose .use-filter a {
-      display: inline-block;
-      width: 100px;
-      height: 30px;
-      line-height: 30px;
-      background-color: #fff;
-      color: #000;
-      border-radius: 3px;
-      text-align: center; }
-  html body .section .search-choose .filter-detail {
-    background-color: #fff;
-    color: #666;
-    font-size: 14px;
-    line-height: 20px; }
-    html body .section .search-choose .filter-detail .filter-class {
-      padding: 12px 0 12px 0px;
-      border-top: 1px solid #e6e6e6; }
-      html body .section .search-choose .filter-detail .filter-class.filtered {
-        border: none; }
-        html body .section .search-choose .filter-detail .filter-class.filtered .filter-title {
-          color: #666; }
-        html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a {
-          position: relative;
-          border: 1px solid #808080;
-          border-radius: 3px; }
-          html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a::before {
-            content: '';
-            width: 10px;
-            height: 10px;
-            background-image: url("../../../img/close-normal.png");
-            background-size: contain;
-            background-repeat: no-repeat;
-            position: absolute;
-            top: 5px;
-            right: 4px; }
-          html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a:hover {
-            border: 1px solid #ff5500; }
-            html body .section .search-choose .filter-detail .filter-class.filtered .filter-item a:hover::before {
-              background-image: url("../../../img/close.png"); }
-      html body .section .search-choose .filter-detail .filter-class .filter-title {
-        width: 64px;
-        text-align: center;
-        color: #ff5500;
-        position: relative;
-        line-height: 30px; }
-        html body .section .search-choose .filter-detail .filter-class .filter-title::before {
-          content: '';
-          display: block;
-          width: 2px;
-          height: 10px;
-          background-color: #666;
-          position: absolute;
-          top: 10px;
-          right: 0; }
-      html body .section .search-choose .filter-detail .filter-class .filter-item a {
-        display: inline-block;
-        padding: 0px 16px 0px 4px;
-        margin: 5px 0px 5px 20px;
-        color: #666; }
-      html body .section .search-choose .filter-detail .filter-class .hide-more {
-        width: 80px;
-        padding-left: 20px;
-        color: #ff5500; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more a {
-          color: #ff5500; }
-          html body .section .search-choose .filter-detail .filter-class .hide-more a:hover {
-            color: #666; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more .fa-angle-up {
-          display: none; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more.hiding a {
-          color: #666; }
-          html body .section .search-choose .filter-detail .filter-class .hide-more.hiding a:hover {
-            color: #ff5500; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more.hiding .fa-angle-down {
-          display: none; }
-        html body .section .search-choose .filter-detail .filter-class .hide-more.hiding .fa-angle-up {
-          display: inline-block; }
+html body .section.banner {
+  position: relative;
+  min-height: 400px; }
+  html body .section.banner .community-banner .swiper-slide img {
+    display: block;
+    width: 100%;
+    position: relative;
+    height: 400px;
+    width: 1920px; }
+  html body .section.banner .swiper-pagination {
+    position: absolute;
+    bottom: 20px;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+    text-align: center; }
+    html body .section.banner .swiper-pagination span.swiper-pagination-bullet {
+      width: 14px;
+      height: 14px;
+      background: #fff;
+      opacity: 1;
+      margin-left: 15px; }
+    html body .section.banner .swiper-pagination span.swiper-pagination-bullet-active {
+      background: #ff5500; }
 html body .section.models {
   background-color: #e6e6e6; }
   html body .section.models .model {
@@ -426,79 +366,7 @@ html body .section.models {
             vertical-align: middle; }
           html body .section.models .model .models-list .model-item .model-action img {
             vertical-align: middle; }
-html body .section .model .model-name a.more {
-  font-size: 12px;
-  color: #333333 !important; }
-html body .section .pagenation {
-  height: 40px;
-  width: 760px;
-  margin: 20px auto; }
-  html body .section .pagenation .pagenation-btn-box {
-    width: 560px;
-    position: relative;
-    line-height: 38px;
-    padding: 0 80px;
-    float: left; }
-    html body .section .pagenation .pagenation-btn-box .pagenation-btn {
-      border: 1px solid #b3b3b3;
-      border-radius: 3px;
-      font-size: 14px;
-      text-align: center;
-      color: #808080;
-      margin: 0 5px;
-      background-color: #fff;
-      cursor: pointer; }
-      html body .section .pagenation .pagenation-btn-box .pagenation-btn.disable {
-        color: #ccc;
-        border: 1px solid #ccc; }
-      html body .section .pagenation .pagenation-btn-box .pagenation-btn.active {
-        color: #fff;
-        background-color: #ff5500;
-        border: 1px solid #ff5500; }
-    html body .section .pagenation .pagenation-btn-box.first .pre {
-      color: #ccc;
-      border: 1px solid #ccc; }
-    html body .section .pagenation .pagenation-btn-box.last .next {
-      color: #ccc;
-      border: 1px solid #ccc; }
-    html body .section .pagenation .pagenation-btn-box .pre, html body .section .pagenation .pagenation-btn-box .next {
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: 70px; }
-    html body .section .pagenation .pagenation-btn-box .next {
-      left: auto;
-      right: 0; }
-  html body .section .pagenation .flex-item {
-    max-width: 40px; }
-  html body .section .pagenation .pagenation-jump {
-    float: right;
-    color: #808080;
-    line-height: 38px;
-    font-size: 12px; }
-    html body .section .pagenation .pagenation-jump .all-page {
-      float: left; }
-    html body .section .pagenation .pagenation-jump input {
-      border: 1px solid #b3b3b3;
-      width: 28px;
-      height: 20px;
-      padding: 2px;
-      color: #808080;
-      text-align: center;
-      border-radius: 3px; }
-    html body .section .pagenation .pagenation-jump button {
-      border: 1px solid #b3b3b3;
-      width: 40px;
-      height: 20px;
-      padding: 2px;
-      color: #808080;
-      text-align: center;
-      border-radius: 3px;
-      outline: none;
-      cursor: pointer; }
-html body .ad img {
-  margin-top: 0; }
 html body footer {
   background-color: #333; }
 
-/*# sourceMappingURL=search.css.map */
+/*# sourceMappingURL=pet-community.css.map */

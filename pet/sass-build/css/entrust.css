@@ -1,5 +1,5 @@
-@import url(../../../css/font-awesome-4.7.0/css/font-awesome.min.css);
-@import url(../../normalize.css);
+@import url(../../css/font-awesome-4.7.0/css/font-awesome.min.css);
+@import url(../normalize.css);
 * {
   box-sizing: border-box;
   margin: 0;
@@ -272,113 +272,47 @@ html body .search {
         color: #fff;
         background-color: #ff5500;
         border: 1px solid #ff5500; }
-html body .usr-tips {
-  background-color: #fff; }
-  html body .usr-tips .usr-bg {
-    width: 100%; }
-    html body .usr-tips .usr-bg img {
-      display: block;
-      width: 1920px;
-      height: 400px;
-      position: relative;
-      left: 50%;
-      margin-left: -960px; }
-  html body .usr-tips .usr-info {
-    width: 1190px;
-    margin: 0 auto;
-    position: relative;
-    font-size: 0; }
-    html body .usr-tips .usr-info .integrals {
-      position: absolute;
-      left: 0;
-      right: 0;
-      top: -70px;
-      height: 70px;
-      padding-top: 10px;
-      color: #fff; }
-      html body .usr-tips .usr-info .integrals .integral-group {
-        width: 50%;
-        padding-right: 57px;
-        float: left;
-        overflow: hidden; }
-        html body .usr-tips .usr-info .integrals .integral-group .integral {
-          width: 257px;
-          float: left;
-          font-size: 20px;
-          text-align: center; }
-          html body .usr-tips .usr-info .integrals .integral-group .integral div {
-            font-size: 16px;
-            line-height: 20px; }
-        html body .usr-tips .usr-info .integrals .integral-group:last-child {
-          padding-right: 0;
-          padding-left: 57px; }
-    html body .usr-tips .usr-info .usr-desc {
-      text-align: center;
-      font-size: 14px;
-      padding-top: 80px; }
-      html body .usr-tips .usr-info .usr-desc .usr-logo {
-        position: absolute;
-        top: -70px;
-        left: 50%;
-        margin-left: -70px;
-        width: 140px;
-        height: 140px; }
-        html body .usr-tips .usr-info .usr-desc .usr-logo img {
-          width: 140px;
-          height: 140px;
-          border-radius: 50%;
-          border: 10px solid #fff; }
-      html body .usr-tips .usr-info .usr-desc .usr-name {
-        font-size: 18px;
-        color: #ff5500; }
-      html body .usr-tips .usr-info .usr-desc .usr-skills {
-        color: #999999;
-        font-size: 12px;
-        line-height: 26px; }
-      html body .usr-tips .usr-info .usr-desc .usr-desc-text {
-        line-height: 26px;
-        color: #4d4d4d; }
-html body .entrust-lose {
+html body .section .entrust-lose {
   width: 1190px;
   margin: 0 auto; }
-  html body .entrust-lose .entrust-lose-list {
+  html body .section .entrust-lose .entrust-lose-list {
     float: left; }
-    html body .entrust-lose .entrust-lose-list .entrust-lose-item {
+    html body .section .entrust-lose .entrust-lose-list .entrust-lose-item {
       width: 880px;
       padding: 10px;
       border-radius: 5px;
       background-color: #fff;
       height: 200px;
       margin-bottom: 10px; }
-      html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-pet-log {
+      html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-pet-log {
         float: left;
         width: 270px;
         height: 180px; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-pet-log img {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-pet-log img {
           display: block;
           width: 100%;
           height: 100%; }
-      html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc {
+      html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc {
         float: left;
         width: 587px;
         font-size: 14px;
         padding-left: 20px;
         color: #1a1a1a;
         line-height: 26px; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-name .loaction-city img {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-name .loaction-city img {
           position: relative;
           top: 3px;
           margin: 0 5px 0 15px; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-kind .age {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-kind .age {
           margin-left: 30px; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-medicine, html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-desc, html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-medicine, html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-desc, html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details {
           font-size: 12px; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-desc {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-desc {
           line-height: 14px; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details {
           margin: 10px 0;
           text-align: right; }
-          html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details a {
+          html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details a {
             display: inline-block;
             background-color: #ff5500;
             border: 1px solid #ff5500;
@@ -389,36 +323,36 @@ html body .entrust-lose {
             text-align: center;
             border-radius: 3px;
             margin: 0; }
-        html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action {
+        html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action {
           width: 300px; }
-          html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action img {
+          html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action img {
             position: relative;
             top: 2px; }
-          html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .placeholder {
+          html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .placeholder {
             margin-right: 20px; }
-          html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .flex-item {
+          html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .flex-item {
             text-align: center; }
-  html body .entrust-lose .guess-like {
+  html body .section .entrust-lose .guess-like {
     float: left;
     padding-left: 10px;
     color: #4c4c4c; }
-    html body .entrust-lose .guess-like .title {
+    html body .section .entrust-lose .guess-like .title {
       margin-bottom: 10px;
       background-color: #fff;
       border-radius: 5px;
       line-height: 40px;
       font-size: 16px;
       padding-left: 20px; }
-    html body .entrust-lose .guess-like .guess-list {
+    html body .section .entrust-lose .guess-like .guess-list {
       font-size: 14px; }
-      html body .entrust-lose .guess-like .guess-list .guess-item {
+      html body .section .entrust-lose .guess-like .guess-list .guess-item {
         position: relative;
         border-radius: 5px;
         overflow: hidden;
         margin-bottom: 10px; }
-        html body .entrust-lose .guess-like .guess-list .guess-item .pet-image {
+        html body .section .entrust-lose .guess-like .guess-list .guess-item .pet-image {
           display: block; }
-        html body .entrust-lose .guess-like .guess-list .guess-item .guess-desc {
+        html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc {
           position: absolute;
           bottom: 0;
           left: 0;
@@ -427,13 +361,13 @@ html body .entrust-lose {
           height: 40px;
           line-height: 40px;
           padding: 0 10px; }
-          html body .entrust-lose .guess-like .guess-list .guess-item .guess-desc .fire {
+          html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc .fire {
             float: right; }
-            html body .entrust-lose .guess-like .guess-list .guess-item .guess-desc .fire img {
+            html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc .fire img {
               position: relative;
               top: 8px;
               margin-right: 10px; }
-        html body .entrust-lose .guess-like .guess-list .guess-item:hover .guess-desc {
+        html body .section .entrust-lose .guess-like .guess-list .guess-item:hover .guess-desc {
           background-color: #ff5500;
           color: #fff;
           opacity: 0.7; }
@@ -504,87 +438,7 @@ html body .section .pagenation {
       border-radius: 3px;
       outline: none;
       cursor: pointer; }
-html body .usr-own-man {
-  font-size: 16px;
-  line-height: 26px;
-  margin-bottom: 10px;
-  background-color: #fff; }
-  html body .usr-own-man .usr-own-box {
-    width: 1190px;
-    margin: 0 auto; }
-    html body .usr-own-man .usr-own-box .usr-own {
-      line-height: 50px;
-      width: 900px;
-      text-align: center; }
-      html body .usr-own-man .usr-own-box .usr-own a {
-        display: inline-block;
-        margin: 0 18px; }
-        html body .usr-own-man .usr-own-box .usr-own a.active {
-          color: #ff5500;
-          position: relative; }
-          html body .usr-own-man .usr-own-box .usr-own a.active::before {
-            content: '';
-            display: block;
-            position: absolute;
-            bottom: 10px;
-            width: 100%;
-            height: 1px;
-            background-color: #ff5500; }
-          html body .usr-own-man .usr-own-box .usr-own a.active::after {
-            content: '';
-            display: block;
-            position: absolute;
-            bottom: 2px;
-            left: 50%;
-            margin-left: -4px;
-            width: 0;
-            height: 0;
-            border-style: solid;
-            border-width: 4px;
-            border-color: #ff5500 transparent transparent transparent; }
-html body .pet-title {
-  color: #ff5500;
-  font-size: 18px;
-  line-height: 40px; }
-html body .pet-desc {
-  height: 80px;
-  text-align: justiyf;
-  margin-bottom: 30px; }
-html body .entrust-lose .entrust-lose-list {
-  padding: 10px 10px 0 10px;
-  background-color: #fff;
-  border-radius: 5px;
-  overflow: hidden; }
-html body .entrust-lose .entrust-lose-list .entrust-lose-item {
-  padding: 0 !important;
-  height: 195px !important; }
-html body .entrust-lose .entrust-lose-list li {
-  padding: 0 !important;
-  border-radius: 0 !important;
-  position: relative;
-  margin-bottom: 15px !important; }
-  html body .entrust-lose .entrust-lose-list li::before {
-    content: '';
-    display: block;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    height: 1px;
-    background-color: #e6e6e6; }
-  html body .entrust-lose .entrust-lose-list li:last-child {
-    margin-bottom: 0 !important; }
-    html body .entrust-lose .entrust-lose-list li:last-child::before {
-      display: none;
-      margin-bottom: 0 !important; }
-    html body .entrust-lose .entrust-lose-list li:last-child .entrust-lose-item {
-      margin-bottom: 0 !important; }
-html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action {
-  width: auto !important; }
-html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .placeholder {
-  width: 350px !important; }
 html body footer {
   background-color: #333; }
 
-/*# sourceMappingURL=usr.css.map */
+/*# sourceMappingURL=entrust.css.map */
