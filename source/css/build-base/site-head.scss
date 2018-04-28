@@ -6,12 +6,61 @@
 	background-color: $topheadbackgound;
 	.place-select{
 		float: left;
+		position: relative;
 		img{
 			position: relative;
 			top: 5px;
 		}
 		.fa{
 			font-size: 20px;
+		}
+		.location-all{
+			position: absolute;
+			top: 38px;left: 0;
+			background-color: #fff;
+			width: 220px;
+			z-index:10;
+			border:1px solid #e6e6e6;
+			border-top:none;
+			font-size: 12px;
+			.location.selected{
+				padding: 0 10px;
+				border-bottom:1px solid #e6e6e6;
+				position: relative;
+				span{
+					color:$themecolor;
+					border:1px solid #e6e6e6;
+					border-bottom:1px solid #fff;
+					padding: 4px 8px;
+					position: relative;
+					top: 7px;
+					z-index:11;
+					cursor:pointer;
+				}
+				.cancle-change-city{
+					position: absolute;
+					right: 10px;top: 10px;
+					color:$themecolor;
+					font-size: 16px;
+					cursor:pointer;
+				}
+				&.second{
+					span{
+						&:first-child{
+							border-bottom:none;
+						}
+					}
+				}
+			}
+			.location.items{
+				padding: 0 10px;
+				span{
+					cursor:pointer;
+					display: inline-block;
+					padding: 4px 10px;
+				}
+
+			}
 		}
 	}
 	.nav-site{
