@@ -1,0 +1,8 @@
+.ad{
+	display: block;
+	width: 100%;
+	@include manwidth();
+	img{
+		margin: 20px 0 30px 0;
+	}
+}
