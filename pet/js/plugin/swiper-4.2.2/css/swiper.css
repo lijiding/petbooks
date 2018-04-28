@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .swiper-container {
   margin: 0 auto;
   position: relative;
@@ -127,3 +128,13 @@
   -ms-touch-action: pan-x;
       touch-action: pan-x;
 }
+=======
+@import url('./less/mixins.less');
+
+@themeColor: $themeColor;
+@colors: $colors;
+
+@import url('./components/core/core.less');
+
+//IMPORT_COMPONENTS
+>>>>>>> dev
