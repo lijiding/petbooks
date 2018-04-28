@@ -7,22 +7,32 @@
 	.place-select{
 		float: left;
 		position: relative;
+		padding-right: 4px;
+		padding-left: 4px;
+		user-select: none;
+
 		img{
 			position: relative;
 			top: 5px;
 		}
 		.fa{
-			font-size: 20px;
+			font-size: 10px;
+			margin-left: 2px;
+			display: inline-block;
+			position: relative;
+			top: -3px;
 		}
 		.location-all{
+			display: none;
 			position: absolute;
-			top: 38px;left: 0;
+			top: 38px;left: -1px;
 			background-color: #fff;
 			width: 220px;
 			z-index:10;
 			border:1px solid #e6e6e6;
 			border-top:none;
 			font-size: 12px;
+			user-select:none;
 			.location.selected{
 				padding: 0 10px;
 				border-bottom:1px solid #e6e6e6;
@@ -60,6 +70,16 @@
 					padding: 4px 10px;
 				}
 
+			}
+		}
+		&.selecting{
+			background-color: #fff;
+			.location-all{
+				display: block;
+			}
+			.fa-sort-desc{
+				transform:rotate(180deg);
+				color:$themecolor;
 			}
 		}
 	}
