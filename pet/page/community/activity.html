@@ -4,21 +4,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-    <!-- swiper  -->
-    <link rel="stylesheet" href="../../js/swiper-4.2.2/dist/css/swiper.min.css">
     <link rel="stylesheet" href="../../css/community/activity.css">
     <title>社区活动</title>
 </head>
 
 <body>
     <header>
-        <div class="place-select">
+        <div class="place-select ">
             <!-- <i class="fa fa-map-marker themecolor"></i> -->
             <img src="../../img/site-head/city.png" alt="">
-            <select name="city" id="city" class="fz14">
-                <option value="bj">北京</option>
-                <option value="tj">天津</option>
-            </select>
+            <span class="city">北京<i class="fa fa-sort-desc"></i></span>
+            <div class="location-all">
+                <div class="location selected second">
+                    <span>北京</span>
+                    <span>朝阳</span>
+                    <i class="fa fa-close cancle-change-city"></i>
+                </div>
+                <div class="location items">
+                    <span> 北京</span>
+                    <span> 上海</span>
+                    <span> 广州</span>
+                    <span> 内蒙</span>
+                    <span> 重庆</span>
+                    <span> 西安</span>
+                    <span> 新疆</span>
+                    <span> 西藏</span>
+                    <span> 云南</span>
+                    <span> 重庆</span>
+                    <span> 四川</span>
+                    <span> 四川</span>
+                </div>
+            </div>
         </div>
         <ul class="nav-site fz16">
             <li> <a href="javascript:;" class="themecolor">社区</a></li>
@@ -276,8 +292,10 @@
         </div>
     </footer>
     <!-- local -->
-    <script src="../../js/jquery-2.1.4.min.js"></script>
+    <script src="../../js/plugin/jquery-2.1.4.min.js"></script>
     <!-- online pulgin -->
+    <script src="../../js/normal.js"/></script>
+    
 </body>
 
 </html>
