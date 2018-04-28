@@ -1,0 +1,51 @@
+@mixin site-head() {
+	@include manwidth();
+	height: 38px;
+	line-height: 38px;
+	color:$headtextcolor;
+	background-color: $topheadbackgound;
+	.place-select{
+		float: left;
+		img{
+			position: relative;
+			top: 5px;
+		}
+		.fa{
+			font-size: 20px;
+		}
+	}
+	.nav-site{
+		display:flex;
+		float: left;
+		list-style:none;
+		li{
+			margin-left: 18px;
+			a{
+				color:$headtextcolor;
+				text-decoration:none;
+				&.themecolor{
+					color:$themecolor;
+				}
+			}
+		}
+	}
+	.usr-help{
+		width: 310px;
+		font-size: 0;
+		.usr{
+			float: left;
+			font-size: 12px;
+			img{
+				position: relative;
+				top: 3px;
+			}
+		}
+		.help{
+			font-size: 12px;
+
+			a{
+				margin-left: 24px;
+			}
+		}
+	}
+}
