@@ -1,10 +1,2 @@
-.DS_Store
-gulpfile.js
-node_modules/
-package-lock.json
-package.json
-pet/.codekit-cache
-.sass-cache
-config.codekit
-config.codekit3
-config.codekit.codekit3
+*
+!.gitignore
