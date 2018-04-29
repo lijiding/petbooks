@@ -1,1 +1,0 @@
-$(".serach-input").focusout(function(){""===$(this).val()?$(this).next("span").show():$(this).next("span").hide()});
