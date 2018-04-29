@@ -142,38 +142,6 @@
 		"oAP": "\/pet\/design\/community\/9社区我的帖子.psd",
 		"oF": 1
 		},
-	"\/gulpfile.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/pet\/gulpfile.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/node_modules": {
-		"ft": 65536,
-		"oA": 2,
-		"oAP": "\/pet\/node_modules",
-		"oF": 0
-		},
-	"\/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pet\/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pet\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/pet": {
 		"ft": 65536,
 		"oA": 1,
@@ -1099,7 +1067,7 @@
 		"oAP": "\/pet\/img\/activity\/activity.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1110,7 +1078,7 @@
 		"oAP": "\/pet\/img\/activity\/clock.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1154,7 +1122,7 @@
 		"oAP": "\/pet\/img\/banner\/banner1.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1176,7 +1144,7 @@
 		"oAP": "\/pet\/img\/close.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1231,7 +1199,7 @@
 		"oAP": "\/pet\/img\/entrust-lose\/pet.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1275,7 +1243,7 @@
 		"oAP": "\/pet\/img\/model\/Eye.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1308,7 +1276,7 @@
 		"oAP": "\/pet\/img\/share.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1319,7 +1287,7 @@
 		"oAP": "\/pet\/img\/site-head\/city.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1330,7 +1298,7 @@
 		"oAP": "\/pet\/img\/site-head\/usr-login.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1341,7 +1309,7 @@
 		"oAP": "\/pet\/img\/usr\/usr-bg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3661,7 +3629,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-girlfriend",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 546610062
+	"lastBuiltDate": 546689824
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
