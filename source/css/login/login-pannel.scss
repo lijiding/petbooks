@@ -1,0 +1,194 @@
+$bordercolor:#e6e6e6;
+.login-pannel{
+	a{
+		user-select:none;
+	}
+	.tabs{
+		height: 50px;
+		font-size: 20px;
+		border-bottom:1px solid $bordercolor;
+		&::before{
+			content:'';
+			display: block;
+			position: absolute;
+			left: 50%;
+			top: 10px;
+			height: 30px;
+			width: 1px;
+			background-color: $bordercolor;
+		}
+		.tab{
+			float: left;
+			width: 50%;
+			text-align:center;
+			user-select:none;
+			span{ position: relative; line-height: 49px;display: inline-block;cursor:pointer;}
+			&.active{
+				color:$themecolor;
+				span::before{
+					content:'';
+					display: block;
+					position: absolute;
+					bottom: 0px;
+					left: 4px;
+					right:4px;
+					height: 2px;
+					background-color: $themecolor;
+				}
+			}
+		}
+	}
+	.panels{
+		font-size: 14px;
+		.sigin{
+			padding: 0px 20px 0px 20px;
+			.sigin-notice{
+				text-indent:10px;
+				line-height: 24px;
+				color:#333;
+				background-color: #ffeeee;
+				border:1px solid #ff3535;
+				margin: 6px 0 8px 0;
+				img{
+					margin-right: 10px;
+				}
+			}
+			.sigin-info{
+				height: 120px;
+				.sigin-box{
+					line-height: 34px;
+					position: relative;
+					border:1px solid $bordercolor;
+					margin: 8px 0;
+					input{
+						width: 100%;
+						text-indent:30px;
+						border:none;
+					}
+					span{
+						position: absolute;
+						left: 10px;
+						top: 10px;
+
+
+					}
+					&.sigin-pw{
+						margin-top: 20px;
+					}
+					.verify-code{
+						position: absolute;
+						font-size: 12px;
+						display: none;
+						right: 0;
+						top: 0;
+						line-height: 36px;
+						background-color: #f2f2f2;
+						border-left:1px solid $bordercolor;
+						width: 100px;
+						text-align:center;
+					}
+				}
+				.verfiy-code-notice{
+					display: none;
+					color: #808080;
+				}
+				&.phone{
+					.verify-code{
+						display: block;
+					}
+					.verfiy-code-notice{
+						display: block;
+						font-size: 12px;
+
+					}
+
+				}
+			}
+			.change-sigin-way{
+				font-size: 12px;
+				margin-top: 15px;
+				a{
+					img{
+						position: relative;
+						top: 5px;
+						display: inline-block;
+						margin-right: 10px;
+					}
+				}
+				.normal{
+					display: none;
+				}
+				.forget-pw{
+					float: right;
+					position: relative;
+					top: 10px;
+				}
+				&.phone{
+					.phone-sigin,.forget-pw{ display: none;}
+					.normal{display: inline-block; }
+				}
+
+			}
+			.sigin-btn{
+				.login-now{
+					width: 100%;
+					height: 40px;
+					margin: 0;
+					margin-top: 10px;
+					line-height: 40px;
+					font-size: 20px;
+				}
+			}
+			.third-sigin{
+				.third-sigin-notice{
+					margin-top: 20px;
+					text-align:center;
+					position: relative;
+					font-size: 12px;
+					color: #b3b3b3;
+					.text{
+						position: relative;
+						background-color: #fff;
+						display: inline-block;
+						padding: 0 8px;
+						z-index:10;
+
+					}
+					.ling-bg{
+						position: absolute;
+						left: 0;
+						right: 0;
+						top: 8px;
+						height: 1px;
+						background-color: $bordercolor;
+						width: 100%;
+
+					}
+				}
+				.third-sigin-btn{
+					text-align:center;
+					margin-top: 15px;
+					font-size: 0;
+					.third-sigin-link{
+						display: inline-block;
+						width: 50px;
+						height: 50px;
+						margin: 0 10px;
+						background-image: url('../../img/login/third-sigin.png');
+						background-position: 0 0;
+						background-repeat: no-repeat;
+						&.wx{
+							background-position: -72px 0;
+						}
+						&.wb{
+							background-position: -143px 0;
+						}
+					}
+
+				}
+			}
+			
+		}
+
+	}
+}
