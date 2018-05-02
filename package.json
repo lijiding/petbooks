@@ -9,7 +9,7 @@
     "bs-html-injector": "^3.0.3",
     "gulp": "^3.9.1",
     "gulp-uglify": "^3.0.0",
-    "pug":"^2.0.3",
+    "pug": "^2.0.3",
     "uglify": "^0.1.5"
   },
   "repository": {
