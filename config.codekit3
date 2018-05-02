@@ -3702,7 +3702,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 546960551
+	"lastBuiltDate": 546960837
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -5098,7 +5098,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
