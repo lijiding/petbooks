@@ -149,6 +149,12 @@
 		"oAP": "\/design\/community\/9社区我的帖子.psd",
 		"oF": 0
 		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/node_modules",
+		"oF": 1
+		},
 	"\/pet": {
 		"ft": 65536,
 		"oA": 1,
