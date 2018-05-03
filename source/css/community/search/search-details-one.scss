@@ -1,0 +1,35 @@
+@import "../../../css/font-awesome-4.7.0/css/font-awesome.min.css";
+@import "../../normalize.css";
+@import "../../build-base/build-base.scss";
+html{
+	body{
+		header{
+			@include site-head();
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+				@include site-search();
+			}
+		}
+		@import "./../entrust-detail-build.scss";
+		.search-box-par{
+			float: left;
+			.search-more-picture{
+				width: 290px;
+				margin-top: 10px;
+				border-radius:5px;
+				overflow:hidden;
+				margin-left: 10px;
+			}
+		}
+		.entrust-detail .entrust-detail-owner{
+			padding-bottom: 18px;
+			float:none;
+
+		}
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}
