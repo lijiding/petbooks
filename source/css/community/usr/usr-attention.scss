@@ -14,6 +14,57 @@ html{
 		}
 		@import "./usr-tips.scss";
 		@import "../../community/entrust-lose.scss";
+		.pet-list{
+			padding: 10px;
+			background-color: #fff;
+			float: left;
+			border-radius:5px;
+			padding-left: 0;
+			ul{
+				width: 880px;
+				font-size: 0;
+				.pet-item{
+					display: inline-block;
+					margin-bottom: 10px;
+					margin-left: 13px;
+					width: 280px;
+					border:1px solid #e6e6e6;
+					border-radius:5px;
+					font-size: 14px;
+					color:#4d4d4d;
+					&:hover{
+						border:1px solid $themecolor;
+					}
+					.pet-logo{
+						width: 278px;
+						height: 160px;
+					}
+					.pet-name-hot{
+						padding: 6px 20px ;
+						position: relative;
+						.hot{
+							position: absolute;
+							right: 10px;
+							top: -4px;
+							img{
+								position: relative;
+								top: 4px;
+							}
+						}
+					}
+					.attention-tips{
+						padding: 6px 20px ;
+						overflow:hidden;
+						white-space:nowrap;
+						text-overflow:ellipsis;
+						.fans{
+							text-align:right;
+						}
+					}
+				}
+			}
+
+		}
 		.section{
 			@import "../../build-base/pagenation.scss";
 		}
