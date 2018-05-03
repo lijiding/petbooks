@@ -94,7 +94,7 @@ $bordercolor:#e6e6e6;
 						display: none;
 						right: 0;
 						top: 0;
-						line-height: 36px;
+						line-height: 35px;
 						background-color: #f2f2f2;
 						border-left:1px solid $bordercolor;
 						width: 100px;
@@ -236,8 +236,8 @@ $bordercolor:#e6e6e6;
 					right: 0;
 					top: 0;
 					width: 100px;
-					height: 36px;
-					line-height: 36px;
+					height: 35px;
+					line-height: 35px;
 					border-left:1px solid $bordercolor;
 					background-color: #f2f2f2;
 					font-size: 12px;
@@ -264,7 +264,7 @@ $bordercolor:#e6e6e6;
 				margin-bottom: 10px;
 				input{
 					position: relative;
-					top: 3px;
+					top: 0px;
 				}
 			}
 			.sigin-up-btn{
