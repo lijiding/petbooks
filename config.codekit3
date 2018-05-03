@@ -242,6 +242,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/source\/css\/community\/activity-details.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/pet\/css\/community\/activity-details.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/source\/css\/community\/activity.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -3649,6 +3662,13 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/source\/page\/community\/activity-details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/activity-details.html",
+		"oF": 0
+		},
 	"\/source\/page\/community\/activity.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3779,7 +3799,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 547019324
+	"lastBuiltDate": 547023069
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
