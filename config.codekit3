@@ -170,6 +170,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/source\/css\/build-base\/model-mall.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/pet\/css\/build-base\/model-mall.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/source\/css\/build-base\/model.scss": {
 		"aP": 1,
 		"bl": 0,
