@@ -170,7 +170,7 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/source\/css\/build-base\/model-mall.scss": {
+	"\/source\/css\/build-base\/model-news.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -178,7 +178,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/pet\/css\/build-base\/model-mall.css",
+		"oAP": "\/pet\/css\/build-base\/model-news.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -1091,7 +1091,7 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/source\/css\/mall\/mall-index.scss": {
+	"\/source\/css\/news\/news-index.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -1099,7 +1099,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/pet\/css\/mall\/mall-index.css",
+		"oAP": "\/pet\/css\/news\/news-index.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -1364,6 +1364,28 @@
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/mall\/default.png": {
+		"ft": 32768,
+		"iS": 34559,
+		"oA": 0,
+		"oAP": "\/pet\/img\/mall\/default.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/mall\/service.png": {
+		"ft": 32768,
+		"iS": 47882,
+		"oA": 0,
+		"oAP": "\/pet\/img\/mall\/service.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3820,11 +3842,11 @@
 		"oAP": "\/pet\/page\/login\/login.html",
 		"oF": 1
 		},
-	"\/source\/page\/mall\/index.html": {
+	"\/source\/page\/news\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pet\/page\/mall\/index.html",
+		"oAP": "\/pet\/page\/news\/index.html",
 		"oF": 0
 		}
 	},
