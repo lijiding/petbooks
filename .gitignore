@@ -3,3 +3,8 @@ node_modules/
 package-lock.json
 pet/.codekit-cache
 .sass-cache
+source/
+gulpfile.js
+package.json
+config.codekit3
+branch dev
