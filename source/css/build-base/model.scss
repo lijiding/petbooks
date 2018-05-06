@@ -1,5 +1,5 @@
 
-&.models{
+.models{
 	background-color: $bodybackground;
 	.model{
 		@include manwidth();
@@ -13,7 +13,6 @@
 				font-size: 16px;
 				float: left;
 				margin: 0 10px 0 0;
-				width: 60px;
 				padding-left: 20px;
 				text-align:center;
 				&::before{

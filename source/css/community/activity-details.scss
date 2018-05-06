@@ -1,19 +1,14 @@
-@import "../../css/font-awesome-4.7.0/css/font-awesome.min.css";
-@import "../normalize.css";
-@import "../build-base/build-base.scss";
+@import "../build-base/site-config.scss";
 html{
 	body{
 		header{
-			@include site-head();
 		}
 		.search{
 			background-color: #fff;
 			.site-search{
-				@include site-search();
 			}
 		}
 
-		@import "./community-activity.scss";
 
 		// unliked model
 		.activity ul li.activity-item .activity-desc{
@@ -47,7 +42,6 @@ html{
 			 }
 		}
 		.more-activity{
-			@import "../build-base/model.scss";
 		}
 		.activity-model-name{
 			color:#333;
@@ -92,7 +86,6 @@ html{
 			}
 		}
 
-		@import "./entrust-detail-build.scss";
 		.entrust-detail {
 			.entrust-detail-about{
 				float: none;
@@ -167,7 +160,6 @@ html{
 			float:none;
 
 		}
-		@import "../build-base/pagenation.scss";
 		footer{
 			background-color: $footerbackground;
 		}

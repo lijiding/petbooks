@@ -6,10 +6,26 @@
 
 /* pet base modules */
 /* banner */
+/* banner for index page */
 @import "./build-base/banner.scss";
 /*  首页分类模块 */
 @import "./build-base/model.scss";
-/* banner for index page */
-/* */
-/* */
-/* */
+/* 分页 pagenation*/
+@import "./build-base/pagenation.scss";
+/* 社区活动模块 */
+@import "./community/community-activity.scss";
+/* 社区活动详情 评论模块*/
+@import "./community/comment-module.scss";
+
+
+/* new-invitation */
+@import "./community/invitation/usr-settin-invitation.scss";
+
+/* login */
+@import "./login/login-pannel.scss";
+
+/* login popup */
+@import "./login/login-popup.scss";
+
+/* entrust-lose */
+@import "./community/entrust-lose.scss";

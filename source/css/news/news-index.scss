@@ -1,22 +1,16 @@
-@import "../../css/font-awesome-4.7.0/css/font-awesome.min.css";
-@import "../normalize.css";
-@import "../build-base/build-base.scss";
+@import "../build-base/site-config.scss";
 html{
 	body{
 		header{
-			@include site-head();
+			
 		}
 		.search{
 			background-color: #fff;
 			.site-search{
-				@include site-search();
+				
 			}
 		}
 		.search .site-search .search-publish .publish input{font-size: 14px;}
-		.section{
-			@import "../build-base/banner.scss";
-			@import "../build-base/model-news.scss";
-		}
 		footer{
 			background-color: $footerbackground;
 		}

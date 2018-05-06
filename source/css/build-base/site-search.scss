@@ -1,4 +1,4 @@
-@mixin site-search() {
+.site-search {
 	@include manwidth();
 	height: 100px;
 	color:$darktext;

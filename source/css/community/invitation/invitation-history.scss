@@ -1,19 +1,13 @@
-@import "../../../css/font-awesome-4.7.0/css/font-awesome.min.css";
-@import "../../normalize.css";
-@import "../../build-base/build-base.scss";
+@import "../../build-base/site-config.scss";
 html{
     body{
         header{
-            @include site-head();
         }
         .search{
             background-color: #fff;
             .site-search{
-                @include site-search();
             }
         }
-        @import "../invitation/usr-settin-invitation.scss";
-        @import "../../build-base/pretty-select-input.scss";
         .usr-setting.invitation .right{
             background-color: transparent;
             padding-left: 10px;
@@ -109,7 +103,6 @@ html{
                 border-bottom:1px solid #cccaca;
             }
         }
-        @import "../../build-base/pagenation.scss";
         footer{
             background-color: $footerbackground;
         }

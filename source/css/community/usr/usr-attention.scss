@@ -1,19 +1,13 @@
-@import "../../../css/font-awesome-4.7.0/css/font-awesome.min.css";
-@import "../../normalize.css";
-@import "../../build-base/build-base.scss";
+@import "../../build-base/site-config.scss";
 html{
 	body{
 		header{
-			@include site-head();
 		}
 		.search{
 			background-color: #fff;
 			.site-search{
-				@include site-search();
 			}
 		}
-		@import "./usr-tips.scss";
-		@import "../../community/entrust-lose.scss";
 		.pet-list{
 			padding: 10px;
 			background-color: #fff;
@@ -66,7 +60,6 @@ html{
 
 		}
 		.section{
-			@import "../../build-base/pagenation.scss";
 		}
 		@import "./usr-own.scss";
 		footer{

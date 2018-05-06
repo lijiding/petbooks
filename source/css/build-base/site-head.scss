@@ -1,4 +1,4 @@
-@mixin site-head() {
+header {
 	@include manwidth();
 	height: 38px;
 	line-height: 38px;
