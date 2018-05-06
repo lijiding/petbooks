@@ -4,22 +4,11 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "7C4C4AA1-74AD-43F5-8EA9-6A0566291867"
+		"uuidString": "A037EBEA-6F7F-4F0D-B4E7-D70FF45125DA"
 		}
 	],
 "creatorBuild": "26667",
 "files": {
-	"\/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/.gitignore",
-		"oF": 1
-		},
-<<<<<<< HEAD
-	"\/design": {
-		"ft": 65536,
-=======
 	"\/branch dev": {
 		"cB": 0,
 		"ft": 8192,
@@ -45,9 +34,17 @@
 		},
 	"\/node_modules": {
 		"ft": 65536,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/pet\/node_modules",
-		"oF": 1
+		"oF": 0
+		},
+	"\/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/pet\/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/package.json": {
 		"ft": 524288,
@@ -1117,6 +1114,19 @@
 		"oAP": "\/pet\/css\/normalize.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/source\/css\/pet-base.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/pet\/css\/pet-base.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		},
 	"\/source\/img\/activity\/activity.png": {
 		"ft": 32768,
@@ -3590,53 +3600,260 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
->>>>>>> dev-build
 		"oA": 1,
-		"oAP": "\/build\/design",
-		"oF": 0
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/observer\/observer.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
-	"\/done 1-19,all done": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/done 1-19,all done",
-		"oF": 1
-		},
-	"\/gulpfile.js": {
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/gulpfile-min.js",
-		"oF": 1,
-		"sC": 3,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.js",
+		"oF": 0,
+		"sC": 0,
 		"tS": 0
 		},
-	"\/node_modules": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/node_modules",
-		"oF": 1
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
 		},
-	"\/package.json": {
-		"ft": 524288,
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/modules\/support\/support.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 1,
-		"oAP": "\/package-min.json",
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/support\/support.js",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"sC": 0,
+		"tS": 0
 		},
-	"\/pet": {
-		"ft": 65536,
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/swiper.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/swiper.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/swiper.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/swiper.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/browser.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 1,
-		"oAP": "\/build\/pet",
-		"oF": 0
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/browser.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
-	"\/petbooks错误.docx": {
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/class.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/class.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/device.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/device.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/dom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/dom.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/support.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/support.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/utils.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/utils.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/source\/page\/community\/activity-details.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/petbooks错误.docx",
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/activity-details.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/activity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/activity.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/base.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/base.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/entrust-detail.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/entrust-detail.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/entrust.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/entrust.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/find-pet.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/find-pet.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/index.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/new-invitation\/new-invitation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/new-invitation\/new-invitation.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/search\/search-details-one.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/search\/search-details-one.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/search\/search-details-two.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/search\/search-details-two.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/search\/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/search\/search.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/usr\/invitation-history.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/usr\/invitation-history.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/usr\/user-setting.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/usr\/user-setting.html",
+		"oF": 1
+		},
+	"\/source\/page\/community\/usr\/usr-attention.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/usr\/usr-attention.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/usr\/usr-pet.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/usr\/usr-pet.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/usr\/usr.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/community\/usr\/usr.html",
+		"oF": 1
+		},
+	"\/source\/page\/login\/login-popup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/login\/login-popup.html",
+		"oF": 1
+		},
+	"\/source\/page\/login\/login.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/page\/login\/login.html",
 		"oF": 1
 		},
 	"\/source\/page\/news\/index.html": {
@@ -3652,12 +3869,12 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 546609622,
+	"creationDate": 546934826,
 	"displayValue": "petbooks",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-jake",
-	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 546610062
+	"iconImageName": "meme-yesBaby",
+	"iconImageWasSetByUser": 1,
+	"lastBuiltDate": 547281655
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3913,8 +4130,8 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
-	"buildFolderName": "build",
+	"buildFolderActive": 1,
+	"buildFolderName": "pet",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -5053,7 +5270,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -5419,7 +5636,7 @@
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
@@ -5464,15 +5681,15 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 3,
+		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -5570,11 +5787,11 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
@@ -5639,7 +5856,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/pet, \/design",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/design, \/node_modules, \/pet",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
@@ -5810,7 +6027,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/pet"
 	},
 "settingsFileVersion": "3"
 }

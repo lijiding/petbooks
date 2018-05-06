@@ -1,5 +1,6 @@
 .gitignore
 .DS_Store
+*.map
 node_modules/
 package-lock.json
 pet/.codekit-cache
