@@ -1,0 +1,15 @@
+@import "../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}

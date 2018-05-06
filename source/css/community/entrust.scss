@@ -1,0 +1,15 @@
+@import "../build-base/site-config.scss";
+
+html{
+	body{
+		.search{
+			background-color: #fff;
+		}
+		.section{
+			@import "./entrust-lose.scss";
+		}
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}

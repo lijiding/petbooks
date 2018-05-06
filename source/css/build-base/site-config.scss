@@ -1,0 +1,13 @@
+// site-base
+$themecolor:#ff5500;
+$topheadbackgound:#e6e6e6;
+$headbackground:#fff;
+$headtextcolor:#4d4d4d;
+$darktext:#b3b3b3;
+$bodybackground:$topheadbackgound;
+$footerbackground:#333;
+
+@mixin manwidth() {
+	width:1190px;
+	margin: 0 auto;
+}

@@ -1,0 +1,91 @@
+@import "../../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+
+		.entrust-detail {
+			.entrust-detail-about{
+				float: none;
+				width:auto;
+			}
+			.entrust-detail-comment{
+				width: 890px;
+				float: left;
+				margin-top: 0;
+				margin-bottom: 20px;
+			}
+		}
+		.search-details-owner-box{
+			padding-right: 300px;
+			position: relative;
+			.search-details-owner{
+				position: absolute;
+				right: 0;
+				top: 0;
+				width: 280px;
+				padding-right: 10px;
+				background-color: #fff;
+				.owner-info{
+					padding-left: 20px;
+					position: relative;
+					&::before{
+						content:'';
+						width: 1px;
+						height: 80px;
+						position: absolute;
+						left: 0;
+						top: 0;
+						background-color: #e6e6e6;
+					}
+					img{
+						width: 60px;
+						height: 60px;
+						border-radius:50%;
+					}
+					.owner-name{
+						font-size: 12px;
+						line-height: 18px;
+						color: #333333;
+					}
+					.owner-logo{
+						float: left;
+						width: 60px;
+						margin-right: 50px;
+						text-align:center;
+					}
+					.owner-action{
+						a.btn{
+							width: 80px;
+							height: 30px;
+							margin: 5px 10px;
+						}
+					}
+				}
+			}
+		}
+		.search-box-par{
+			float: left;
+			.search-more-picture{
+				width: 290px;
+				margin-top: 10px;
+				border-radius:5px;
+				overflow:hidden;
+				margin-left: 10px;
+			}
+		}
+		.entrust-detail .entrust-detail-owner{
+			padding-bottom: 18px;
+			float:none;
+
+		}
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}

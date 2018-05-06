@@ -1,0 +1,26 @@
+@import "../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+		@import "login-frame.scss";
+		.section{
+		}
+		footer{
+			background-color: #fff;
+			.footer{
+				color:#666;
+				.aboutus{
+					a{
+						color:#666;
+					}
+				}
+			}
+		}
+	}
+}

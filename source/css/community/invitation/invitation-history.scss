@@ -1,0 +1,110 @@
+@import "../../build-base/site-config.scss";
+html{
+    body{
+        header{
+        }
+        .search{
+            background-color: #fff;
+            .site-search{
+            }
+        }
+        .usr-setting.invitation .right{
+            background-color: transparent;
+            padding-left: 10px;
+        }
+        .usr-setting.invitation .invitation{
+            background-color: #fff;
+                border-radius:5px;
+
+            .post-item{
+                padding: 20px 20px 20px 40px;
+                .invitation-number{
+                    color:#4c4c4c;
+                    font-size: 14px;
+                }
+                .invitation-select{
+                    height: 40px;
+                    width: 320px;
+                    float: right;
+                    .pretty-select{
+                        margin-right: 10px;
+                        width: 100px;
+                        height: 30px;
+                        font-size: 14px;
+                        line-height: 30px;
+                        border-radius:0;
+                        display: inline-block;
+                        float: left;
+                        select{
+                            height: 30px;
+                            line-height: 30px;
+                            border:1px solid #cccccc;
+                            border-radius: 0;
+                            background-color: #fff;
+                        }
+                        span{
+                            width: 30px;height: 30px;
+                            background-color: #e6e6e6;
+                            border:1px solid #ccc;
+                            right: 0;
+                            text-align:center;
+                            .fa{
+                                position: relative;
+                                top: -3px;
+                            }
+                        }
+                    }
+                    a.btn{
+                        margin: 0;
+                        background-color: #e6e6e6;
+                        color:#333;
+                        border:1px solid #e6e6e6;
+                    }
+                }
+                .invitation-items{
+                    table{
+                        width: 100%;
+                        border-right:1px solid #e6e6e6;
+                        border-top:1px solid #e6e6e6;
+                        text-align:center;
+                        line-height: 30px;
+                        font-size: 14px;
+                        tr{
+                            th{
+                                font-weight: normal;
+                            }
+                            th,td{
+                                border-bottom:1px solid #e6e6e6;
+                                border-left:1px solid #e6e6e6;
+                            }
+                            .post-head{
+                                display: inline-block;
+                                vertical-align:middle;
+                                margin: 5px;
+                            }
+                        }
+                    }
+                    .post-action{
+                        padding: 11px;
+                        a.btn{
+                            width: 60px;
+                            margin:  5px;
+                            &:hover{
+                                background-color: $themecolor;
+                                border:1px solid $themecolor;
+                                color:#fff;
+                            }
+                        }
+                    }
+                }
+            }
+            .info-tips{
+                line-height: 50px;
+                border-bottom:1px solid #cccaca;
+            }
+        }
+        footer{
+            background-color: $footerbackground;
+        }
+    }
+}

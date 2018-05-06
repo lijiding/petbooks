@@ -1,0 +1,22 @@
+@import "../../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+		.pretty-input-text,.pretty-textarea{
+			padding-right: 50px;
+		}
+		.pretty-textarea{
+
+		}
+		
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}

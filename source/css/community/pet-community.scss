@@ -1,0 +1,18 @@
+@import "../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+		.section{
+			
+		}
+		footer{
+			background-color: $footerbackground;
+		}
+	}
+}
