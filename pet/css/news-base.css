@@ -1,0 +1,170 @@
+@charset "UTF-8";
+/* 资讯 base 扩展于 base 之上 */
+.models {
+  background-color: #e6e6e6;
+}
+
+.models .model {
+  width: 1190px;
+  margin: 0 auto;
+}
+
+.models .model .model-name {
+  height: 56px;
+  padding: 20px 0 10px 0;
+}
+
+.models .model .model-name .model-name-title {
+  position: relative;
+  display: block;
+  color: #000;
+  font-size: 16px;
+  float: left;
+  margin: 0 10px 0 0;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.models .model .model-name .model-name-title::before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  height: 100%;
+  background: #ff5500;
+}
+
+.models .model .model-name ul {
+  float: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+}
+
+.models .model .model-name ul li {
+  display: inline-block;
+  font-size: 14px;
+  color: #b3b3b3;
+  margin-left: 15px;
+  line-height: 18px;
+}
+
+.models .model .model-name a {
+  color: #808080;
+}
+
+.models .model .model-name a.more {
+  color: #ff5500;
+}
+
+.models .model .model-name a.more span {
+  position: relative;
+  top: -1px;
+}
+
+.models .model .models-list {
+  font-size: 0;
+  margin-left: -10px;
+}
+
+.models .model .models-list .model-item {
+  display: inline-block;
+  width: 164px;
+  height: 120px;
+  overflow: hidden;
+  border-radius: 3px;
+  overflow: hidden;
+  font-size: 12px;
+  margin: 0 0 7px 7px;
+  background-color: #fff;
+  color: #333;
+  position: relative;
+}
+
+.models .model .models-list .model-item > a img {
+  width: 164px;
+  height: 120px;
+}
+
+.models .model .models-list .model-item:hover {
+  border: 1px solid #ff5500;
+}
+
+.models .model .models-list .model-item:hover > a img {
+  -webkit-transform: scale(1.1, 1.1);
+          transform: scale(1.1, 1.1);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.models .model .models-list .model-item p {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 10px 0;
+  text-indent: 10px;
+}
+
+.models .model .models-list .model-item p.pet-name {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 0px 0px 3px 3px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.models .model .models-list .model-item .model-action {
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
+
+.models .model .models-list .model-item .model-action .focus img {
+  vertical-align: middle;
+}
+
+.models .model .models-list .model-item .model-action img {
+  vertical-align: middle;
+}
+
+.models .model .dogs-btn {
+  margin-left: -13px;
+  font-size: 0;
+}
+
+.models .model .dogs-btn a.btn.btn-default {
+  font-size: 14px;
+  border: solid 1px #b3b3b3;
+  width: 90px;
+  height: 30px;
+  margin: 0 0 10px 10px;
+}
+
+.models .model .dogs-btn a.btn.btn-theme {
+  font-size: 14px;
+  width: 90px;
+  height: 30px;
+  margin: 0 0 10px 10px;
+}
+
+.models.pet-service .model .models-list .model-item {
+  width: 164px;
+  height: 180px;
+}
+
+.models.pet-service .model .models-list .model-item > a img {
+  height: 180px;
+}
