@@ -43,15 +43,7 @@
 		"ft": 65536,
 		"oA": 2,
 		"oAP": "\/pet\/node_modules",
-		"oF": 0
-		},
-	"\/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pet\/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oF": 1
 		},
 	"\/package.json": {
 		"ft": 524288,
@@ -1312,6 +1304,17 @@
 		"oA": 2,
 		"oAP": "\/pet\/img\/entrust-lose\/pet.png",
 		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/post-head.png": {
+		"ft": 32768,
+		"iS": 23517,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/post-head.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
