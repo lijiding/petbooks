@@ -1156,6 +1156,19 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/source\/css\/news\/news-search-one.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/pet\/css\/news\/news-search-one.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/source\/css\/normalize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1316,7 +1329,7 @@
 		"oAP": "\/pet\/img\/invitation\/post-head.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3910,6 +3923,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pet\/page\/news\/index.html",
+		"oF": 0
+		},
+	"\/source\/page\/news\/search-1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/news\/search-1.html",
 		"oF": 0
 		}
 	},
