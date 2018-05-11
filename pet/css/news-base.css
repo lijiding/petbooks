@@ -172,7 +172,7 @@
 .filter-news {
   width: 1190px;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 20px;
   line-height: 26px;
   font-family: SimHei;
   font-size: 14px;
@@ -259,4 +259,212 @@
 
 .filter-news .filter .flex-item .show-all.show .hide-filter {
   display: block;
+}
+
+.module-title {
+  width: 1190px;
+  margin: 0 auto;
+  font-size: 16px;
+  color: #333333;
+  margin: 14px auto;
+  position: relative;
+  padding-left: 17px;
+}
+
+.module-title.tips::before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 3px;
+  height: 15px;
+  background-color: #ff5500;
+}
+
+.module-title span.active {
+  color: #ff5500;
+}
+
+.module-title span.pull-right {
+  font-size: 12px;
+}
+
+.news-module-search {
+  width: 1190px;
+  margin: 0 auto;
+}
+
+.news-module-search .modules-list {
+  margin-left: -10px;
+  font-size: 0;
+}
+
+.module-item {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 290px;
+  font-size: 14px;
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.module-item .item-logo {
+  width: 100%;
+  height: 240px;
+  overflow: hidden;
+}
+
+.module-item .item-logo .logo {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-animation: all 2s;
+          animation: all 2s;
+}
+
+.module-item .item-gap {
+  width: 270px;
+  height: 1px;
+  background-color: #e6e6e6;
+  margin: 0 auto;
+}
+
+.module-item .item-desc {
+  color: #333333;
+  padding: 10px 10px 5px;
+}
+
+.module-item .item-price {
+  color: #fe0000;
+  padding: 5px 10px 10px;
+}
+
+.module-item .item-addr {
+  color: #808080;
+  padding: 10px 10px 5px;
+}
+
+.module-item .item-evaluate {
+  color: #808080;
+  padding: 5px 10px;
+}
+
+.module-item .item-evaluate img {
+  position: relative;
+  top: 3px;
+}
+
+.module-item .item-evaluate .sale-month {
+  margin-left: 10px;
+}
+
+.module-item:hover .logo {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.module-item:hover .item-desc, .module-item:hover .item-addr {
+  color: #ff5500;
+}
+
+.news-module-search-one {
+  width: 1190px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.news-module-search-one .search-one {
+  width: 900px;
+  float: left;
+}
+
+.news-module-search-one .search-one .module-title {
+  width: 100%;
+}
+
+.news-module-search-one .search-one .search-module-list {
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace {
+  background-color: #fff;
+  margin-bottom: 1px;
+  padding: 10px 20px 10px 10px;
+  font-size: 16px;
+  color: #1a1a1a;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .search-logo {
+  margin-right: 20px;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .search-logo img {
+  display: block;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .res-price {
+  color: #ff5500;
+  margin: 8px 0 14px 0;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .pet-sale {
+  font-size: 14px;
+  margin-bottom: 14px;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .pet-status {
+  font-size: 14px;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .pet-store {
+  color: #ff5500;
+}
+
+.news-module-search-one .search-one .search-module-list .search-item-pace .btn {
+  margin: 0;
+  margin-top: 14px;
+}
+
+.news-module-search-one .hot-recommend {
+  float: left;
+}
+
+.hot-recommend {
+  width: 280px;
+  margin-top: 46px;
+  margin-left: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  font-size: 0;
+}
+
+.hot-recommend .title {
+  padding: 10px;
+  color: #4d4d4d;
+  background-color: #fff;
+}
+
+.hot-recommend .title img {
+  position: relative;
+  top: 3px;
+  margin-right: 10px;
+}
+
+.hot-recommend .module-item {
+  margin: 0;
+  width: 280px;
+  border-radius: 0;
+  padding: 10px;
+  margin-top: 1px;
+}
+
+.hot-recommend .module-item .item-logo {
+  height: 195px;
+}
+
+.hot-recommend .module-item .price {
+  color: #ff5500;
 }
