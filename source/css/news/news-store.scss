@@ -1,0 +1,89 @@
+.page-inside-nav{
+	&.news{
+		@include manwidth();
+		padding: 0 20px;
+		border-radius:5px;
+		margin-top: 15px;
+		margin-bottom: -10px;
+		.inside-nav{
+			font-size: 16px;
+			li{
+				line-height: 40px;
+				height:40px;
+				a.active{
+				font-size: 16px;
+				}
+			}
+		}
+	}
+}
+.store-tips{
+	background-color: #fff;
+	margin-top: 1px;
+	.store-info{
+		@include manwidth();
+		padding: 20px 0;
+		.store-logo{
+			img{
+				display: block;
+				margin-right: 20px;
+			}
+		}
+		.store-name{
+			font-size: 18px;
+			color:#1a1a1a;
+			margin: 10px 0;
+		}
+		.store-addr{
+			font-size: 14px;
+			color: #999999;
+			margin: 10px 0;
+		}
+		.store-tags{
+			.btn{
+				broder-color:$themecolor;
+				background-color: #fff;
+				color:$themecolor;
+				margin: 20px 10px 0 0;
+				width: 80px;
+			}
+		}
+		.store-action{
+			position: relative;
+			padding-left: 50px;
+			&::before{
+				content:'';
+				display: block;
+				position: absolute;
+				left: 0;
+				top:0px;
+				width: 1px;
+				height: 120px;
+				background-color: #cccccc;
+			}
+			.store-star{
+				margin-top: 10px;
+				font-size: 14px;
+				margin-bottom: 50px;
+				img{
+					position: relative;
+					top: 3px;
+				}
+			}
+			.store-fun{
+				.btn{
+					margin: 0 20px 0 0;
+					&:last-child{
+						margin-right: 0;
+					}
+					&:first-child{
+						background-color: #e6e6e6;
+						border-radius: 3px;
+						border: solid 1px #999999;
+						color: #4d4d4d;
+					}
+				}
+			}
+		}
+	}
+}

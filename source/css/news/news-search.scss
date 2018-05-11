@@ -166,7 +166,7 @@
 
 .news-module-search-one{
 	@include manwidth();
-	margin-bottom: 20px;
+	// margin-bottom: 20px;
 	.search-one{
 		.module-title{
 			width: 100%;
@@ -214,6 +214,9 @@
 	}
 	.hot-recommend{
 		float: left;
+	}
+	.pagenation{
+		margin-bottom: 0;
 	}
 }
 .hot-recommend{
