@@ -1,0 +1,253 @@
+.filter-news{
+	@include manwidth();
+	margin-top: 20px;
+	line-height: 26px;
+	font-family: SimHei;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	color: #333333;
+	.filter{
+		margin-bottom: 1px;
+		.flex{
+			background-color: #fff;
+		}
+		.filter-title{
+			padding: 6px 0;
+			font-size: 16px;
+			background-color: #fff;
+			width: 80px;
+			line-height: 38px;
+			background-color: #f2f2f2;
+			text-align:center;
+		}
+		.flex-item{
+			padding: 6px 0;
+			background-color: #fff;
+			span{
+				margin-left: 20px;
+				user-select:none;
+				cursor:pointer;
+				display: inline-block;
+				line-height: 26px;
+				text-align:center;
+				&.active{
+					color: $themecolor;
+				}
+				
+			}
+			.un-limited{
+				line-height: 38px;
+				span{
+					width: 50px;
+					height: 26px;
+					&.active{
+						color:#fff;
+						background-color: $themecolor;
+						border-radius: 4px;
+					}
+				}
+			}
+			.show-all{
+				padding: 6px 10px 6px 10px;
+				color:$themecolor;
+				user-select:none;
+				cursor:pointer;
+				i.fa{
+					color: #808080;
+				}
+				.hide-filter{
+					display: none;
+				}
+				&.show{
+					.show-filter{
+						display: none;
+					}
+					.hide-filter{
+						display: block;
+					}
+				}
+			}
+		}
+	}
+}
+.module-title{
+	@include manwidth();
+	font-size: 16px;
+	color: #333333;
+	margin: 14px auto;
+	position: relative;
+	padding-left: 17px;
+	&.tips{
+		&::before{
+			content:'';
+			display: block;
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 3px;
+			height: 15px;
+			background-color: $themecolor;
+		}
+	}
+	span{
+		&.active{
+			color:$themecolor;
+		}
+		&.pull-right{
+			font-size: 12px;
+		}
+	}
+}
+.news-module-search{
+	@include manwidth();
+	.modules-list{
+		margin-left: -10px;
+		font-size: 0;
+	}
+}
+.module-item{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+	width: 290px;
+	font-size: 14px;
+	background-color: #fff;
+	border-radius:5px;
+	overflow:hidden;
+	.item-logo{
+		width: 100%;
+		height: 240px;
+		overflow:hidden;
+		.logo{
+			transform:scale(1);
+			animation:all 2s;
+
+		}
+	}
+	.item-gap{
+		width: 270px;
+		height: 1px;
+		background-color: #e6e6e6;
+		margin: 0 auto;
+	}
+	.item-desc{
+		color: #333333;
+		padding: 10px 10px 5px ;
+	}
+	.item-price{
+		color: #fe0000;
+		padding: 5px 10px 10px;
+	}
+	.item-addr{
+		color:#808080;
+		padding: 10px 10px 5px;
+	}
+	.item-evaluate{
+		color: #808080;
+		padding: 5px 10px;
+		img{
+			position: relative;
+			top: 3px;
+		}
+		.sale-month{
+			margin-left: 10px;
+		}
+	}
+	&:hover{
+		.logo{
+			transform:scale(1.2);
+		}
+		.item-desc,.item-addr{
+			color:$themecolor;
+		}
+	}
+}
+
+.news-module-search-one{
+	@include manwidth();
+	// margin-bottom: 20px;
+	.search-one{
+		.module-title{
+			width: 100%;
+		}
+		width:900px;
+		float: left;
+		.search-module-list{
+			border-radius:5px;
+			overflow:hidden;
+			.search-item-pace{
+				background-color: #fff;
+				margin-bottom: 1px;
+				padding: 10px 20px 10px 10px;
+				font-size: 16px;
+				color: #1a1a1a;
+				.search-logo{
+					margin-right: 20px;
+					img{
+						display: block;
+					}
+				}
+				.res-title{
+
+				}
+				.res-price{
+					color:$themecolor;
+					margin: 8px 0 14px 0;
+				}
+				.pet-sale{
+					font-size: 14px;
+					margin-bottom: 14px;
+				}
+				.pet-status{
+					font-size: 14px;
+				}
+				.pet-store{
+					color:$themecolor;
+				}
+				.btn{
+					margin: 0;
+					margin-top: 14px;
+				}
+			}
+		}
+	}
+	.hot-recommend{
+		float: left;
+	}
+	.pagenation{
+		margin-bottom: 0;
+	}
+}
+.hot-recommend{
+	width: 280px;
+	margin-top: 46px;
+	margin-left: 10px;
+	border-radius:5px;
+	overflow: hidden;
+	font-size: 0;
+	.title{
+		padding: 10px;
+		color:#4d4d4d;
+		background-color: #fff;
+		font-size: 16px;
+		img{
+			position: relative;
+			top: 3px;
+			margin-right: 10px;
+		}
+	}
+	.module-item{
+		margin: 0;
+		width: 280px;
+		border-radius:0;
+		padding: 10px;
+		margin-top: 1px;
+		.item-logo{
+			height: 195px;
+		}
+		.price{
+			color:$themecolor;
+		}
+	}
+}

@@ -1,16 +1,13 @@
 html body .search {
   background-color: #fff;
 }
-
 html body .activity ul li.activity-item .activity-desc .out-time {
   top: 75px;
 }
-
 html body .activity ul li.activity-item .activity-desc .activity-title {
   font-weight: normal;
   font-size: 16px;
 }
-
 html body .activity ul li.activity-item .activity-desc .activity-title a {
   font-size: 14px;
   position: absolute;
@@ -18,12 +15,10 @@ html body .activity ul li.activity-item .activity-desc .activity-title a {
   top: 35px;
   line-height: 12px;
 }
-
 html body .activity ul li.activity-item .activity-desc .activity-desc-text {
   line-height: 20px;
   padding-right: 20px;
 }
-
 html body .activity ul li.activity-item .activity-desc .join a {
   width: 100px;
   height: 30px;
@@ -32,7 +27,6 @@ html body .activity ul li.activity-item .activity-desc .join a {
   border-radius: 3px;
   border: solid 1px #cccccc;
 }
-
 html body .activity-model-name {
   color: #333;
   font-size: 16px;
@@ -42,61 +36,50 @@ html body .activity-model-name {
   margin-bottom: 20px;
   margin-top: 20px;
 }
-
 html body .activity-model-name a {
   position: absolute;
   right: 0px;
   top: 0px;
   font-size: 14px;
 }
-
 html body .more-activity.models .model .models-list .model-item .model-action {
   margin-bottom: 6px;
 }
-
 html body .activity-details-owner {
   padding: 0 10px;
   font-size: 12px;
 }
-
 html body .activity-details-owner .details-owner-info {
   border-top: 1px solid #e6e6e6;
   padding: 8px;
 }
-
 html body .activity-details-owner .details-owner-info .owner-logo .flex-item {
   line-height: 30px;
   padding-left: 10px;
 }
-
 html body .activity-details-owner .details-owner-info .owner-logo img {
   width: 30px;
   height: 30px;
   border-radius: 50%;
 }
-
 html body .activity-details-owner .details-owner-info .owner-logo .time-ago {
   width: 100;
   line-height: 30px;
 }
-
 html body .entrust-detail .entrust-detail-about {
   float: none;
   width: auto;
 }
-
 html body .entrust-detail .entrust-detail-comment {
   width: 890px;
   float: left;
   margin-top: 0;
   margin-bottom: 20px;
 }
-
 html body .search-details-owner-box {
   padding-right: 300px;
   position: relative;
 }
-
 html body .search-details-owner-box .search-details-owner {
   position: absolute;
   right: 0;
@@ -105,12 +88,10 @@ html body .search-details-owner-box .search-details-owner {
   padding-right: 10px;
   background-color: #fff;
 }
-
 html body .search-details-owner-box .search-details-owner .owner-info {
   padding-left: 20px;
   position: relative;
 }
-
 html body .search-details-owner-box .search-details-owner .owner-info::before {
   content: '';
   width: 1px;
@@ -120,48 +101,42 @@ html body .search-details-owner-box .search-details-owner .owner-info::before {
   top: 0;
   background-color: #e6e6e6;
 }
-
 html body .search-details-owner-box .search-details-owner .owner-info img {
   width: 60px;
   height: 60px;
   border-radius: 50%;
 }
-
 html body .search-details-owner-box .search-details-owner .owner-info .owner-name {
   font-size: 12px;
   line-height: 18px;
   color: #333333;
 }
-
 html body .search-details-owner-box .search-details-owner .owner-info .owner-logo {
   float: left;
   width: 60px;
   margin-right: 50px;
   text-align: center;
 }
-
 html body .search-details-owner-box .search-details-owner .owner-info .owner-action a.btn {
   width: 80px;
   height: 30px;
   margin: 5px 10px;
 }
-
 html body .search-box-par {
   float: left;
 }
-
 html body .search-box-par .search-more-picture {
   width: 290px;
   border-radius: 5px;
   overflow: hidden;
   margin-left: 10px;
 }
-
 html body .entrust-detail .entrust-detail-owner {
   padding-bottom: 18px;
   float: none;
 }
-
 html body footer {
   background-color: #333;
 }
+
+/*# sourceMappingURL=activity-details.css.map */
