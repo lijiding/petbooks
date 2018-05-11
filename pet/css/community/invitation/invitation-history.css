@@ -1,32 +1,26 @@
 html body .search {
   background-color: #fff;
 }
-
 html body .usr-setting.invitation .right {
   background-color: transparent;
   padding-left: 10px;
 }
-
 html body .usr-setting.invitation .invitation {
   background-color: #fff;
   border-radius: 5px;
 }
-
 html body .usr-setting.invitation .invitation .post-item {
   padding: 20px 20px 20px 40px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-number {
   color: #4c4c4c;
   font-size: 14px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-select {
   height: 40px;
   width: 320px;
   float: right;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-select .pretty-select {
   margin-right: 10px;
   width: 100px;
@@ -37,7 +31,6 @@ html body .usr-setting.invitation .invitation .post-item .invitation-select .pre
   display: inline-block;
   float: left;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-select .pretty-select select {
   height: 30px;
   line-height: 30px;
@@ -45,7 +38,6 @@ html body .usr-setting.invitation .invitation .post-item .invitation-select .pre
   border-radius: 0;
   background-color: #fff;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-select .pretty-select span {
   width: 30px;
   height: 30px;
@@ -54,19 +46,16 @@ html body .usr-setting.invitation .invitation .post-item .invitation-select .pre
   right: 0;
   text-align: center;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-select .pretty-select span .fa {
   position: relative;
   top: -3px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-select a.btn {
   margin: 0;
   background-color: #e6e6e6;
   color: #333;
   border: 1px solid #e6e6e6;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items table {
   width: 100%;
   border-right: 1px solid #e6e6e6;
@@ -75,43 +64,36 @@ html body .usr-setting.invitation .invitation .post-item .invitation-items table
   line-height: 30px;
   font-size: 14px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items table tr th {
   font-weight: normal;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items table tr th, html body .usr-setting.invitation .invitation .post-item .invitation-items table tr td {
   border-bottom: 1px solid #e6e6e6;
   border-left: 1px solid #e6e6e6;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items table tr .post-head {
   display: inline-block;
   vertical-align: middle;
   margin: 5px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items .post-action {
   padding: 11px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items .post-action a.btn {
   width: 60px;
   margin: 5px;
 }
-
 html body .usr-setting.invitation .invitation .post-item .invitation-items .post-action a.btn:hover {
   background-color: #ff5500;
   border: 1px solid #ff5500;
   color: #fff;
 }
-
 html body .usr-setting.invitation .invitation .info-tips {
   line-height: 50px;
   border-bottom: 1px solid #cccaca;
 }
-
 html body footer {
   background-color: #333;
 }
+
 /*# sourceMappingURL=invitation-history.css.map */

@@ -12,7 +12,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -55,7 +54,6 @@
   margin-left: 2.1428571429em;
   list-style-type: none;
 }
-
 .fa-ul > li {
   position: relative;
 }
@@ -67,7 +65,6 @@
   top: 0.1428571429em;
   text-align: center;
 }
-
 .fa-li.fa-lg {
   left: -1.8571428571em;
 }
@@ -89,7 +86,6 @@
 .fa.fa-pull-left {
   margin-right: .3em;
 }
-
 .fa.fa-pull-right {
   margin-left: .3em;
 }
@@ -106,7 +102,6 @@
 .fa.pull-left {
   margin-right: .3em;
 }
-
 .fa.pull-right {
   margin-left: .3em;
 }
@@ -131,7 +126,6 @@
     transform: rotate(359deg);
   }
 }
-
 @keyframes fa-spin {
   0% {
     -webkit-transform: rotate(0deg);
@@ -142,7 +136,6 @@
     transform: rotate(359deg);
   }
 }
-
 .fa-rotate-90 {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
   -webkit-transform: rotate(90deg);
@@ -3042,4 +3035,5 @@
   overflow: visible;
   clip: auto;
 }
+
 /*# sourceMappingURL=font-awesome.css.map */

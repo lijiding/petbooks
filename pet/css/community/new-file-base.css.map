@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../../source/css/community/new-file-base.scss","../../../source/css/build-base/site-config.scss"],"names":[],"mappings":"AACA;EAKG,uBAAsB;CAGtB;;AARH;EAYG,uBCNmB;CDOnB","file":"new-file-base.css"}
+{"version":3,"sources":["../../../source/css/community/new-file-base.scss","new-file-base.css","../../../source/css/build-base/site-config.scss"],"names":[],"mappings":"AAKE;EACC,uBAAsB;CCJxB;ADUC;EACC,uBENmB;CDFrB","file":"new-file-base.css"}

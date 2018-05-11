@@ -18,6 +18,8 @@
 	}
 }
 .news-module-search-one{
+	margin-top: 20px;
+	border-radius:5px 5px 0 0 ;
 	&.serach-detail{
 		background-color: #fff;
 		padding: 20px;
@@ -153,11 +155,274 @@
 			font-size: 20px;
 			color: #ff0000;
 			padding: 10px;
+			margin-bottom: 23px;
 			span{
 				font-size: 14px;
 				color: #808080;
 			}
 		}
+		.res-info{
+			margin-top: 10px;
+			.info-item{
+				width: 210px;
+				line-height: 28px;
+				span{
+					color: #808080;
+				}
+				&.addr{
+					span{
+						display: inline-block;
+						width: 55px;
+					}
+				}
+			}
+			&:last-child{
+			}
+		}
+		.gap{
+			width: 710px;
+			height: 1px;
+			background-color: #e6e6e6;
+			margin: 13px 0 ;
+		}
+		.res-action{
+			.btn{
+				margin: 0;
+				width: 200px;
+				height: 40px;
+				font-size: 16px;
+				line-height: 40px;
+				margin-top: 10px;
+			}
+		}
 	}
 
 }
+.section.push{
+	background-color: #fff;
+	@include manwidth();
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius:0 0 5px 5px;
+}
+.detail{
+	&.news-module-search{
+		.module-item{
+			width: 280px;
+		}
+
+	}
+}
+.analyze{
+	color:#333;
+	position: relative;
+	padding: 15px;
+	border:1px solid #e6e6e6;
+	font-size: 14px;
+	border-radius:0 5px 5px 5px;
+	.analyze-map{
+		position: absolute;
+		right: 45px;
+		top: 45px;
+		width: 400px;
+		height: 180px;
+		background-color: #ffffff;
+		border-radius: 5px;
+		padding: 20px 0;
+		font-size: 14px;
+		.pet-info{
+			.pet-name{
+				text-align:center;
+				margin-bottom: 9px;
+				font-size: 16px;
+			}
+			.pet-another-name{
+				color: #999999;
+				text-align:center;
+			}
+			.gap{
+				height: 1px;
+				background-color: #e6e6e6;
+				margin: 14px 0 10px 0;
+			}
+			.feed{
+				color:#999;
+				text-align:center;
+			}
+			.flex-info{
+				margin-top: 15px;
+				span{
+					color:#999;
+					padding-left: 35px;
+				}
+			}
+		}
+	}
+	.analyze-detail{
+		.detail-item{
+			.flex{
+				padding: 8px 0;
+				span.analyze-title{
+					color: #4d4d4d;
+
+				}
+				width: 220px;
+				.flex-item{
+					max-width:23px;
+					span{
+						display: inline-block;
+						width: 20px;
+						height: 12px;
+						background-color: #d9d9d9;
+					}
+				}
+				&.one{
+					.flex-item{
+						&:nth-child(2){
+							span{
+								background-color: #ffea00;
+							}
+						}
+					}
+				}&.two{
+					.flex-item{
+						&:nth-child(2){
+							span{
+								background-color: #ffea00;
+							}
+						}
+						&:nth-child(3){
+							span{
+								background-color: #ffbf00;
+							}
+						}
+					}
+				}&.three{
+					.flex-item{
+						&:nth-child(2){
+							span{
+								background-color: #ffea00;
+							}
+						}
+						&:nth-child(3){
+							span{
+								background-color: #ffbf00;
+							}
+						}
+						&:nth-child(4){
+							span{
+								background-color: #ff9500;
+							}
+						}
+					}
+				}&.four{
+					.flex-item{
+						&:nth-child(2){
+							span{
+								background-color: #ffea00;
+							}
+						}
+						&:nth-child(3){
+							span{
+								background-color: #ffbf00;
+							}
+						}
+						&:nth-child(4){
+							span{
+								background-color: #ff9500;
+							}
+						}
+						&:nth-child(5){
+							span{
+								background-color: #ff6a00;
+							}
+						}
+					}
+				}&.five{
+					.flex-item{
+						&:nth-child(2){
+							span{
+								background-color: #ffea00;
+							}
+						}
+						&:nth-child(3){
+							span{
+								background-color: #ffbf00;
+							}
+						}
+						&:nth-child(4){
+							span{
+								background-color: #ff9500;
+							}
+						}
+						&:nth-child(5){
+							span{
+								background-color: #ff6a00;
+							}
+						}
+						&:nth-child(6){
+							span{
+								background-color: #ff4000;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.title{
+		font-size: 16px;
+		margin: 21px 0 20px 0;
+		&.live{
+			margin-top: 48px;
+		}
+	}
+}
+.nature-detail{
+	font-size: 0;
+	margin-left: -6px;
+	.nature-item{
+		position: relative;
+		width: 265px;
+		height: 261px;
+		margin-bottom: 10px;
+		margin-left: 6px;
+		border-radius:5px;
+		overflow:hidden;
+		.nature-img{
+			display: block;
+		}
+		.nature-desc{
+			position: absolute;
+			top: 0;
+			right: 0;
+			left: 0;
+			height: 159px;
+			background-color: rgba(0, 0, 0, 0.4);
+			border-radius: 5px 5px 0px 0px;
+			font-size: 30px;
+			color: #fefefe;
+			line-height: 159px;
+			text-align:center;
+		}
+		.nature-text{
+			font-size: 12px;
+			line-height: 20px;
+			padding: 15px;
+			background-color: #f2f2f2;
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

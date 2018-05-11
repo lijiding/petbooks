@@ -2,7 +2,6 @@
 .media {
   margin-top: 15px;
 }
-
 .media:first-child {
   margin-top: 0;
 }
@@ -20,7 +19,6 @@
 .media-object {
   display: block;
 }
-
 .media-object.img-thumbnail {
   max-width: none;
 }
@@ -59,4 +57,5 @@
   padding-left: 0;
   list-style: none;
 }
+
 /*# sourceMappingURL=media.css.map */

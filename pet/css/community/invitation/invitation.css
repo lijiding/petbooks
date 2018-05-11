@@ -1,18 +1,15 @@
 html body .search {
   background-color: #fff;
 }
-
 html body .usr-setting.invitation .right {
   background-color: inherit;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item {
   background-color: #fff;
   margin-bottom: 10px;
   border-radius: 5px;
   padding-bottom: 17px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item .info-tips {
   margin: 20px 0;
   line-height: 50px;
@@ -20,57 +17,46 @@ html body .usr-setting.invitation .right .invitation .post-item .info-tips {
   padding-left: 30px;
   margin-top: 0;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item .info-tips .info-title-notice {
   color: #b3b3b3;
   font-size: 12px;
   margin-left: 30px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item .info-change {
   margin: 25px 0 25px 30px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item .info-change .info-title {
   width: 10px;
   padding-right: 0;
   margin-right: 0;
   line-height: 40px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item .info-change .pretty-select {
   float: left;
   margin-right: 20px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item .info-change .pretty-select.more-select {
   width: 360px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.upload-video a {
   margin-left: 0;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags input {
   width: 360px !important;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags .pretty-input-text {
   float: left;
   padding-right: 10px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags .tags-notice {
   color: #b3b3b3;
   line-height: 40px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags .edited-tags {
   line-height: 30px;
   padding: 10px 0;
   font-size: 0;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags .edited-tags span {
   display: inline-block;
   background-color: #e6e6e6;
@@ -85,7 +71,6 @@ html body .usr-setting.invitation .right .invitation .post-item.invitation-tags 
       -ms-user-select: none;
           user-select: none;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags .edited-tags span::before {
   content: 'x';
   display: block;
@@ -94,23 +79,20 @@ html body .usr-setting.invitation .right .invitation .post-item.invitation-tags 
   top: 0;
   font-size: 12px;
 }
-
 html body .usr-setting.invitation .right .invitation .post-item.invitation-tags .edited-tags span:hover {
   background-color: #ff5500;
   color: #fff;
 }
-
 html body .usr-setting.invitation .right .invitation-action a {
   width: 180px;
   height: 40px;
   line-height: 40px;
 }
-
 html body .pretty-input-text, html body .pretty-textarea {
   padding-right: 50px;
 }
-
 html body footer {
   background-color: #333;
 }
+
 /*# sourceMappingURL=invitation.css.map */

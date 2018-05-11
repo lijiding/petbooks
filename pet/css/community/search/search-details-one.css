@@ -1,11 +1,9 @@
 html body .search {
   background-color: #fff;
 }
-
 html body .search-box-par {
   float: left;
 }
-
 html body .search-box-par .search-more-picture {
   width: 290px;
   margin-top: 10px;
@@ -13,13 +11,12 @@ html body .search-box-par .search-more-picture {
   overflow: hidden;
   margin-left: 10px;
 }
-
 html body .entrust-detail .entrust-detail-owner {
   padding-bottom: 18px;
   float: none;
 }
-
 html body footer {
   background-color: #333;
 }
+
 /*# sourceMappingURL=search-details-one.css.map */
