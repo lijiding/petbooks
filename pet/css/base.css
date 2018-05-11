@@ -18,6 +18,8 @@ a {
     color: #ff5500; }
   a.btn-darken {
     color: #b3b3b3; }
+  a.active {
+    color: #ff5500; }
 
 input {
   outline: none;

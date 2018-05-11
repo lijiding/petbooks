@@ -1143,19 +1143,6 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/source\/css\/news\/news-index.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/pet\/css\/news\/news-index.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
 	"\/source\/css\/news\/news-search.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1178,6 +1165,32 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/pet\/css\/news\/news-store.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/source\/css\/news\/news.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/pet\/css\/news\/news.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/source\/css\/news\/search-detail.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/pet\/css\/news\/search-detail.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -1522,6 +1535,61 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/img\/news\/search\/1.png": {
+		"ft": 32768,
+		"iS": 11785,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/2.png": {
+		"ft": 32768,
+		"iS": 11394,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/3.png": {
+		"ft": 32768,
+		"iS": 11592,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/4.png": {
+		"ft": 32768,
+		"iS": 12259,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/Clock.png": {
+		"ft": 32768,
+		"iS": 311,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/Clock.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/img\/news\/search\/four-half.png": {
 		"ft": 32768,
 		"iS": 1505,
@@ -1555,6 +1623,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/img\/news\/search\/main-pic.png": {
+		"ft": 32768,
+		"iS": 210878,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/main-pic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/scroll-main-pic.png": {
+		"ft": 32768,
+		"iS": 205598,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/scroll-main-pic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/img\/news\/search\/search-hot.png": {
 		"ft": 32768,
 		"iS": 103361,
@@ -1577,11 +1667,88 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/img\/news\/search\/share.png": {
+		"ft": 32768,
+		"iS": 304,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/share.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/star.png": {
+		"ft": 32768,
+		"iS": 403,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/star.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/search\/warning.png": {
+		"ft": 32768,
+		"iS": 275,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/search\/warning.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/img\/news\/store\/logo.png": {
 		"ft": 32768,
 		"iS": 33489,
 		"oA": 0,
 		"oAP": "\/pet\/img\/news\/store\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/store\/main-pic.png": {
+		"ft": 32768,
+		"iS": 212902,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/store\/main-pic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/store\/phone-white.png": {
+		"ft": 32768,
+		"iS": 390,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/store\/phone-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/store\/phone.png": {
+		"ft": 32768,
+		"iS": 289,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/store\/phone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/news\/store\/praise.png": {
+		"ft": 32768,
+		"iS": 289,
+		"oA": 0,
+		"oAP": "\/pet\/img\/news\/store\/praise.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -4018,11 +4185,25 @@
 		"oAP": "\/pet\/page\/news\/search-2.html",
 		"oF": 0
 		},
+	"\/source\/page\/news\/search-detail.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/news\/search-detail.html",
+		"oF": 0
+		},
 	"\/source\/page\/news\/store-index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pet\/page\/news\/store-index.html",
+		"oF": 0
+		},
+	"\/source\/page\/news\/store-introduce.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/news\/store-introduce.html",
 		"oF": 0
 		}
 	},
@@ -4036,7 +4217,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 547701495
+	"lastBuiltDate": 547721876
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

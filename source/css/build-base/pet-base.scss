@@ -15,6 +15,9 @@ a{
 	&.btn-darken{
 		color: $darktext;
 	}
+	&.active{
+		color:$themecolor;
+	}
 }
 input{
 	outline:none;

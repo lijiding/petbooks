@@ -448,6 +448,7 @@
   padding: 10px;
   color: #4d4d4d;
   background-color: #fff;
+  font-size: 16px;
 }
 
 .hot-recommend .title img {
@@ -472,6 +473,7 @@
   color: #ff5500;
 }
 
+/* 店铺主页 店铺介绍 */
 .page-inside-nav.news {
   width: 1190px;
   margin: 0 auto;
@@ -570,5 +572,320 @@
   border-radius: 3px;
   border: solid 1px #999999;
   color: #4d4d4d;
+}
+
+/* 店铺介绍 */
+.search-one .page-inside-nav.news {
+  width: auto;
+}
+
+.search-one .page-inside-nav.news .inside-nav {
+  width: auto;
+}
+
+.store-introduce.hot-recommend {
+  margin-top: 0;
+}
+
+.store-introduce.hot-recommend .recommend-item {
+  margin-top: 15px;
+  border-radius: 5px;
+  overflow: hidden;
+  color: #333333;
+  font-size: 14px;
+}
+
+.store-introduce.hot-recommend .recommend-item .module-item {
+  border-radius: 0 0 5px 5px;
+}
+
+.store-introduce.hot-recommend .recommend-item .get-phone {
+  width: 250px;
+  height: 40px;
+  margin: 30px 5px 20px 5px;
+  line-height: 40px;
+}
+
+.introduce-main {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.introduce-main .title {
+  font-size: 18px;
+  color: #1a1a1a;
+  padding: 8px 8px 20px 9px;
+}
+
+.introduce-main .gap {
+  width: 100%;
+  height: 1px;
+  background-color: #e6e6e6;
+  margin-bottom: 20px;
+}
+
+.introduce-main .paragraph {
+  text-indent: 30px;
+  font-size: 14px;
+  padding: 0 10px;
+  color: #333333;
+  line-height: 26px;
+  text-align: justify;
+}
+
+.introduce-main .paragraph.notice {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.introduce-main .store-phone {
+  padding: 10px;
+}
+
+.introduce-main .store-phone .btn {
+  display: inline-block;
+  width: 415px;
+  height: 40px;
+  background-color: #6dbc4d;
+  border-radius: 3px;
+  border-color: #6dbc4d;
+  margin: 0;
+  font-size: 24px;
+  line-height: 40px;
+  margin-right: 20px;
+  padding: 0;
+}
+
+.introduce-main .store-phone .btn:last-child {
+  margin: 0;
+}
+
+.introduce-main .store-phone .btn img {
+  position: relative;
+  top: 3px;
+}
+
+.introduce-main .store-main-pic {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 0;
+}
+
+.introduce-main .store-main-pic .flex-item {
+  padding: 10px;
+}
+
+.introduce-main .store-main-pic img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* 搜索详情 */
+.store-action.search-detail::before {
+  display: none !important;
+}
+
+.store-action.search-detail .store-attention .btn {
+  display: block;
+  margin: 20px 0 0 0;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+}
+
+.store-action.search-detail .store-attention .btn:first-child {
+  background-color: #e6e6e6;
+  border-radius: 3px;
+  border: solid 1px #999999;
+}
+
+.search.introduce-main {
+  border: 1px solid #e6e6e6;
+  padding: 0;
+  margin-top: 0;
+  border-radius: 0 5px 5px 5px;
+}
+
+.search.introduce-main .load-more {
+  height: 30px;
+  line-height: 30px;
+  background-color: #f7f7f7;
+  text-align: center;
+  font-size: 14px;
+  color: #666666;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  margin-bottom: 30px;
+}
+
+.news-module-search-one.serach-detail {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.news-module-search-one.serach-detail .search-one {
+  width: 845px;
+}
+
+.news-module-search-one.serach-detail .search-one .store-main-pic {
+  font-size: 0;
+}
+
+.news-module-search-one.serach-detail .search-one .store-main-pic .flex {
+  padding: 7.5px 15px;
+}
+
+.news-module-search-one.serach-detail .search-one .store-main-pic .flex .flex-item {
+  padding: 0;
+}
+
+.news-module-search-one.serach-detail .search-one .store-main-pic .flex .flex-item img {
+  margin: 0;
+}
+
+.news-module-search-one.serach-detail .search-one .store-main-pic .flex .flex-item:last-child {
+  margin-left: 15px;
+}
+
+.news-module-search-one.serach-detail .hot-recommend {
+  width: 290px;
+  margin-top: 39px;
+  border: 1px solid #e6e6e6;
+}
+
+.news-module-search-one.serach-detail .hot-recommend .module-item {
+  border-top: 1px solid  #e6e6e6;
+  width: 100%;
+}
+
+.news-module-search-one.serach-detail .hot-recommend .module-item img {
+  width: 270px;
+  height: 195px;
+}
+
+.news-module-search-one.serach-detail .hot-recommend .module-item .item-addr {
+  padding-top: 5px;
+}
+
+.news-module-search-one.serach-detail .hot-recommend .module-item .item-price {
+  padding-bottom: 5px;
+}
+
+.search-detail-classes {
+  font-size: 0;
+  margin-bottom: -1px;
+  margin-left: 1px;
+}
+
+.search-detail-classes a {
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #999999;
+  border: solid 1px #e6e6e6;
+  margin-left: -1px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.search-detail-classes a:hover {
+  color: #ff5500;
+}
+
+.search-detail-classes a.active {
+  color: #ff5500;
+}
+
+.serach-detail-main-info {
+  margin-bottom: 40px;
+}
+
+.serach-detail-main-info .detail-img {
+  width: 420px;
+  height: 390px;
+  padding: 10px;
+  border: solid 1px #b3b3b3;
+}
+
+.serach-detail-main-info .detail-img .main-img {
+  width: 400px;
+  height: 300px;
+  background-color: #f19ec2;
+  margin-bottom: 10px;
+}
+
+.serach-detail-main-info .detail-img .scroll-img {
+  width: 400px;
+}
+
+.serach-detail-main-info .detail-img .scroll-img .prev, .serach-detail-main-info .detail-img .scroll-img .next {
+  width: 20px;
+  height: 60px;
+  background-color: #d9d9d9;
+  line-height: 60px;
+  text-align: center;
+}
+
+.serach-detail-main-info .detail-img .scroll-img .flex .flex {
+  font-size: 0;
+  padding: 0 5px;
+  margin-left: -10px;
+}
+
+.serach-detail-main-info .detail-img .scroll-img .flex .flex .flex-item {
+  margin-left: 10px;
+}
+
+.serach-detail-main-info .detail-img .scroll-img .flex .flex .flex-item img {
+  display: block;
+}
+
+.serach-detail-main-info .res-here {
+  padding-left: 20px;
+  font-size: 14px;
+  color: #1a1a1a;
+}
+
+.serach-detail-main-info .res-here .res-title {
+  font-size: 16px;
+  color: #1a1a1a;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.serach-detail-main-info .res-here .res-time {
+  color: #999999;
+  margin-bottom: 32px;
+}
+
+.serach-detail-main-info .res-here .res-time .search-detail-fun {
+  width: 220px;
+}
+
+.serach-detail-main-info .res-here .res-time .search-detail-fun img {
+  position: relative;
+  top: 2px;
+}
+
+.serach-detail-main-info .res-here .res-price {
+  width: 710px;
+  height: 80px;
+  background-color: #f2f2f2;
+  line-height: 60px;
+  font-size: 20px;
+  color: #ff0000;
+  padding: 10px;
+}
+
+.serach-detail-main-info .res-here .res-price span {
+  font-size: 14px;
+  color: #808080;
 }
 /*# sourceMappingURL=news-base.css.map */

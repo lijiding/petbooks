@@ -1,3 +1,4 @@
+/* 店铺主页 店铺介绍 */
 .page-inside-nav{
 	&.news{
 		@include manwidth();
@@ -16,6 +17,7 @@
 			}
 		}
 	}
+
 }
 .store-tips{
 	background-color: #fff;
@@ -82,6 +84,124 @@
 						border: solid 1px #999999;
 						color: #4d4d4d;
 					}
+				}
+			}
+		}
+	}
+}
+
+/* 店铺介绍 */
+.search-one {
+	.page-inside-nav.news{
+		width:auto;
+		.inside-nav{
+			width:auto;
+		}
+	}
+}
+.store-introduce{
+	&.hot-recommend{
+		margin-top: 0;
+		.recommend-item{
+			margin-top: 15px;
+			border-radius:5px;
+			overflow:hidden;
+			color: #333333;
+			font-size: 14px;
+			.module-item{
+				border-radius:0 0 5px 5px;
+			}
+			.get-phone{
+				width: 250px;
+				height: 40px;
+				margin: 30px 5px 20px 5px;
+				line-height: 40px;
+			}
+		}
+	}
+}
+.introduce-main{
+	margin-top: 20px;
+	background-color: #fff;
+	padding: 10px;
+	border-radius:5px;
+	.title{
+		font-size: 18px;
+		color: #1a1a1a;
+		padding: 8px 8px 20px 9px;
+	}
+	.gap{
+		width: 100%;
+		height: 1px;
+		background-color: #e6e6e6;
+		margin-bottom: 20px;
+	}
+	.paragraph{
+		text-indent:30px;
+		font-size: 14px;
+		padding: 0 10px;
+		color: #333333;
+		line-height: 26px;
+		text-align:justify;
+		&.notice{
+			margin-top: 40px;
+			margin-bottom: 10px;
+		}
+	}
+	.store-phone{
+		padding: 10px;
+		.btn{
+			display: inline-block;
+			width: 415px;
+			height: 40px;
+			background-color: #6dbc4d;
+			border-radius: 3px;
+			border-color: #6dbc4d;
+			margin: 0;
+			font-size: 24px;
+			line-height: 40px;
+			margin-right: 20px;
+			padding: 0;
+			&:last-child{
+				margin: 0;
+			}
+			img{
+				position: relative;
+				top: 3px;
+			}
+		}
+	}
+	.store-main-pic{
+		text-align:center;
+		margin-bottom: 20px;
+		font-size: 0;
+		.flex-item{
+			padding: 10px;
+		}
+		img{
+			display: block;
+			margin: 0 auto;
+
+		}
+	}
+}
+/* 搜索详情 */
+.store-action{
+	&.search-detail{
+		&::before{
+			display: none !important;
+		}
+		.store-attention{
+			.btn{
+				display: block;
+				margin: 20px 0 0 0;
+				width: 120px;
+				height: 40px;
+				line-height: 40px;
+				&:first-child{
+					background-color: #e6e6e6;
+					border-radius: 3px;
+					border: solid 1px #999999;
 				}
 			}
 		}
