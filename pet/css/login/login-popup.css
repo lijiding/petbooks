@@ -8,6 +8,7 @@
   opacity: 0.5;
   z-index: 100;
 }
+
 .login-popup-fun .login-popup {
   position: fixed;
   z-index: 200;
@@ -19,5 +20,3 @@
   margin-top: -180px;
   margin-left: -205px;
 }
-
-/*# sourceMappingURL=login-popup.css.map */
