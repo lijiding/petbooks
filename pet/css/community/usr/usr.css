@@ -1,32 +1,39 @@
 html body {
   /*! autoprefixer: off */
 }
+
 html body .search {
   background-color: #fff;
 }
+
 html body .usr-own-man {
   font-size: 16px;
   line-height: 26px;
   margin-bottom: 10px;
   background-color: #fff;
 }
+
 html body .usr-own-man .usr-own-box {
   width: 1190px;
   margin: 0 auto;
 }
+
 html body .usr-own-man .usr-own-box .usr-own {
   line-height: 50px;
   width: 900px;
   text-align: center;
 }
+
 html body .usr-own-man .usr-own-box .usr-own a {
   display: inline-block;
   margin: 0 18px;
 }
+
 html body .usr-own-man .usr-own-box .usr-own a.active {
   color: #ff5500;
   position: relative;
 }
+
 html body .usr-own-man .usr-own-box .usr-own a.active::before {
   content: '';
   display: block;
@@ -36,6 +43,7 @@ html body .usr-own-man .usr-own-box .usr-own a.active::before {
   height: 1px;
   background-color: #ff5500;
 }
+
 html body .usr-own-man .usr-own-box .usr-own a.active::after {
   content: '';
   display: block;
@@ -49,32 +57,38 @@ html body .usr-own-man .usr-own-box .usr-own a.active::after {
   border-width: 4px;
   border-color: #ff5500 transparent transparent transparent;
 }
+
 html body .pet-title {
   color: #ff5500;
   font-size: 18px;
   line-height: 40px;
 }
+
 html body .pet-desc {
   height: 80px;
   text-align: justiyf;
   margin-bottom: 30px;
 }
+
 html body .entrust-lose .entrust-lose-list {
   padding: 10px 10px 0 10px;
   background-color: #fff;
   border-radius: 5px;
   overflow: hidden;
 }
+
 html body .entrust-lose .entrust-lose-list .entrust-lose-item {
   padding: 0 !important;
   height: 195px !important;
 }
+
 html body .entrust-lose .entrust-lose-list li {
   padding: 0 !important;
   border-radius: 0 !important;
   position: relative;
   margin-bottom: 15px !important;
 }
+
 html body .entrust-lose .entrust-lose-list li::before {
   content: '';
   display: block;
@@ -86,24 +100,28 @@ html body .entrust-lose .entrust-lose-list li::before {
   height: 1px;
   background-color: #e6e6e6;
 }
+
 html body .entrust-lose .entrust-lose-list li:last-child {
   margin-bottom: 0 !important;
 }
+
 html body .entrust-lose .entrust-lose-list li:last-child::before {
   display: none;
   margin-bottom: 0 !important;
 }
+
 html body .entrust-lose .entrust-lose-list li:last-child .entrust-lose-item {
   margin-bottom: 0 !important;
 }
+
 html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action {
   width: auto !important;
 }
+
 html body .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .placeholder {
   width: 350px !important;
 }
+
 html body footer {
   background-color: #333;
 }
-
-/*# sourceMappingURL=usr.css.map */

@@ -29,13 +29,6 @@
 		"oAP": "\/pet\/done 1-19,all done",
 		"oF": 0
 		},
-	"\/done 1-7,news all done ": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/done 1-7,news all done ",
-		"oF": 0
-		},
 	"\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
@@ -45,12 +38,6 @@
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
-		},
-	"\/node_modules": {
-		"ft": 65536,
-		"oA": 2,
-		"oAP": "\/pet\/node_modules",
-		"oF": 1
 		},
 	"\/package-lock.json": {
 		"ft": 524288,

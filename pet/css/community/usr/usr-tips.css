@@ -1,9 +1,11 @@
 .usr-tips {
   background-color: #fff;
 }
+
 .usr-tips .usr-bg {
   width: 100%;
 }
+
 .usr-tips .usr-bg img {
   display: block;
   width: 1920px;
@@ -12,12 +14,14 @@
   left: 50%;
   margin-left: -960px;
 }
+
 .usr-tips .usr-info {
   width: 1190px;
   margin: 0 auto;
   position: relative;
   font-size: 0;
 }
+
 .usr-tips .usr-info .integrals {
   position: absolute;
   left: 0;
@@ -27,31 +31,37 @@
   padding-top: 10px;
   color: #fff;
 }
+
 .usr-tips .usr-info .integrals .integral-group {
   width: 50%;
   padding-right: 57px;
   float: left;
   overflow: hidden;
 }
+
 .usr-tips .usr-info .integrals .integral-group .integral {
   width: 257px;
   float: left;
   font-size: 20px;
   text-align: center;
 }
+
 .usr-tips .usr-info .integrals .integral-group .integral div {
   font-size: 16px;
   line-height: 20px;
 }
+
 .usr-tips .usr-info .integrals .integral-group:last-child {
   padding-right: 0;
   padding-left: 57px;
 }
+
 .usr-tips .usr-info .usr-desc {
   text-align: center;
   font-size: 14px;
   padding-top: 80px;
 }
+
 .usr-tips .usr-info .usr-desc .usr-logo {
   position: absolute;
   top: -70px;
@@ -60,24 +70,26 @@
   width: 140px;
   height: 140px;
 }
+
 .usr-tips .usr-info .usr-desc .usr-logo img {
   width: 140px;
   height: 140px;
   border-radius: 50%;
   border: 10px solid #fff;
 }
+
 .usr-tips .usr-info .usr-desc .usr-name {
   font-size: 18px;
   color: #ff5500;
 }
+
 .usr-tips .usr-info .usr-desc .usr-skills {
   color: #999999;
   font-size: 12px;
   line-height: 26px;
 }
+
 .usr-tips .usr-info .usr-desc .usr-desc-text {
   line-height: 26px;
   color: #4d4d4d;
 }
-
-/*# sourceMappingURL=usr-tips.css.map */
