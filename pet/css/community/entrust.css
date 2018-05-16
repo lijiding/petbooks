@@ -1,16 +1,13 @@
 html body .search {
   background-color: #fff;
 }
-
 html body .section .entrust-lose {
   width: 1190px;
   margin: 0 auto;
 }
-
 html body .section .entrust-lose .entrust-lose-list {
   float: left;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item {
   width: 880px;
   padding: 10px;
@@ -19,19 +16,16 @@ html body .section .entrust-lose .entrust-lose-list .entrust-lose-item {
   height: 200px;
   margin-bottom: 10px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-pet-log {
   float: left;
   width: 270px;
   height: 180px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-pet-log img {
   display: block;
   width: 100%;
   height: 100%;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc {
   float: left;
   width: 587px;
@@ -40,30 +34,24 @@ html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-
   color: #1a1a1a;
   line-height: 26px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-name .loaction-city img {
   position: relative;
   top: 3px;
   margin: 0 5px 0 15px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-kind .age {
   margin-left: 30px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-medicine, html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-desc, html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details {
   font-size: 12px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .pet-desc {
   line-height: 14px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details {
   margin: 10px 0;
   text-align: right;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .see-details a {
   display: inline-block;
   background-color: #ff5500;
@@ -76,30 +64,24 @@ html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-
   border-radius: 3px;
   margin: 0;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action {
   width: 300px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action img {
   position: relative;
   top: 2px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .placeholder {
   margin-right: 20px;
 }
-
 html body .section .entrust-lose .entrust-lose-list .entrust-lose-item .entrust-lose-desc .model-action .flex-item {
   text-align: center;
 }
-
 html body .section .entrust-lose .guess-like {
   float: left;
   padding-left: 10px;
   color: #4c4c4c;
 }
-
 html body .section .entrust-lose .guess-like .title {
   margin-bottom: 10px;
   background-color: #fff;
@@ -108,22 +90,18 @@ html body .section .entrust-lose .guess-like .title {
   font-size: 16px;
   padding-left: 20px;
 }
-
 html body .section .entrust-lose .guess-like .guess-list {
   font-size: 14px;
 }
-
 html body .section .entrust-lose .guess-like .guess-list .guess-item {
   position: relative;
   border-radius: 5px;
   overflow: hidden;
   margin-bottom: 10px;
 }
-
 html body .section .entrust-lose .guess-like .guess-list .guess-item .pet-image {
   display: block;
 }
-
 html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc {
   position: absolute;
   bottom: 0;
@@ -134,23 +112,21 @@ html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc
   line-height: 40px;
   padding: 0 10px;
 }
-
 html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc .fire {
   float: right;
 }
-
 html body .section .entrust-lose .guess-like .guess-list .guess-item .guess-desc .fire img {
   position: relative;
   top: 8px;
   margin-right: 10px;
 }
-
 html body .section .entrust-lose .guess-like .guess-list .guess-item:hover .guess-desc {
   background-color: #ff5500;
   color: #fff;
   opacity: 0.7;
 }
-
 html body footer {
   background-color: #333;
 }
+
+/*# sourceMappingURL=entrust.css.map */
