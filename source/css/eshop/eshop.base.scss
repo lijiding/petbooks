@@ -1,0 +1,122 @@
+@import "../build-base/site-config.scss";
+html{
+	body{
+		.page-inside-nav{
+			&.eshop{
+				.inside-nav{
+					font-size: 16px;
+					li{
+						height: 36px;
+						line-height: 36px;
+						margin-left: 20px;
+						&:first-child{
+							margin-left: 0;
+						}
+					}
+					a.active{
+						font-size: 16px;
+						&::after{
+							content: '';
+							display: block;
+							position: absolute;
+							bottom: 3px;
+							left: 50%;
+							margin-left: -5px;
+							height: 0;
+							width: 0;
+							border-width:5px;
+							border-style:solid;
+							border-color: transparent transparent $themecolor transparent;
+						}
+					}
+				}
+				&.all{
+					cursor:pointer;
+					.inside-nav{
+						padding-left: 200px;
+						font-size: 16px;
+						li{
+							height: 36px;
+							line-height: 36px;
+							margin-left: 20px;
+						}
+					}
+					.eshop-inside-nav{
+						z-index: 12;
+						@include manwidth();
+						position: relative;
+						.all-classes{
+							position: absolute;
+							left: 0;
+							top: 0;
+							width: 200px;
+							height: 45px;
+							z-index:101;
+							.all-classes-title{
+								padding: 9px 10px;
+								font-size: 18px;
+								width: 200px;
+								color:#fff;
+								background-color:$themecolor;
+								line-height: 16px;
+								.fa{
+									margin-right: 9px;
+								}
+							}
+							.all-classes-list{
+								width: 200px;
+								height: 400px;
+								position: relative;
+								overflow:visiable;
+								background-color: #262626;
+								.list-title{
+									line-height: 31px;
+									.classes-name{
+										padding-left: 10px;
+										color:#fff;
+										&:hover{
+											background-color: #fff;
+											color:#000;
+										}
+									}
+									.list-item-box{
+										display: none;
+										border-style:solid;
+										border-color:#343434;
+										border-width:1px 1px 1px 0;
+										position: absolute;
+										left: 200px;
+										width: 990px;
+										top: 0;
+										right: 0;
+										bottom: 0;
+										background-color: #fff;
+										color:#808080;
+									}
+									&:hover{
+										.list-item-box{
+											display: block;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+				
+				
+			}
+		}
+		footer{
+			background-color: #fff;
+			.footer{
+				color:#666;
+				.aboutus{
+					a{
+						color:#666;
+					}
+				}
+			}
+		}
+	}
+}
