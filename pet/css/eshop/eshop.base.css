@@ -329,6 +329,282 @@ html body .seckill .brands-seckill-scroll .swiper-pagination-bullet {
   height: 6px;
   margin: 0 2px;
 }
+html body .goods-module {
+  width: 1190px;
+  margin: 0 auto;
+}
+html body .goods-module.one .module-title {
+  line-height: 16px;
+  padding: 10px 0;
+  position: relative;
+  padding-left: 15px;
+}
+html body .goods-module.one .module-title::before {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 16px;
+  top: 10px;
+  left: 0;
+  width: 3px;
+  background-color: rgba(255, 85, 0, 0.67);
+}
+html body .goods-module.one .module-title .module-name {
+  font-size: 16px;
+  float: left;
+}
+html body .goods-module.one .module-title .module-name span {
+  color: #333;
+}
+html body .goods-module.one .module-title .module-desc {
+  font-size: 14px;
+}
+html body .goods-module.one .module-title .module-desc span {
+  color: #666;
+}
+html body .goods-module.one .module-items .goods-tips {
+  width: 190px;
+  min-width: 190px;
+  max-width: 190px;
+  position: relative;
+}
+html body .goods-module.one .module-items .goods-tips img {
+  display: block;
+  height: 400px;
+}
+html body .goods-module.one .module-items .goods-tips .tips-info {
+  position: absolute;
+  background-color: rgba(255, 85, 0, 0.67);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  color: #fff;
+  padding: 30px 0;
+  text-align: center;
+}
+html body .goods-module.one .module-items .goods-tips .tips-info .tips-title {
+  font-size: 18px;
+  margin-bottom: 7px;
+}
+html body .goods-module.one .module-items .goods-tips .tips-info .tips-desc {
+  font-size: 14px;
+}
+html body .goods-module.one .module-items .flex-item .list-box {
+  font-size: 0;
+}
+html body .goods-module.one .module-items .flex-item .goods-item {
+  float: left;
+  width: 200px;
+  border-bottom: 1px solid #e6e6e6;
+  border-left: 1px solid #e6e6e6;
+  text-align: center;
+  background-color: #fff;
+  height: 200px;
+}
+html body .goods-module.one .module-items .flex-item .goods-item .goods-item-tips {
+  font-size: 16px;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+html body .goods-module.one .module-items .flex-item .goods-item .goods-item-desc {
+  color: rgba(255, 85, 0, 0.67);
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+html body .goods-module.one .module-brands ul {
+  font-size: 0;
+}
+html body .goods-module.one .module-brands ul li {
+  display: inline-block;
+  width: 119px;
+  border-left: 1px solid #e6e6e6;
+}
+html body .goods-module {
+  width: 1190px;
+  margin: 0 auto;
+}
+html body .goods-module.two .module-title {
+  line-height: 16px;
+  padding: 10px 0;
+  position: relative;
+  padding-left: 15px;
+}
+html body .goods-module.two .module-title::before {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 16px;
+  top: 10px;
+  left: 0;
+  width: 3px;
+  background-color: rgba(255, 170, 0, 0.67);
+}
+html body .goods-module.two .module-title .module-name {
+  font-size: 16px;
+  float: left;
+}
+html body .goods-module.two .module-title .module-name span {
+  color: #333;
+}
+html body .goods-module.two .module-title .module-desc {
+  font-size: 14px;
+}
+html body .goods-module.two .module-title .module-desc span {
+  color: #666;
+}
+html body .goods-module.two .module-items .goods-tips {
+  width: 190px;
+  min-width: 190px;
+  max-width: 190px;
+  position: relative;
+}
+html body .goods-module.two .module-items .goods-tips img {
+  display: block;
+  height: 400px;
+}
+html body .goods-module.two .module-items .goods-tips .tips-info {
+  position: absolute;
+  background-color: rgba(255, 170, 0, 0.67);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  color: #fff;
+  padding: 30px 0;
+  text-align: center;
+}
+html body .goods-module.two .module-items .goods-tips .tips-info .tips-title {
+  font-size: 18px;
+  margin-bottom: 7px;
+}
+html body .goods-module.two .module-items .goods-tips .tips-info .tips-desc {
+  font-size: 14px;
+}
+html body .goods-module.two .module-items .flex-item .list-box {
+  font-size: 0;
+}
+html body .goods-module.two .module-items .flex-item .goods-item {
+  float: left;
+  width: 200px;
+  border-bottom: 1px solid #e6e6e6;
+  border-left: 1px solid #e6e6e6;
+  text-align: center;
+  background-color: #fff;
+  height: 200px;
+}
+html body .goods-module.two .module-items .flex-item .goods-item .goods-item-tips {
+  font-size: 16px;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+html body .goods-module.two .module-items .flex-item .goods-item .goods-item-desc {
+  color: rgba(255, 170, 0, 0.67);
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+html body .goods-module.two .module-brands ul {
+  font-size: 0;
+}
+html body .goods-module.two .module-brands ul li {
+  display: inline-block;
+  width: 119px;
+  border-left: 1px solid #e6e6e6;
+}
+html body .goods-module {
+  width: 1190px;
+  margin: 0 auto;
+}
+html body .goods-module.three .module-title {
+  line-height: 16px;
+  padding: 10px 0;
+  position: relative;
+  padding-left: 15px;
+}
+html body .goods-module.three .module-title::before {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 16px;
+  top: 10px;
+  left: 0;
+  width: 3px;
+  background-color: rgba(43, 217, 159, 0.6);
+}
+html body .goods-module.three .module-title .module-name {
+  font-size: 16px;
+  float: left;
+}
+html body .goods-module.three .module-title .module-name span {
+  color: #333;
+}
+html body .goods-module.three .module-title .module-desc {
+  font-size: 14px;
+}
+html body .goods-module.three .module-title .module-desc span {
+  color: #666;
+}
+html body .goods-module.three .module-items .goods-tips {
+  width: 190px;
+  min-width: 190px;
+  max-width: 190px;
+  position: relative;
+}
+html body .goods-module.three .module-items .goods-tips img {
+  display: block;
+  height: 400px;
+}
+html body .goods-module.three .module-items .goods-tips .tips-info {
+  position: absolute;
+  background-color: rgba(43, 217, 159, 0.6);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  color: #fff;
+  padding: 30px 0;
+  text-align: center;
+}
+html body .goods-module.three .module-items .goods-tips .tips-info .tips-title {
+  font-size: 18px;
+  margin-bottom: 7px;
+}
+html body .goods-module.three .module-items .goods-tips .tips-info .tips-desc {
+  font-size: 14px;
+}
+html body .goods-module.three .module-items .flex-item .list-box {
+  font-size: 0;
+}
+html body .goods-module.three .module-items .flex-item .goods-item {
+  float: left;
+  width: 200px;
+  border-bottom: 1px solid #e6e6e6;
+  border-left: 1px solid #e6e6e6;
+  text-align: center;
+  background-color: #fff;
+  height: 200px;
+}
+html body .goods-module.three .module-items .flex-item .goods-item .goods-item-tips {
+  font-size: 16px;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+html body .goods-module.three .module-items .flex-item .goods-item .goods-item-desc {
+  color: rgba(43, 217, 159, 0.6);
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+html body .goods-module.three .module-brands ul {
+  font-size: 0;
+}
+html body .goods-module.three .module-brands ul li {
+  display: inline-block;
+  width: 119px;
+  border-left: 1px solid #e6e6e6;
+}
 html body footer {
   background-color: #fff;
 }

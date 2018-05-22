@@ -342,6 +342,114 @@ html{
 				}
 			}
 		}
+		@mixin goodsmodule($color,$selector:' ') {
+			.goods-module{
+				@include manwidth();
+				&#{$selector}{
+					.module-title{
+						line-height: 16px;
+						padding: 10px 0;
+						position: relative;
+						padding-left: 15px;
+						&::before{
+							content:'';
+							display: block;
+							position: absolute;
+							height: 16px;
+							top: 10px;
+							left: 0;
+							width: 3px;
+							background-color: $color;
+						}
+						.module-name{
+							font-size: 16px;
+							float: left;
+							span{
+								color:#333;
+							}
+						}
+						.module-desc{
+							font-size: 14px;
+							span{
+								color:#666;
+							}
+						}
+					}
+					.module-items{
+						.goods-tips{
+							width: 190px;
+							min-width: 190px;
+							max-width:190px;
+							position: relative;
+							img{
+								display: block;
+								height: 400px;
+							}
+							.tips-info{
+								position: absolute;
+								background-color: $color;
+								bottom: 0;
+								left: 0;
+								right: 0;
+								height: 100px;
+								color:#fff;
+								padding: 30px 0;
+								text-align:center;
+								.tips-title{
+									font-size: 18px;
+									margin-bottom: 7px;
+								}
+								.tips-desc{
+									font-size: 14px;
+								}
+							}
+						}
+						.flex-item{
+							.list-box{
+								font-size: 0;
+							}
+							.goods-item{
+								float: left;
+								width: 200px;
+								border:{
+									bottom:1px solid #e6e6e6;
+									left:1px solid #e6e6e6;
+								}
+								text-align:center;
+								background-color: #fff;
+								height: 200px;
+								.goods-item-tips{
+									font-size: 16px;
+									color:#333;
+									margin-top: 20px;
+									margin-bottom: 5px;
+								}
+								.goods-item-desc{
+									color:$color;
+									font-size: 14px;
+									margin-bottom: 5px;
+								}
+							}
+						}
+						
+					}
+					.module-brands{
+						ul{
+							font-size: 0;
+							li{
+								display: inline-block;
+								width: 119px;
+								border-left: 1px solid #e6e6e6;
+
+							}
+						}
+					}
+				}
+			}
+		}
+		@include goodsmodule(rgba(255, 85, 0, 0.67),'.one');
+		@include goodsmodule(rgba(255, 170, 0, 0.67),'.two');
+		@include goodsmodule(rgba(43, 217, 159, 0.6),'.three');
 		footer{
 			background-color: #fff;
 			.footer{

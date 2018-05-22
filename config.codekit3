@@ -1655,6 +1655,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/img\/eshop\/goods-item.png": {
+		"ft": 32768,
+		"iS": 22904,
+		"oA": 0,
+		"oAP": "\/pet\/img\/eshop\/goods-item.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/eshop\/goods-tips.png": {
+		"ft": 32768,
+		"iS": 139214,
+		"oA": 0,
+		"oAP": "\/pet\/img\/eshop\/goods-tips.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/img\/eshop\/seckill\/brands.png": {
 		"ft": 32768,
 		"iS": 40097,
