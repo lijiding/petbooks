@@ -450,6 +450,13 @@ html{
 		@include goodsmodule(rgba(255, 85, 0, 0.67),'.one');
 		@include goodsmodule(rgba(255, 170, 0, 0.67),'.two');
 		@include goodsmodule(rgba(43, 217, 159, 0.6),'.three');
+		@import "../community/search/filter-choose.scss";
+		.search-choose .filter-detail .filter-class.filtered .filter-item a::before{
+		    background-image: url(../../img/close-normal.png);
+		}
+		.search-choose .filter-detail .filter-class.filtered .filter-item a:hover::before{
+			background-image: url(../../img/close.png);
+		}
 		footer{
 			background-color: #fff;
 			.footer{

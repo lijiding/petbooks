@@ -605,6 +605,118 @@ html body .goods-module.three .module-brands ul li {
   width: 119px;
   border-left: 1px solid #e6e6e6;
 }
+html body .search-choose {
+  width: 1190px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+html body .search-choose .use-filter {
+  text-align: right;
+  margin-bottom: 10px;
+}
+html body .search-choose .use-filter a {
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 3px;
+  text-align: center;
+}
+html body .search-choose .filter-detail {
+  background-color: #fff;
+  color: #666;
+  font-size: 14px;
+  line-height: 20px;
+}
+html body .search-choose .filter-detail .filter-class {
+  padding: 4px 0;
+  border-top: 1px solid #e6e6e6;
+}
+html body .search-choose .filter-detail .filter-class.filtered {
+  border: none;
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-title {
+  color: #666;
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-item a {
+  position: relative;
+  border: 1px solid #808080;
+  border-radius: 3px;
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-item a::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background-image: url("../../../img/close-normal.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 5px;
+  right: 4px;
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-item a:hover {
+  border: 1px solid #ff5500;
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-item a:hover::before {
+  background-image: url("../../../img/close.png");
+}
+html body .search-choose .filter-detail .filter-class .filter-title {
+  width: 64px;
+  text-align: center;
+  color: #ff5500;
+  position: relative;
+  line-height: 30px;
+}
+html body .search-choose .filter-detail .filter-class .filter-title::before {
+  content: '';
+  display: block;
+  width: 2px;
+  height: 10px;
+  background-color: #666;
+  position: absolute;
+  top: 10px;
+  right: 0;
+}
+html body .search-choose .filter-detail .filter-class .filter-item a {
+  display: inline-block;
+  padding: 0px 16px 0px 4px;
+  margin: 5px 0px 5px 20px;
+  color: #666;
+}
+html body .search-choose .filter-detail .filter-class .hide-more {
+  width: 80px;
+  padding-left: 20px;
+  color: #ff5500;
+}
+html body .search-choose .filter-detail .filter-class .hide-more a {
+  color: #ff5500;
+}
+html body .search-choose .filter-detail .filter-class .hide-more a:hover {
+  color: #666;
+}
+html body .search-choose .filter-detail .filter-class .hide-more .fa-angle-up {
+  display: none;
+}
+html body .search-choose .filter-detail .filter-class .hide-more.hiding a {
+  color: #666;
+}
+html body .search-choose .filter-detail .filter-class .hide-more.hiding a:hover {
+  color: #ff5500;
+}
+html body .search-choose .filter-detail .filter-class .hide-more.hiding .fa-angle-down {
+  display: none;
+}
+html body .search-choose .filter-detail .filter-class .hide-more.hiding .fa-angle-up {
+  display: inline-block;
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-item a::before {
+  background-image: url(../../img/close-normal.png);
+}
+html body .search-choose .filter-detail .filter-class.filtered .filter-item a:hover::before {
+  background-image: url(../../img/close.png);
+}
 html body footer {
   background-color: #fff;
 }

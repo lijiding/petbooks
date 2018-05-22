@@ -4541,6 +4541,13 @@
 		"oAP": "\/pet\/page\/eshop\/index.html",
 		"oF": 0
 		},
+	"\/source\/page\/eshop\/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/eshop\/search.html",
+		"oF": 0
+		},
 	"\/source\/page\/login\/login-popup.html": {
 		"cB": 0,
 		"ft": 8192,
