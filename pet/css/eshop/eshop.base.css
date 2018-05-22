@@ -63,11 +63,14 @@ html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes
   margin-right: 9px;
 }
 html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list {
+  display: none;
   width: 200px;
   height: 400px;
   position: relative;
   overflow: visiable;
   background-color: #262626;
+  border-top: 1px solid #262626;
+  font-size: 14px;
 }
 html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title {
   line-height: 31px;
@@ -76,9 +79,23 @@ html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes
   padding-left: 10px;
   color: #fff;
 }
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name img {
+  margin-right: 5px;
+  position: relative;
+  top: 3px;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name img.name-icon {
+  display: none;
+}
 html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name:hover {
   background-color: #fff;
   color: #000;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name:hover img {
+  display: none;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name:hover img.name-icon {
+  display: inline-block;
 }
 html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box {
   display: none;
@@ -88,14 +105,229 @@ html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes
   position: absolute;
   left: 200px;
   width: 990px;
-  top: 0;
+  top: -1px;
   right: 0;
   bottom: 0;
   background-color: #fff;
   color: #808080;
+  padding-left: 30px;
+  line-height: 26px;
+  font-size: 0;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-tips {
+  padding-top: 10px;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-tips span {
+  background-color: #ff5500;
+  color: #fff;
+  padding: 0 10px;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 12px;
+  margin-right: 20px;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-filter .filter-title {
+  width: 95px;
+  font-size: 14px;
+  padding-top: 5px;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-filter .flex-item {
+  margin-left: -30px;
+  padding-right: 104px;
+  position: relative;
+  padding-top: 5px;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-filter .flex-item::before {
+  content: '';
+  display: block;
+  position: absolute;
+  right: 104px;
+  top: 0;
+  left: 30px;
+  height: 1px;
+  background-color: #e6e6e6;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-filter .flex-item.none::before {
+  display: none;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-filter .filter-item {
+  font-size: 14px;
+  margin-left: 30px;
+  float: left;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box .item-filter .filter-item:hover {
+  color: #ff5500;
 }
 html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title:hover .list-item-box {
   display: block;
+}
+html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes:hover .all-classes-list {
+  display: block;
+}
+html body .brand {
+  width: 1190px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+html body .brand .brands-list {
+  font-size: 0;
+  margin-left: -1px;
+}
+html body .brand .brands-list li {
+  margin-left: 1px;
+  margin-bottom: 1px;
+  width: 118px;
+  float: left;
+}
+html body .brand .brands-list li a {
+  display: inline-block;
+}
+html body .brand .brands-list li img {
+  width: 100%;
+  display: block;
+}
+html body .brand .brands-list li.more-brand {
+  font-size: 14px;
+  color: #808080;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 89px;
+  background-color: #fff;
+}
+html body .seckill {
+  width: 1190px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+html body .seckill .seckill-title {
+  width: 190px;
+  background-color: #e83632;
+  text-align: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+html body .seckill .seckill-title h2 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: normal;
+  margin-top: 35px;
+  margin-bottom: 5px;
+}
+html body .seckill .seckill-title h2 + p {
+  font-size: 21px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 15px;
+}
+html body .seckill .seckill-title .seckill-time-remain {
+  color: #fff;
+  font-size: 16px;
+  margin: 17px 0;
+}
+html body .seckill .seckill-title .time-remain-notice {
+  width: 140px;
+  margin: 0 auto;
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 18px;
+}
+html body .seckill .seckill-title .time-remain-notice .flex-item {
+  background-color: rgba(0, 0, 0, 0.67);
+  line-height: 40px;
+}
+html body .seckill .seckill-list {
+  width: 800px;
+}
+html body .seckill .seckill-scroll .swiper-button {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  width: 20px;
+  height: 40px;
+  font-size: 14px;
+  background-image: none;
+  text-align: center;
+  line-height: 40px;
+  cursor: pointer;
+}
+html body .seckill .seckill-scroll .swiper-button.swiper-button-prev {
+  left: 0;
+}
+html body .seckill .seckill-scroll .swiper-button.swiper-button-next {
+  right: 0;
+}
+html body .seckill .seckill-scroll .swiper-slide {
+  background-color: #fff;
+  text-align: center;
+}
+html body .seckill .seckill-scroll .swiper-slide img {
+  margin-top: 20px;
+}
+html body .seckill .seckill-scroll .swiper-slide p {
+  font-size: 14px;
+  line-height: 26px;
+  color: #4d4a4a;
+  margin: 20px 0;
+}
+html body .seckill .seckill-scroll .swiper-slide .seckill-action {
+  font-size: 0;
+  margin-bottom: 20px;
+}
+html body .seckill .seckill-scroll .swiper-slide .seckill-action a {
+  width: 130px;
+  height: 30px;
+  background-color: #e83632;
+  font-size: 14px;
+  margin: 0;
+  line-height: 30px;
+}
+html body .seckill .seckill-scroll .swiper-slide .seckill-action a img {
+  width: 9px;
+  float: left;
+  position: relative;
+  top: -13px;
+  left: 10px;
+}
+html body .seckill .seckill-scroll .swiper-slide .seckill-action del {
+  font-size: 12px;
+  color: #999999;
+}
+html body .seckill .brands-seckill-scroll {
+  background-color: #fff;
+  width: 200px;
+  margin-left: 1px;
+}
+html body .seckill .brands-seckill-scroll .swiper-slide {
+  background-color: #fff;
+  padding: 10px;
+}
+html body .seckill .brands-seckill-scroll .swiper-slide .brands-item {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding-bottom: 19px;
+  color: #ff5500;
+}
+html body .seckill .brands-seckill-scroll .swiper-slide .brands-item img {
+  margin: 21px 0;
+}
+html body .seckill .brands-seckill-scroll .swiper-slide .brands-item h3 {
+  font-size: 18px;
+  font-weight: normal;
+}
+html body .seckill .brands-seckill-scroll .swiper-slide .brands-item .gap {
+  width: 120px;
+  height: 3px;
+  background-color: #ff5500;
+  margin: 10px auto;
+}
+html body .seckill .brands-seckill-scroll .swiper-slide .brands-item h6 {
+  font-size: 14px;
+  font-weight: normal;
+}
+html body .seckill .brands-seckill-scroll .swiper-pagination-bullet {
+  width: 6px;
+  height: 6px;
+  margin: 0 2px;
 }
 html body footer {
   background-color: #fff;
