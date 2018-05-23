@@ -957,6 +957,7 @@ html{
 				background-color: #2e3a47;
 			.time-list{
 				height: 56px;
+				overflow: visible;
 				@include manwidth();
 				.swiper-container{
 					padding: 0 45px;
@@ -1003,8 +1004,10 @@ html{
 			}
 			.current-result-style{
 				float: left;
+				overflow: visible;
 				.filter-rules{
 					font-size: 0;
+					overflow: visible;
 					.btn{
 						border-radius:0;
 						margin: 0;
@@ -1018,11 +1021,25 @@ html{
 						border:none;
 						background-color: #2e3a47;
 						color:#999696;
+						position: relative;
+						overflow: visible;
 						&.active{
 							background-color: $themecolor;
 							color:#fff;
-							z-index:-1;
 							margin-left: 0;
+							&::before{
+								content:'';
+								display: block;
+								position: absolute;
+								bottom: -18px;
+								left: 50%;
+								width: 0;
+								height: 0;
+								margin-left: -5px;
+								border-width:9px;
+								border-style:solid;
+								border-color:$themecolor transparent transparent transparent;
+							}
 						}
 					}
 					.down{
@@ -1041,6 +1058,110 @@ html{
 								display: inline-block;
 							}
 							&[class*='down']{
+								display: none;
+							}
+						}
+					}
+				}
+			}
+		}
+		.seckill-result{
+			.seckill-result-list{
+				@include manwidth();
+				margin-top: 20px;
+				.lists{
+					margin-left: -10px;
+					font-size: 0;
+					.list-item{
+						display: inline-block;
+						width: 390px;
+						border-radius:5px;
+						overflow:hidden;
+						background-color: #fff;
+						margin-left: 10px;
+						margin-bottom: 10px;
+						img{
+							display: block;
+						}
+						.flex-item{
+							padding-left: 9px;
+							padding-right: 10px;
+						}
+						.seckill-title{
+							font-size: 16px;
+							color: #4d4d4d;
+							margin-top: 14px;
+						}
+						.seckill-rule{
+							color:$themecolor;
+							margin-top: 8px;
+							font-size: 14px;
+						}
+						.initial-money{
+							font-size: 12px;
+							color:#b3b3b3;
+							margin-top: 10px;
+						}
+						.seckill-money{
+							font-size: 24px;
+							color:$themecolor;
+							small{
+								font-size: 16px;
+							}
+						}
+						.btn{
+							margin: 0;
+							margin-top: 15px;
+							background-color: #ffccb2;
+							color:$themecolor;
+							border-color:#ffccb2;
+						}
+						.seckill-st{
+							color:#b3b3b3;
+							font-size: 12px;
+							margin-top: 10px;
+						}
+						.wedget{
+							height: 13px;
+							width: 190px;
+							margin-top: 5px;
+							border-radius:6px;
+							border:1px solid #ff5500;
+							font-size: 0;
+							span{
+								display: inline-block;
+								border-radius:6px;
+								height: 100%;
+								width: 40%;
+								background-color: #ffccb2;
+							}
+						}
+						&.none{
+							.seckill-rule{
+								color:#b3b3b3;
+							}
+							.btn{
+								background-color: #b3b3b3;
+								color:#fff;
+								border-color:#b3b3b3;
+							}
+							.wedget{
+								display: none;
+							}
+						}
+						&.prepare{
+							.seckill-rule{
+
+							}
+							.btn{
+								color:#21d921;
+								border-color:#21d921;
+								background-color: #fff;
+							}
+							.seckill-st{
+								color:#21d921;
+							}
+							.wedget{
 								display: none;
 							}
 						}

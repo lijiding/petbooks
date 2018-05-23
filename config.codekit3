@@ -45,6 +45,14 @@
 		"oAP": "\/pet\/node_modules",
 		"oF": 1
 		},
+	"\/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/pet\/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2006,7 +2014,7 @@
 		},
 	"\/source\/img\/eshop\/circle.png": {
 		"ft": 32768,
-		"iS": 339,
+		"iS": 759,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/circle.png",
 		"oF": 0,
@@ -2097,6 +2105,17 @@
 		"iS": 101236,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/search-item.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/eshop\/seckill-list-item.png": {
+		"ft": 32768,
+		"iS": 59272,
+		"oA": 0,
+		"oAP": "\/pet\/img\/eshop\/seckill-list-item.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -2248,7 +2267,7 @@
 		},
 	"\/source\/img\/login\/phone.png": {
 		"ft": 32768,
-		"iS": 541,
+		"iS": 198,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/phone.png",
 		"oF": 0,
@@ -2259,7 +2278,7 @@
 		},
 	"\/source\/img\/login\/pw.png": {
 		"ft": 32768,
-		"iS": 723,
+		"iS": 380,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/pw.png",
 		"oF": 0,
@@ -2292,7 +2311,7 @@
 		},
 	"\/source\/img\/login\/third-sigin.png": {
 		"ft": 32768,
-		"iS": 15551,
+		"iS": 15208,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/third-sigin.png",
 		"oF": 0,
@@ -2303,7 +2322,7 @@
 		},
 	"\/source\/img\/login\/usr.png": {
 		"ft": 32768,
-		"iS": 704,
+		"iS": 361,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/usr.png",
 		"oF": 0,
@@ -2714,7 +2733,7 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/pet\/js\/normal.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
@@ -5146,7 +5165,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 548758022
+	"lastBuiltDate": 548773266
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

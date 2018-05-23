@@ -1198,6 +1198,7 @@ html body .seckill-time-list {
 }
 html body .seckill-time-list .time-list {
   height: 56px;
+  overflow: visible;
   width: 1190px;
   margin: 0 auto;
 }
@@ -1244,9 +1245,11 @@ html body .seckill-time-list .time-list .swiper-slide:hover {
 }
 html body .seckill-time-list .current-result-style {
   float: left;
+  overflow: visible;
 }
 html body .seckill-time-list .current-result-style .filter-rules {
   font-size: 0;
+  overflow: visible;
 }
 html body .seckill-time-list .current-result-style .filter-rules .btn {
   border-radius: 0;
@@ -1261,12 +1264,26 @@ html body .seckill-time-list .current-result-style .filter-rules .btn {
   border: none;
   background-color: #2e3a47;
   color: #999696;
+  position: relative;
+  overflow: visible;
 }
 html body .seckill-time-list .current-result-style .filter-rules .btn.active {
   background-color: #ff5500;
   color: #fff;
-  z-index: -1;
   margin-left: 0;
+}
+html body .seckill-time-list .current-result-style .filter-rules .btn.active::before {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -18px;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-left: -5px;
+  border-width: 9px;
+  border-style: solid;
+  border-color: #ff5500 transparent transparent transparent;
 }
 html body .seckill-time-list .current-result-style .filter-rules .down .fa[class*='down'] {
   display: inline-block;
@@ -1278,6 +1295,102 @@ html body .seckill-time-list .current-result-style .filter-rules .up .fa[class*=
   display: inline-block;
 }
 html body .seckill-time-list .current-result-style .filter-rules .up .fa[class*='down'] {
+  display: none;
+}
+html body .seckill-result .seckill-result-list {
+  width: 1190px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+html body .seckill-result .seckill-result-list .lists {
+  margin-left: -10px;
+  font-size: 0;
+}
+html body .seckill-result .seckill-result-list .lists .list-item {
+  display: inline-block;
+  width: 390px;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item img {
+  display: block;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .flex-item {
+  padding-left: 9px;
+  padding-right: 10px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .seckill-title {
+  font-size: 16px;
+  color: #4d4d4d;
+  margin-top: 14px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .seckill-rule {
+  color: #ff5500;
+  margin-top: 8px;
+  font-size: 14px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .initial-money {
+  font-size: 12px;
+  color: #b3b3b3;
+  margin-top: 10px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .seckill-money {
+  font-size: 24px;
+  color: #ff5500;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .seckill-money small {
+  font-size: 16px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .btn {
+  margin: 0;
+  margin-top: 15px;
+  background-color: #ffccb2;
+  color: #ff5500;
+  border-color: #ffccb2;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .seckill-st {
+  color: #b3b3b3;
+  font-size: 12px;
+  margin-top: 10px;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .wedget {
+  height: 13px;
+  width: 190px;
+  margin-top: 5px;
+  border-radius: 6px;
+  border: 1px solid #ff5500;
+  font-size: 0;
+}
+html body .seckill-result .seckill-result-list .lists .list-item .wedget span {
+  display: inline-block;
+  border-radius: 6px;
+  height: 100%;
+  width: 40%;
+  background-color: #ffccb2;
+}
+html body .seckill-result .seckill-result-list .lists .list-item.none .seckill-rule {
+  color: #b3b3b3;
+}
+html body .seckill-result .seckill-result-list .lists .list-item.none .btn {
+  background-color: #b3b3b3;
+  color: #fff;
+  border-color: #b3b3b3;
+}
+html body .seckill-result .seckill-result-list .lists .list-item.none .wedget {
+  display: none;
+}
+html body .seckill-result .seckill-result-list .lists .list-item.prepare .btn {
+  color: #21d921;
+  border-color: #21d921;
+  background-color: #fff;
+}
+html body .seckill-result .seckill-result-list .lists .list-item.prepare .seckill-st {
+  color: #21d921;
+}
+html body .seckill-result .seckill-result-list .lists .list-item.prepare .wedget {
   display: none;
 }
 
