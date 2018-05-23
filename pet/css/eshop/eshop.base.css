@@ -1193,5 +1193,92 @@ html body .ticket-lists .next-classes div .btn {
   border-radius: 3px;
   display: block;
 }
+html body .seckill-time-list {
+  background-color: #2e3a47;
+}
+html body .seckill-time-list .time-list {
+  height: 56px;
+  width: 1190px;
+  margin: 0 auto;
+}
+html body .seckill-time-list .time-list .swiper-container {
+  padding: 0 45px;
+  height: 56px;
+  width: 920px;
+  float: left;
+}
+html body .seckill-time-list .time-list .time {
+  color: #999;
+  font-size: 24px;
+  margin-top: 8px;
+}
+html body .seckill-time-list .time-list p {
+  font-size: 12px;
+  color: #999;
+}
+html body .seckill-time-list .time-list .swiper-button {
+  background-image: none;
+  color: #b3b3b3;
+  font-size: 30px;
+  height: 56px;
+  width: 37px;
+  text-align: center;
+  line-height: 56px;
+  top: 22px;
+  z-index: 100;
+  background-color: #333;
+}
+html body .seckill-time-list .time-list .swiper-button.swiper-button-prev {
+  left: 0;
+}
+html body .seckill-time-list .time-list .swiper-button.swiper-button-next {
+  right: 0;
+}
+html body .seckill-time-list .time-list .swiper-slide {
+  width: 130px;
+  text-align: center;
+  cursor: pointer;
+}
+html body .seckill-time-list .time-list .swiper-slide:hover {
+  background-color: #fff;
+}
+html body .seckill-time-list .current-result-style {
+  float: left;
+}
+html body .seckill-time-list .current-result-style .filter-rules {
+  font-size: 0;
+}
+html body .seckill-time-list .current-result-style .filter-rules .btn {
+  border-radius: 0;
+  margin: 0;
+  margin-left: -1px;
+  font-size: 14px;
+  z-index: 1;
+  width: auto;
+  width: 90px;
+  height: 56px;
+  line-height: 56px;
+  border: none;
+  background-color: #2e3a47;
+  color: #999696;
+}
+html body .seckill-time-list .current-result-style .filter-rules .btn.active {
+  background-color: #ff5500;
+  color: #fff;
+  z-index: -1;
+  margin-left: 0;
+}
+html body .seckill-time-list .current-result-style .filter-rules .down .fa[class*='down'] {
+  display: inline-block;
+}
+html body .seckill-time-list .current-result-style .filter-rules .down .fa[class*='up'] {
+  display: none;
+}
+html body .seckill-time-list .current-result-style .filter-rules .up .fa[class*='up'] {
+  display: inline-block;
+}
+html body .seckill-time-list .current-result-style .filter-rules .up .fa[class*='down'] {
+  display: none;
+}
 
 /*# sourceMappingURL=eshop.base.css.map */

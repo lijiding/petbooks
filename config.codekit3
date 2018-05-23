@@ -5058,6 +5058,13 @@
 		"oAP": "\/pet\/page\/eshop\/search.html",
 		"oF": 0
 		},
+	"\/source\/page\/eshop\/seckill.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/eshop\/seckill.html",
+		"oF": 0
+		},
 	"\/source\/page\/eshop\/ticket.html": {
 		"cB": 0,
 		"ft": 8192,
