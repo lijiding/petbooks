@@ -1,0 +1,32 @@
+@import "../../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+		.section{
+			@import "./filter-choose.scss";
+			// search-model-diff
+			.model{
+				.model-name ul li{
+					a{
+					}
+				}
+				.model-name a.more{
+					font-size: 12px;
+					color:#333333 !important;
+				}
+			}
+
+		}
+		.ad{
+			img{
+				margin-top: 0;
+			}
+		}
+	}
+}

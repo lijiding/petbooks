@@ -1,0 +1,112 @@
+@import "../../build-base/site-config.scss";
+html{
+	body{
+		header{
+		}
+		.search{
+			background-color: #fff;
+			.site-search{
+			}
+		}
+		// @import "./usr-tips.scss";
+		.usr-setting.invitation .right{
+			background-color: inherit;
+		}
+		.usr-setting.invitation .right .invitation{
+			.post-item{
+				background-color: #fff;
+				margin-bottom: 10px;
+				border-radius:5px;
+				padding-bottom: 17px;
+				.info-tips{
+					margin: 20px 0;
+					line-height: 50px;
+					border-bottom:1px solid #b3b3b3;
+					padding-left: 30px;
+					margin-top: 0;
+					.info-title-notice{
+						color:#b3b3b3;
+						font-size: 12px;
+						margin-left: 30px;
+					}
+				}
+				.info-change{
+					margin: 25px 0 25px 30px;
+					.info-title{
+						width: 10px;
+						padding-right: 0;
+						margin-right: 0;
+						line-height: 40px;
+					}
+					.pretty-select{
+						float: left;
+						margin-right: 20px;
+						&.more-select{
+							width: 360px;
+						}
+					}
+
+				}
+				&.upload-video{
+					a{
+						margin-left: 0;
+					}
+				}
+				&.invitation-tags{
+					input{
+						width: 360px !important;
+					}
+					.pretty-input-text{
+						float: left;
+						padding-right: 10px;
+					}
+					.tags-notice{
+						color:#b3b3b3;
+						line-height: 40px;
+					}
+					.edited-tags{
+						line-height: 30px;
+						padding: 10px 0;
+						font-size: 0;
+						span{
+							display: inline-block;
+							background-color: #e6e6e6;;
+							width: 94px;
+							border-radius:3px;
+							position: relative;
+							padding-left: 10px;
+							font-size: 14px;
+							margin-right: 10px;
+							user-select:none;
+							&::before{
+								content:'x';
+								display: block;
+								position: absolute;
+								right: 10px;top: 0;
+								font-size: 12px;
+							}
+							&:hover{
+								background-color: $themecolor;
+								color:#fff;
+							}
+
+						}
+					}
+				}
+			}
+		}
+		.usr-setting.invitation .right .invitation-action{
+			a{
+				width: 180px;
+				height: 40px;
+				line-height: 40px;
+			}
+		}
+		.pretty-input-text,.pretty-textarea{
+			padding-right: 50px;
+		}
+		.pretty-textarea{
+
+		}
+	}
+}

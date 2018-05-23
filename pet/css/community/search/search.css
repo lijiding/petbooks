@@ -27,7 +27,7 @@ html body .section .search-choose .filter-detail {
   line-height: 20px;
 }
 html body .section .search-choose .filter-detail .filter-class {
-  padding: 12px 0 12px 0px;
+  padding: 4px 0;
   border-top: 1px solid #e6e6e6;
 }
 html body .section .search-choose .filter-detail .filter-class.filtered {
@@ -113,9 +113,6 @@ html body .section .model .model-name a.more {
 }
 html body .ad img {
   margin-top: 0;
-}
-html body footer {
-  background-color: #333;
 }
 
 /*# sourceMappingURL=search.css.map */
