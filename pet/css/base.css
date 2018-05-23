@@ -460,34 +460,46 @@ header .usr-help .help a {
 }
 
 /* footer */
-.footer {
+footer {
+  background-color: #333;
+}
+footer .footer {
   width: 1190px;
   margin: 0 auto;
   color: #ccc;
   text-align: center;
   font-size: 12px;
 }
-.footer .aboutus {
+footer .footer .aboutus {
   font-size: 16px;
   padding: 30px 0 45px 0;
 }
-.footer .aboutus a {
+footer .footer .aboutus a {
   color: #ccc;
 }
-.footer .aboutus span {
+footer .footer .aboutus span {
   margin: 0 10px;
 }
-.footer .copyright span {
+footer .footer .copyright span {
   margin: 0 10px;
 }
-.footer .reference {
+footer .footer .reference {
   padding: 10px 0;
 }
-.footer .reference span {
+footer .footer .reference span {
   margin: 0 8px;
 }
-.footer .approve {
+footer .footer .approve {
   padding: 40px 0 60px 0;
+}
+footer.lighten {
+  background-color: #fff;
+}
+footer.lighten .footer {
+  color: #666666;
+}
+footer.lighten .aboutus a {
+  color: #4d4d4d;
 }
 
 /* pet base modules */
