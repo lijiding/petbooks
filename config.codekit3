@@ -45,14 +45,6 @@
 		"oAP": "\/pet\/node_modules",
 		"oF": 1
 		},
-	"\/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pet\/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2014,7 +2006,7 @@
 		},
 	"\/source\/img\/eshop\/circle.png": {
 		"ft": 32768,
-		"iS": 759,
+		"iS": 339,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/circle.png",
 		"oF": 0,
@@ -2267,7 +2259,7 @@
 		},
 	"\/source\/img\/login\/phone.png": {
 		"ft": 32768,
-		"iS": 198,
+		"iS": 541,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/phone.png",
 		"oF": 0,
@@ -2278,7 +2270,7 @@
 		},
 	"\/source\/img\/login\/pw.png": {
 		"ft": 32768,
-		"iS": 380,
+		"iS": 723,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/pw.png",
 		"oF": 0,
@@ -2311,7 +2303,7 @@
 		},
 	"\/source\/img\/login\/third-sigin.png": {
 		"ft": 32768,
-		"iS": 15208,
+		"iS": 15551,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/third-sigin.png",
 		"oF": 0,
@@ -2322,7 +2314,7 @@
 		},
 	"\/source\/img\/login\/usr.png": {
 		"ft": 32768,
-		"iS": 361,
+		"iS": 704,
 		"oA": 0,
 		"oAP": "\/pet\/img\/login\/usr.png",
 		"oF": 0,
