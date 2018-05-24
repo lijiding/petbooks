@@ -1,7 +1,27 @@
 @import "../build-base/site-config.scss";
 html{
 	body{
+		.section{
+			&.search{
+				background-color: #fff;
+			}
 			/* eshop index */
+		}
+		.shopping-cart{
+			img{
+				position: relative;
+				top: 3px;
+				margin-right: 5px;
+			}
+			.btn{
+				margin: 0;
+				width: 120px;
+				height: 40px;
+				line-height: 40px;
+				font-size: 14px;
+				border-radius:0;
+			}
+		}
 		.page-inside-nav{
 			&.eshop{
 				.inside-nav{
@@ -87,6 +107,19 @@ html{
 											}
 										}
 										&:hover{
+											background-color: #fff;
+											color:#000;
+											img{
+												display: none;
+												&.name-icon{
+													display: inline-block;
+												}
+											}
+										}
+									}
+									&.hovering{
+										background-color: #f02;
+										.classes-name{
 											background-color: #fff;
 											color:#000;
 											img{
@@ -528,6 +561,7 @@ html{
 						padding: 8px 15px;
 						width:auto;
 						line-height: 14px;
+						border-color:#b3b3b3;
 						&.active{
 							background-color: $themecolor;
 							color:#fff;
@@ -559,13 +593,16 @@ html{
 					.price-filter{
 						display: inline-block;
 						font-size: 14px;
+						.btn{
+							border-color:#b3b3b3;
+						}
 					}
 					.price{
 						position: relative;
 						&.active{
 							background-color: #fff;
 							color:$themecolor;
-							border-color:#4d4d4d;
+							border-color:#b3b3b3;
 							margin-left: -1px;
 						}
 						.fa{

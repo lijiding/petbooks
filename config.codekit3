@@ -23,401 +23,19 @@
 		"oAP": "\/pet\/branch dev",
 		"oF": 1
 		},
-	"\/design\/community\/10社区开始发帖.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/10社区开始发帖.psd",
-		"oF": 0
-		},
-	"\/design\/community\/11社区登录页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/11社区登录页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/12社区短信登录页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/12社区短信登录页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/13社区注册页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/13社区注册页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/14社区用户主页-他的宠物.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/14社区用户主页-他的宠物.psd",
-		"oF": 0
-		},
-	"\/design\/community\/15社区用户主页-他的关注.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/15社区用户主页-他的关注.psd",
-		"oF": 0
-		},
-	"\/design\/community\/16社区搜索-详情1.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/16社区搜索-详情1.psd",
-		"oF": 0
-		},
-	"\/design\/community\/17社区搜索-详情2.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/17社区搜索-详情2.psd",
-		"oF": 0
-		},
-	"\/design\/community\/18社区活动-详情.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/18社区活动-详情.psd",
-		"oF": 0
-		},
-	"\/design\/community\/19弹框登录.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/19弹框登录.psd",
-		"oF": 0
-		},
-	"\/design\/community\/1社区首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/1社区首页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/2社区活动.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/2社区活动.psd",
-		"oF": 0
-		},
-	"\/design\/community\/3社区搜索.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/3社区搜索.psd",
-		"oF": 0
-		},
-	"\/design\/community\/4社区寄养.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/4社区寄养.psd",
-		"oF": 0
-		},
-	"\/design\/community\/5社区寄养-详情.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/5社区寄养-详情.psd",
-		"oF": 0
-		},
-	"\/design\/community\/6社区寻宠.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/6社区寻宠.psd",
-		"oF": 0
-		},
-	"\/design\/community\/7社区用户主页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/7社区用户主页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/8社区个人中心.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/8社区个人中心.psd",
-		"oF": 0
-		},
-	"\/design\/community\/9社区我的帖子.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/9社区我的帖子.psd",
-		"oF": 0
-		},
-	"\/design\/community\/pet.pxcp": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/pet.pxcp",
-		"oF": 0
-		},
-	"\/design\/eshop\/1商城首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/1商城首页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/2商城首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/2商城首页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/3商城-活动页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/3商城-活动页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/4商城-搜索页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/4商城-搜索页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/5商城-秒杀专场.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/5商城-秒杀专场.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/6商城-代金券.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/6商城-代金券.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/eshop.pxcp": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/eshop.pxcp",
-		"oF": 0
-		},
-	"\/design\/eshop\/标注1商城首页.png": {
-		"ft": 32768,
-		"iS": 2704273,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注1商城首页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注2商城首页.png": {
-		"ft": 32768,
-		"iS": 1737642,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注2商城首页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注3商城-活动页.png": {
-		"ft": 32768,
-		"iS": 1228710,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注3商城-活动页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注4商城-搜索页.png": {
-		"ft": 32768,
-		"iS": 422184,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注4商城-搜索页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注5商城-秒杀专场.png": {
-		"ft": 32768,
-		"iS": 729470,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注5商城-秒杀专场.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注6商城-代金券.png": {
-		"ft": 32768,
-		"iS": 2097399,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注6商城-代金券.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/1资讯首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/1资讯首页.psd",
-		"oF": 0
-		},
-	"\/design\/news\/1资讯首页标注.png": {
-		"ft": 32768,
-		"iS": 2437628,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/1资讯首页标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/2资讯-搜索列表1.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/2资讯-搜索列表1.psd",
-		"oF": 0
-		},
-	"\/design\/news\/2资讯-搜索列表1标注 .png": {
-		"ft": 32768,
-		"iS": 1039092,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/2资讯-搜索列表1标注 .png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/3资讯-搜索列表2.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/3资讯-搜索列表2.psd",
-		"oF": 0
-		},
-	"\/design\/news\/3资讯-搜索列表2标注.png": {
-		"ft": 32768,
-		"iS": 752323,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/3资讯-搜索列表2标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/4资讯-搜索详情页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/4资讯-搜索详情页.psd",
-		"oF": 0
-		},
-	"\/design\/news\/4资讯-搜索详情页标注.png": {
-		"ft": 32768,
-		"iS": 1726652,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/4资讯-搜索详情页标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/5资讯-搜索详情页-品种分析.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/5资讯-搜索详情页-品种分析.psd",
-		"oF": 0
-		},
-	"\/design\/news\/5资讯-搜索详情页-品种分析标注.png": {
-		"ft": 32768,
-		"iS": 1469533,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/5资讯-搜索详情页-品种分析标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/6资讯-店铺主页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/6资讯-店铺主页.psd",
-		"oF": 0
-		},
-	"\/design\/news\/6资讯-店铺主页标注.png": {
-		"ft": 32768,
-		"iS": 630089,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/6资讯-店铺主页标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/7资讯-店铺介绍.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/7资讯-店铺介绍.psd",
-		"oF": 0
-		},
-	"\/design\/news\/7资讯-店铺介绍标注.png": {
-		"ft": 32768,
-		"iS": 701874,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/7资讯-店铺介绍标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/pet-news.pxcp": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/pet-news.pxcp",
+	"\/design": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/pet\/design",
 		"oF": 0
 		},
 	"\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/pet\/gulpfile.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -434,12 +52,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/pet": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/pet\/pet",
-		"oF": 0
 		},
 	"\/petbooks错误.docx": {
 		"cB": 0,
@@ -2018,55 +1630,66 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/source\/img\/eshop\/shopping-notice\/Flash.png": {
+	"\/source\/img\/eshop\/shopping cart 3.png": {
 		"ft": 32768,
-		"iS": 1458,
+		"iS": 323,
 		"oA": 0,
-		"oAP": "\/pet\/img\/eshop\/shopping-notice\/Flash.png",
+		"oAP": "\/pet\/img\/eshop\/shopping cart 3.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/source\/img\/eshop\/shopping-notice\/shield.png": {
+	"\/source\/img\/eshop\/shopping-notice\/1.png": {
 		"ft": 32768,
 		"iS": 1184,
 		"oA": 0,
-		"oAP": "\/pet\/img\/eshop\/shopping-notice\/shield.png",
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/source\/img\/eshop\/shopping-notice\/Thumb up.png": {
+	"\/source\/img\/eshop\/shopping-notice\/2.png": {
+		"ft": 32768,
+		"iS": 1458,
+		"oA": 0,
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/eshop\/shopping-notice\/3.png": {
 		"ft": 32768,
 		"iS": 1574,
 		"oA": 0,
-		"oAP": "\/pet\/img\/eshop\/shopping-notice\/Thumb up.png",
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/3.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/source\/img\/eshop\/shopping-notice\/特.png": {
+	"\/source\/img\/eshop\/shopping-notice\/4.png": {
 		"ft": 32768,
 		"iS": 1355,
 		"oA": 0,
-		"oAP": "\/pet\/img\/eshop\/shopping-notice\/特.png",
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/4.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/source\/img\/eshop\/shopping-notice\/？.png": {
+	"\/source\/img\/eshop\/shopping-notice\/5.png": {
 		"ft": 32768,
 		"iS": 1050,
 		"oA": 0,
-		"oAP": "\/pet\/img\/eshop\/shopping-notice\/？.png",
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/5.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -5028,7 +4651,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 548817391
+	"lastBuiltDate": 548822105
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -7010,7 +6633,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/design",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",

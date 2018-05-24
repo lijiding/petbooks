@@ -1,6 +1,20 @@
 html body {
-  /* eshop index */
   /* search */ }
+  html body .section {
+    /* eshop index */ }
+    html body .section.search {
+      background-color: #fff; }
+  html body .shopping-cart img {
+    position: relative;
+    top: 3px;
+    margin-right: 5px; }
+  html body .shopping-cart .btn {
+    margin: 0;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    border-radius: 0; }
   html body .page-inside-nav.eshop .inside-nav {
     font-size: 16px; }
     html body .page-inside-nav.eshop .inside-nav li {
@@ -79,6 +93,15 @@ html body {
                 html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name:hover img {
                   display: none; }
                   html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .classes-name:hover img.name-icon {
+                    display: inline-block; }
+            html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title.hovering {
+              background-color: #f02; }
+              html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title.hovering .classes-name {
+                background-color: #fff;
+                color: #000; }
+                html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title.hovering .classes-name img {
+                  display: none; }
+                  html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title.hovering .classes-name img.name-icon {
                     display: inline-block; }
             html body .page-inside-nav.eshop.all .eshop-inside-nav .all-classes .all-classes-list .list-title .list-item-box {
               display: none;
@@ -636,7 +659,8 @@ html body {
         z-index: 1;
         padding: 8px 15px;
         width: auto;
-        line-height: 14px; }
+        line-height: 14px;
+        border-color: #b3b3b3; }
         html body .eshop-search-result .result-filter .filter-rules .btn.active {
           background-color: #ff5500;
           color: #fff;
@@ -654,12 +678,14 @@ html body {
       html body .eshop-search-result .result-filter .filter-rules .price-filter {
         display: inline-block;
         font-size: 14px; }
+        html body .eshop-search-result .result-filter .filter-rules .price-filter .btn {
+          border-color: #b3b3b3; }
       html body .eshop-search-result .result-filter .filter-rules .price {
         position: relative; }
         html body .eshop-search-result .result-filter .filter-rules .price.active {
           background-color: #fff;
           color: #ff5500;
-          border-color: #4d4d4d;
+          border-color: #b3b3b3;
           margin-left: -1px; }
         html body .eshop-search-result .result-filter .filter-rules .price .fa {
           position: absolute;

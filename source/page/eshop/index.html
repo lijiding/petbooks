@@ -13,7 +13,7 @@
 
 <body>
     <header>
-        <div class="place-select selecting">
+        <div class="place-select ">
             <!-- <i class="fa fa-map-marker themecolor"></i> -->
             <img src="../../img/site-head/city.png" alt="">
             <span class="city">北京<i class="fa fa-sort-desc"></i></span>
@@ -81,8 +81,10 @@
                         <a href="javascrit:;">泰迪</a>
                     </div>
                 </div>
-                <div class="publish pull-right">
-                    <input type="button" value="免费发布信息">
+                <div class="shopping-cart pull-right">
+                    <a href="javascript:;" class="btn btn-theme">
+                        <img src="../../img/eshop/cart.png" alt=""><span>购物车(99)</span>
+                    </a>
                 </div>
             </div>
         </div>
@@ -1340,6 +1342,9 @@
                 clickable: true,
             }
         });
+
+        // init eshop nav 
+        eshopNav('hovering')
     })
     </script>
 </body>

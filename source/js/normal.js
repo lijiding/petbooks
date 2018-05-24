@@ -72,7 +72,20 @@ function loginPopup(html) {
     toggleSigninWay()
 }
 
-
+// eshop nav
+function eshopNav(className) {
+    var lists = $('.list-title'),
+        cn = className;
+    lists.each(function (i,item) {
+        el = $(item);
+        el.hover(function () {
+            $(this).addClass(cn)
+        },function () {
+            $(this).removeClass(cn)
+        })
+        
+    })
+}
 
 
 
