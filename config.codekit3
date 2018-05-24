@@ -243,401 +243,19 @@
 		"oAP": "\/pet\/branch dev",
 		"oF": 1
 		},
-	"\/design\/community\/10社区开始发帖.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/10社区开始发帖.psd",
-		"oF": 0
-		},
-	"\/design\/community\/11社区登录页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/11社区登录页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/12社区短信登录页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/12社区短信登录页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/13社区注册页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/13社区注册页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/14社区用户主页-他的宠物.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/14社区用户主页-他的宠物.psd",
-		"oF": 0
-		},
-	"\/design\/community\/15社区用户主页-他的关注.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/15社区用户主页-他的关注.psd",
-		"oF": 0
-		},
-	"\/design\/community\/16社区搜索-详情1.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/16社区搜索-详情1.psd",
-		"oF": 0
-		},
-	"\/design\/community\/17社区搜索-详情2.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/17社区搜索-详情2.psd",
-		"oF": 0
-		},
-	"\/design\/community\/18社区活动-详情.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/18社区活动-详情.psd",
-		"oF": 0
-		},
-	"\/design\/community\/19弹框登录.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/19弹框登录.psd",
-		"oF": 0
-		},
-	"\/design\/community\/1社区首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/1社区首页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/2社区活动.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/2社区活动.psd",
-		"oF": 0
-		},
-	"\/design\/community\/3社区搜索.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/3社区搜索.psd",
-		"oF": 0
-		},
-	"\/design\/community\/4社区寄养.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/4社区寄养.psd",
-		"oF": 0
-		},
-	"\/design\/community\/5社区寄养-详情.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/5社区寄养-详情.psd",
-		"oF": 0
-		},
-	"\/design\/community\/6社区寻宠.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/6社区寻宠.psd",
-		"oF": 0
-		},
-	"\/design\/community\/7社区用户主页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/7社区用户主页.psd",
-		"oF": 0
-		},
-	"\/design\/community\/8社区个人中心.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/8社区个人中心.psd",
-		"oF": 0
-		},
-	"\/design\/community\/9社区我的帖子.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/9社区我的帖子.psd",
-		"oF": 0
-		},
-	"\/design\/community\/pet.pxcp": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/community\/pet.pxcp",
-		"oF": 0
-		},
-	"\/design\/eshop\/1商城首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/1商城首页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/2商城首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/2商城首页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/3商城-活动页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/3商城-活动页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/4商城-搜索页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/4商城-搜索页.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/5商城-秒杀专场.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/5商城-秒杀专场.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/6商城-代金券.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/6商城-代金券.psd",
-		"oF": 0
-		},
-	"\/design\/eshop\/eshop.pxcp": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/eshop.pxcp",
-		"oF": 0
-		},
-	"\/design\/eshop\/标注1商城首页.png": {
-		"ft": 32768,
-		"iS": 2704273,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注1商城首页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注2商城首页.png": {
-		"ft": 32768,
-		"iS": 1737642,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注2商城首页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注3商城-活动页.png": {
-		"ft": 32768,
-		"iS": 1228710,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注3商城-活动页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注4商城-搜索页.png": {
-		"ft": 32768,
-		"iS": 422184,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注4商城-搜索页.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注5商城-秒杀专场.png": {
-		"ft": 32768,
-		"iS": 729470,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注5商城-秒杀专场.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/eshop\/标注6商城-代金券.png": {
-		"ft": 32768,
-		"iS": 2097399,
-		"oA": 0,
-		"oAP": "\/pet\/design\/eshop\/标注6商城-代金券.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/1资讯首页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/1资讯首页.psd",
-		"oF": 0
-		},
-	"\/design\/news\/1资讯首页标注.png": {
-		"ft": 32768,
-		"iS": 2437628,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/1资讯首页标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/2资讯-搜索列表1.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/2资讯-搜索列表1.psd",
-		"oF": 0
-		},
-	"\/design\/news\/2资讯-搜索列表1标注 .png": {
-		"ft": 32768,
-		"iS": 1039092,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/2资讯-搜索列表1标注 .png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/3资讯-搜索列表2.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/3资讯-搜索列表2.psd",
-		"oF": 0
-		},
-	"\/design\/news\/3资讯-搜索列表2标注.png": {
-		"ft": 32768,
-		"iS": 752323,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/3资讯-搜索列表2标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/4资讯-搜索详情页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/4资讯-搜索详情页.psd",
-		"oF": 0
-		},
-	"\/design\/news\/4资讯-搜索详情页标注.png": {
-		"ft": 32768,
-		"iS": 1726652,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/4资讯-搜索详情页标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/5资讯-搜索详情页-品种分析.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/5资讯-搜索详情页-品种分析.psd",
-		"oF": 0
-		},
-	"\/design\/news\/5资讯-搜索详情页-品种分析标注.png": {
-		"ft": 32768,
-		"iS": 1469533,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/5资讯-搜索详情页-品种分析标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/6资讯-店铺主页.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/6资讯-店铺主页.psd",
-		"oF": 0
-		},
-	"\/design\/news\/6资讯-店铺主页标注.png": {
-		"ft": 32768,
-		"iS": 630089,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/6资讯-店铺主页标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/7资讯-店铺介绍.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/7资讯-店铺介绍.psd",
-		"oF": 0
-		},
-	"\/design\/news\/7资讯-店铺介绍标注.png": {
-		"ft": 32768,
-		"iS": 701874,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/7资讯-店铺介绍标注.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/design\/news\/pet-news.pxcp": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pet\/design\/news\/pet-news.pxcp",
+	"\/design": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/pet\/design",
 		"oF": 0
 		},
 	"\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/pet\/gulpfile.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -654,12 +272,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/pet": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/pet\/pet",
-		"oF": 0
 		},
 	"\/petbooks错误.docx": {
 		"cB": 0,
@@ -1746,7 +1358,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/animated.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/animated.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1763,7 +1375,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/bordered-pulled.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/bordered-pulled.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1780,7 +1392,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/core.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/core.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1797,7 +1409,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/fixed-width.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/fixed-width.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1814,7 +1426,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/font-awesome.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/font-awesome.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1831,7 +1443,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/icons.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/icons.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1848,7 +1460,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/larger.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/larger.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1865,7 +1477,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/list.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/list.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1882,7 +1494,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/mixins.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/mixins.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1899,7 +1511,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/path.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/path.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1916,7 +1528,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/rotated-flipped.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/rotated-flipped.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1949,7 +1561,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/screen-reader.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/screen-reader.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -1966,7 +1578,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/stacked.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/stacked.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -2116,7 +1728,7 @@
 		"iI": 0,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/variables.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/less\/variables.less",
 		"oF": 1,
 		"oS": 0,
 		"rU": 0,
@@ -2132,7 +1744,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_animated.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_animated.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2145,7 +1757,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_bordered-pulled.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_bordered-pulled.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2195,7 +1807,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_core.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_core.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2208,7 +1820,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_fixed-width.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_fixed-width.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2221,7 +1833,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_icons.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_icons.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2234,7 +1846,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_larger.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_larger.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2247,7 +1859,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_list.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_list.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2276,7 +1888,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_mixins.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_mixins.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2289,7 +1901,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_path.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_path.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2311,7 +1923,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_rotated-flipped.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_rotated-flipped.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2333,7 +1945,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_screen-reader.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_screen-reader.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2355,7 +1967,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_stacked.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_stacked.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2422,7 +2034,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_variables.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/_variables.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -2435,7 +2047,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/font-awesome.css",
+		"oAP": "\/pet\/css\/font-awesome-4.7.0\/scss\/font-awesome.scss",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -3084,56 +2696,109 @@
 		"oT": 1,
 		"q": 100
 		},
+<<<<<<< HEAD
 	"\/pet\/img\/eshop\/shopping-notice\/Flash.png": {
 		"ft": 32768,
 		"iS": 1323,
+=======
+	"\/source\/img\/eshop\/shopping cart 3.png": {
+		"ft": 32768,
+		"iS": 323,
+>>>>>>> dev-build
 		"oA": 0,
-		"oAP": "\/pet\/img\/eshop\/shopping-notice\/Flash.png",
+		"oAP": "\/pet\/img\/eshop\/shopping cart 3.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
+<<<<<<< HEAD
 	"\/pet\/img\/eshop\/shopping-notice\/shield.png": {
 		"ft": 32768,
 		"iS": 1003,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/shopping-notice\/shield.png",
 		"oF": 0,
+=======
+	"\/source\/img\/eshop\/shopping-notice\/1.png": {
+		"ft": 32768,
+		"iS": 1184,
+		"oA": 2,
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/1.png",
+		"oF": 1,
+>>>>>>> dev-build
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
+<<<<<<< HEAD
 	"\/pet\/img\/eshop\/shopping-notice\/Thumb up.png": {
 		"ft": 32768,
 		"iS": 1511,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/shopping-notice\/Thumb up.png",
 		"oF": 0,
+=======
+	"\/source\/img\/eshop\/shopping-notice\/2.png": {
+		"ft": 32768,
+		"iS": 1458,
+		"oA": 2,
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/2.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/eshop\/shopping-notice\/3.png": {
+		"ft": 32768,
+		"iS": 1574,
+		"oA": 2,
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/3.png",
+		"oF": 1,
+>>>>>>> dev-build
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
+<<<<<<< HEAD
 	"\/pet\/img\/eshop\/shopping-notice\/特.png": {
 		"ft": 32768,
 		"iS": 986,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/shopping-notice\/特.png",
 		"oF": 0,
+=======
+	"\/source\/img\/eshop\/shopping-notice\/4.png": {
+		"ft": 32768,
+		"iS": 1355,
+		"oA": 2,
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/4.png",
+		"oF": 1,
+>>>>>>> dev-build
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
+<<<<<<< HEAD
 	"\/pet\/img\/eshop\/shopping-notice\/？.png": {
 		"ft": 32768,
 		"iS": 845,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/shopping-notice\/？.png",
 		"oF": 0,
+=======
+	"\/source\/img\/eshop\/shopping-notice\/5.png": {
+		"ft": 32768,
+		"iS": 1050,
+		"oA": 2,
+		"oAP": "\/pet\/img\/eshop\/shopping-notice\/5.png",
+		"oF": 1,
+>>>>>>> dev-build
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
@@ -3944,17 +3609,59 @@
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/.github\/ISSUE_TEMPLATE.html": {
 		"cB": 0,
+<<<<<<< HEAD
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/.github\/ISSUE_TEMPLATE.html",
 		"oF": 0
+=======
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/.github\/ISSUE_TEMPLATE.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/.github\/PULL_REQUEST_TEMPLATE.html": {
 		"cB": 0,
 		"ft": 8192,
+<<<<<<< HEAD
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/.github\/PULL_REQUEST_TEMPLATE.html",
 		"oF": 0
+=======
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/.github\/PULL_REQUEST_TEMPLATE.html",
+		"oF": 1
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/.github\/PULL_REQUEST_TEMPLATE.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/.github\/PULL_REQUEST_TEMPLATE.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/.npmignore": {
 		"cB": 0,
@@ -3973,9 +3680,33 @@
 	"\/pet\/js\/plugin\/swiper-4.2.2\/Architecture.html": {
 		"cB": 0,
 		"ft": 8192,
+<<<<<<< HEAD
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/Architecture.html",
 		"oF": 0
+=======
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/Architecture.html",
+		"oF": 1
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/Architecture.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/Architecture.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/bower-min.json": {
 		"ft": 524288,
@@ -3988,9 +3719,33 @@
 	"\/pet\/js\/plugin\/swiper-4.2.2\/CHANGELOG.html": {
 		"cB": 0,
 		"ft": 8192,
+<<<<<<< HEAD
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/CHANGELOG.html",
 		"oF": 0
+=======
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/CHANGELOG.html",
+		"oF": 1
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/CHANGELOG.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/CHANGELOG.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/component-min.json": {
 		"ft": 524288,
@@ -4003,9 +3758,33 @@
 	"\/pet\/js\/plugin\/swiper-4.2.2\/CONTRIBUTING.html": {
 		"cB": 0,
 		"ft": 8192,
+<<<<<<< HEAD
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/CONTRIBUTING.html",
 		"oF": 0
+=======
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/CONTRIBUTING.html",
+		"oF": 1
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/CONTRIBUTING.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/CONTRIBUTING.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/demos\/010-default.html": {
 		"cB": 0,
@@ -5838,7 +5617,43 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/translate\/getTranslate.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/playground\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/playground\/index.html",
+		"oF": 1
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/README.html",
+		"oF": 1
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/README.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/scripts\/banner.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -5982,7 +5797,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/update\/index-min.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/a11y\/a11y.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/a11y\/a11y.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/a11y\/min\/a11y-min.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -6046,7 +5882,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/update\/updateAutoHeight-min.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/controller\/controller.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/controller\/controller.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/controller\/min\/controller-min.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -6190,6 +6047,7 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/update\/updateSlides.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6199,6 +6057,24 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/core.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/core.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/core\/update\/updateSlidesClasses-min.js": {
 		"ft": 64,
@@ -7105,11 +6981,21 @@
 =======
 		"mi": 0,
 		"oA": 2,
+<<<<<<< HEAD
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-coverflow\/effect-coverflow.js",
 >>>>>>> dev-build
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+=======
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-coverflow\/effect-coverflow.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/parallax\/min\/parallax-min.js": {
 		"ft": 64,
@@ -7143,7 +7029,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/parallax\/parallax.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-cube\/effect-cube.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-cube\/effect-cube.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-cube\/min\/effect-cube-min.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -7175,7 +7082,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/scrollbar\/min\/scrollbar-min.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-fade\/effect-fade.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-fade\/effect-fade.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-fade\/min\/effect-fade-min.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -7210,12 +7138,28 @@
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/scrollbar\/scrollbar.css": {
 		"aP": 1,
 		"bl": 0,
+<<<<<<< HEAD
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/scrollbar\/scrollbar-min.css",
 		"oF": 0,
 		"oS": 3
+=======
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/effect-flip\/effect-flip.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/scrollbar\/scrollbar.js": {
 		"ft": 64,
@@ -7348,12 +7292,28 @@
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/zoom\/zoom.css": {
 		"aP": 1,
 		"bl": 0,
+<<<<<<< HEAD
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/zoom\/zoom-min.css",
 		"oF": 0,
 		"oS": 3
+=======
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/lazy\/lazy.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/zoom\/zoom.js": {
 		"ft": 64,
@@ -7438,7 +7398,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/browser\/browser.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/navigation\/navigation.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/navigation\/navigation.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/pagination\/min\/pagination-min.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -7470,7 +7451,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/device\/device.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/pagination\/pagination.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/pagination\/pagination.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/parallax\/min\/parallax-min.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -7537,12 +7539,28 @@
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.css": {
 		"aP": 1,
 		"bl": 0,
+<<<<<<< HEAD
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize-min.css",
 		"oF": 0,
 		"oS": 3
+=======
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/scrollbar\/scrollbar.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.js": {
 		"ft": 64,
@@ -7608,6 +7626,7 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/swiper.css": {
 		"aP": 1,
 		"bl": 0,
@@ -7617,6 +7636,41 @@
 		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/swiper-min.css",
 		"oF": 0,
 		"oS": 3
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/components\/zoom\/zoom.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/components\/zoom\/zoom.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/less\/mixins.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/less\/mixins.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+>>>>>>> dev-build
 		},
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/swiper.js": {
 		"ft": 64,
@@ -7698,7 +7752,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/device-min.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/modules\/resize\/resize.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/modules\/support\/support.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -7730,7 +7805,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/pet\/js\/plugin\/swiper-4.2.2\/src\/utils\/dom-min.js": {
+=======
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/swiper.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/pet\/js\/plugin\/swiper-4.2.2\/src\/swiper.less",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/js\/plugin\/swiper-4.2.2\/src\/utils\/browser.js": {
+>>>>>>> dev-build
 		"ft": 64,
 		"ma": 0,
 <<<<<<< HEAD
@@ -8054,7 +8150,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 548817391
+	"lastBuiltDate": 548822566
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -9450,7 +9546,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -10044,7 +10140,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/design",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
