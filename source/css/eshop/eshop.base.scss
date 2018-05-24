@@ -1080,6 +1080,10 @@ html{
 						background-color: #fff;
 						margin-left: 10px;
 						margin-bottom: 10px;
+						border:1px solid #e6e6e6;
+						&:hover{
+							border:1px solid $themecolor;
+						}
 						img{
 							display: block;
 						}
