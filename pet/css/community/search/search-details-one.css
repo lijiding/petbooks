@@ -1,22 +1,16 @@
 html body .search {
-  background-color: #fff;
-}
+  background-color: #fff; }
+
 html body .search-box-par {
-  float: left;
-}
-html body .search-box-par .search-more-picture {
-  width: 290px;
-  margin-top: 10px;
-  border-radius: 5px;
-  overflow: hidden;
-  margin-left: 10px;
-}
+  float: left; }
+  html body .search-box-par .search-more-picture {
+    width: 290px;
+    margin-top: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 10px; }
+
 html body .entrust-detail .entrust-detail-owner {
   padding-bottom: 18px;
-  float: none;
-}
-html body footer {
-  background-color: #333;
-}
-
+  float: none; }
 /*# sourceMappingURL=search-details-one.css.map */

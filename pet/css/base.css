@@ -213,7 +213,7 @@ header {
       left: -1px;
       background-color: #fff;
       width: 220px;
-      z-index: 10;
+      z-index: 20;
       border: 1px solid #e6e6e6;
       border-top: none;
       font-size: 12px;
@@ -381,27 +381,35 @@ header {
     margin: 20px 0 30px 0; }
 
 /* footer */
-.footer {
-  width: 1190px;
-  margin: 0 auto;
-  color: #ccc;
-  text-align: center;
-  font-size: 12px; }
-  .footer .aboutus {
-    font-size: 16px;
-    padding: 30px 0 45px 0; }
-    .footer .aboutus a {
-      color: #ccc; }
-    .footer .aboutus span {
+footer {
+  background-color: #333; }
+  footer .footer {
+    width: 1190px;
+    margin: 0 auto;
+    color: #ccc;
+    text-align: center;
+    font-size: 12px; }
+    footer .footer .aboutus {
+      font-size: 16px;
+      padding: 30px 0 45px 0; }
+      footer .footer .aboutus a {
+        color: #ccc; }
+      footer .footer .aboutus span {
+        margin: 0 10px; }
+    footer .footer .copyright span {
       margin: 0 10px; }
-  .footer .copyright span {
-    margin: 0 10px; }
-  .footer .reference {
-    padding: 10px 0; }
-    .footer .reference span {
-      margin: 0 8px; }
-  .footer .approve {
-    padding: 40px 0 60px 0; }
+    footer .footer .reference {
+      padding: 10px 0; }
+      footer .footer .reference span {
+        margin: 0 8px; }
+    footer .footer .approve {
+      padding: 40px 0 60px 0; }
+  footer.lighten {
+    background-color: #fff; }
+    footer.lighten .footer {
+      color: #666666; }
+    footer.lighten .aboutus a {
+      color: #4d4d4d; }
 
 /* pet base modules */
 /* banner */
@@ -1202,6 +1210,7 @@ header {
   background-color: rgba(0, 0, 0, 0.5);
   opacity: 0.5;
   z-index: 100; }
+
 .login-popup-fun .login-popup {
   position: fixed;
   z-index: 200;
@@ -1313,5 +1322,4 @@ header {
           background-color: #ff5500;
           color: #fff;
           opacity: 0.7; }
-
 /*# sourceMappingURL=base.css.map */
