@@ -391,6 +391,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/source\/css\/community\/invitation\/friendly-group.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/pet\/css\/community\/invitation\/friendly-group.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/source\/css\/community\/invitation\/invitation-history.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1729,6 +1742,17 @@
 		"iS": 1197,
 		"oA": 0,
 		"oAP": "\/pet\/img\/eshop\/vertical.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/group-img.png": {
+		"ft": 32768,
+		"iS": 7868,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/group-img.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -4494,6 +4518,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pet\/page\/community\/index.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/new-invitation\/friendly-group.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/new-invitation\/friendly-group.html",
 		"oF": 0
 		},
 	"\/source\/page\/community\/new-invitation\/new-invitation.html": {

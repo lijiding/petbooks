@@ -1,0 +1,115 @@
+@import "../../build-base/site-config.scss";
+html{
+	body{
+		.search{
+			background-color: #fff;
+		}
+		.section{
+			background-color: #fff;
+		}
+		.gruop-title{
+			@include manwidth();
+			background-color: #fff;
+			padding: 20px;
+			margin-top: 10px;
+			border-radius:5px;
+			font-size: 16px;
+			span{
+
+			}
+			.tips-list{
+				font-size: 0;
+				margin-left: -20px;
+				margin-top: 20px;
+			}
+		}
+		.list-group-item{
+			padding: 15px 20px 15px 15px;
+			img{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				&.border{
+					border:5px solid #fff;
+					border-radius:50%;
+				}
+			}
+			display: inline-block;
+			width: 214px;
+			height: 100px;
+			background-color: #b2ceff;
+			border-radius: 5px;
+			font-size: 14px;
+			margin-left: 20px;
+			color:#fff;
+			.flex-item{
+				padding-left:15px;
+				padding-top: 10px;
+			}
+		}
+		.more-groups{
+			background-color: #fff;
+			@include manwidth();
+			margin-top: 20px;
+			border-radius:5px;
+			margin-bottom: 20px;
+			user-select:none;
+			.group-classes{
+				width: 240px;
+				border-right:1px solid #e6e6e6;
+				.group-class{
+					padding-bottom: 8px;
+					border-bottom: 1px solid #e6e6e6;
+					font-size: 14px;
+					padding: 20px;
+					.group-title{
+						color:#333;
+						cursor:pointer;
+					}
+					.group-list{
+						color:#999;
+						margin-left: -20px;
+						font-size: 0;
+						margin-top: 12px;
+						span{
+							display: inline-block;
+							font-size: 14px;
+							margin: 4px 0 4px 20px;
+							cursor:pointer;
+							&:hover,&.selecting{
+								color:$themecolor;
+							}
+						}
+					}
+					&.opening{
+						width: 500px;
+						z-index:100;
+						position: relative;
+						background-color: #fff;
+						border:1px solid $themecolor;
+						border-radius:5px;
+						.hide-more{
+							color:$themecolor;
+							border:1px solid $themecolor;
+							padding: 2px 5px;
+							border-radius:3px;
+						}
+					}
+				}
+			}
+			.flex-item{
+				.classes-group-list{
+					font-size: 0;
+					padding-top: 20px;
+					.list-group-item{
+						margin-bottom: 20px;
+						margin-left: 18px;
+					}
+				}
+				.load-more-gap{
+					margin-bottom: 20px;
+				}
+			}
+		}
+	}
+}

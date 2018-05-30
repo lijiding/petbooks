@@ -127,6 +127,19 @@ body {
         -ms-flex: 1;
             flex: 1; }
 
+.load-more-gap {
+  height: 30px;
+  background-color: #f7f7f7;
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
+
 .pretty-select {
   position: relative;
   width: 180px;
