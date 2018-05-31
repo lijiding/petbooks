@@ -417,6 +417,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/source\/css\/community\/invitation\/invitation-list.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/pet\/css\/community\/invitation\/invitation-list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/source\/css\/community\/invitation\/invitation.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1748,6 +1761,72 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/img\/invitation\/article-content.png": {
+		"ft": 32768,
+		"iS": 20770,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/article-content.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/article-video-tag.png": {
+		"ft": 32768,
+		"iS": 361,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/article-video-tag.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/article-video.png": {
+		"ft": 32768,
+		"iS": 34803,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/article-video.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/content-right-logo.png": {
+		"ft": 32768,
+		"iS": 50540,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/content-right-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/content-right-more-link.png": {
+		"ft": 32768,
+		"iS": 4496,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/content-right-more-link.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/contributer.png": {
+		"ft": 32768,
+		"iS": 2909,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/contributer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/img\/invitation\/group-img.png": {
 		"ft": 32768,
 		"iS": 7868,
@@ -1775,6 +1854,17 @@
 		"iS": 5396,
 		"oA": 0,
 		"oAP": "\/pet\/img\/invitation\/post-img.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/tips-logo.png": {
+		"ft": 32768,
+		"iS": 49249,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/tips-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -4525,6 +4615,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pet\/page\/community\/new-invitation\/friendly-group.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/new-invitation\/invitation-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/new-invitation\/invitation-list.html",
 		"oF": 0
 		},
 	"\/source\/page\/community\/new-invitation\/new-invitation.html": {

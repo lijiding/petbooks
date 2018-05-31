@@ -101,6 +101,9 @@ body{
 	background-color: $bodybackground;
 	font-family:'SimHei';
 }
+.container{
+	@include manwidth();
+}
 .flex{
 	display:flex;
 	.flex-item{

@@ -1,0 +1,153 @@
+html body .search {
+  background-color: #fff; }
+
+html body .section {
+  background-color: #fff; }
+
+html body .invitation-list-title {
+  background-image: url("../../../img/banner/banner1.png");
+  background-size: cover;
+  height: 300px; }
+  html body .invitation-list-title .container {
+    padding-top: 30px; }
+    html body .invitation-list-title .container .tips-img {
+      padding: 5px;
+      background-color: #fff;
+      margin-right: 30px; }
+      html body .invitation-list-title .container .tips-img p {
+        margin: 10px auto 10px auto;
+        font-size: 16px;
+        color: #333;
+        text-align: center; }
+    html body .invitation-list-title .container .desc-text {
+      font-size: 14px;
+      color: #fff;
+      line-height: 30px; }
+      html body .invitation-list-title .container .desc-text.title {
+        font-size: 18px;
+        margin-top: 10px; }
+    html body .invitation-list-title .container .action-tips .btn {
+      display: block;
+      margin: 10px 0;
+      width: 100px;
+      height: 40px;
+      font-size: 16px;
+      line-height: 40px; }
+      html body .invitation-list-title .container .action-tips .btn:first-child {
+        margin-top: 40px; }
+
+html body .contributer {
+  width: 1190px;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 12px 20px; }
+  html body .contributer .title {
+    font-size: 16px;
+    line-height: 36px;
+    margin-right: 10px; }
+  html body .contributer .contributer-list {
+    font-size: 0;
+    background-color: #fff; }
+    html body .contributer .contributer-list .contributer-item {
+      position: relative;
+      float: left;
+      font-size: 12px;
+      height: 36px;
+      min-width: 36px;
+      line-height: 36px;
+      margin-left: 10px;
+      cursor: pointer; }
+      html body .contributer .contributer-list .contributer-item span {
+        position: absolute;
+        bottom: -5px;
+        right: -5px;
+        width: 16px;
+        height: 16px;
+        border-radius: 8px;
+        background-color: #ff5500;
+        font-size: 12px;
+        line-height: 16px;
+        text-align: center;
+        color: #fff; }
+      html body .contributer .contributer-list .contributer-item.more-action {
+        margin-left: 30px;
+        color: #4d4d4d;
+        font-size: 12px; }
+      html body .contributer .contributer-list .contributer-item:nth-child(1) span {
+        background-color: #ff1500; }
+      html body .contributer .contributer-list .contributer-item:nth-child(2) span {
+        background-color: #ff4000; }
+      html body .contributer .contributer-list .contributer-item:nth-child(3) span {
+        background-color: #ff6a00; }
+      html body .contributer .contributer-list .contributer-item:nth-child(4) span {
+        background-color: #ff9500; }
+      html body .contributer .contributer-list .contributer-item:nth-child(5) span {
+        background-color: #ffbf00; }
+      html body .contributer .contributer-list .contributer-item:nth-child(6) span {
+        background-color: #ffea00; }
+
+html body .list-content {
+  width: 1190px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 30px; }
+  html body .list-content .content-action-info {
+    background-color: #fff;
+    width: 230px;
+    border-radius: 5px; }
+    html body .list-content .content-action-info .content-tips {
+      border-bottom: 1px solid #e6e6e6; }
+      html body .list-content .content-action-info .content-tips .tips-img img {
+        margin: 20px 20px 10px 20px; }
+      html body .list-content .content-action-info .content-tips .desc-text {
+        color: #b3b3b3;
+        font-size: 14px;
+        padding-left: 20px;
+        line-height: 24px; }
+        html body .list-content .content-action-info .content-tips .desc-text span {
+          color: #4d4d4d; }
+      html body .list-content .content-action-info .content-tips .tips-action {
+        padding-left: 20px; }
+        html body .list-content .content-action-info .content-tips .tips-action .btn {
+          font-size: 12px;
+          width: 80px;
+          height: 20px;
+          line-height: 20px;
+          margin: 10px 0 20px 0; }
+    html body .list-content .content-action-info .group-friendly-links {
+      padding: 10px 20px;
+      border-bottom: 1px solid #e6e6e6; }
+      html body .list-content .content-action-info .group-friendly-links .title {
+        color: #333;
+        font-size: 12px;
+        margin-bottom: 10px; }
+      html body .list-content .content-action-info .group-friendly-links .links-list {
+        margin-left: -20px;
+        font-size: 0; }
+        html body .list-content .content-action-info .group-friendly-links .links-list li {
+          margin-left: 20px;
+          display: inline-block;
+          font-size: 12px;
+          color: #666; }
+    html body .list-content .content-action-info .hot-news {
+      color: #999999;
+      padding: 10px 20px; }
+      html body .list-content .content-action-info .hot-news .title {
+        color: #333;
+        font-size: 12px; }
+      html body .list-content .content-action-info .hot-news .hot-item {
+        font-size: 12px;
+        margin: 10px 0; }
+        html body .list-content .content-action-info .hot-news .hot-item .order {
+          width: 16px;
+          height: 16px;
+          line-height: 16px;
+          border-radius: 3px;
+          margin-right: 10px;
+          text-align: center; }
+        html body .list-content .content-action-info .hot-news .hot-item:first-child .order, html body .list-content .content-action-info .hot-news .hot-item:nth-child(2) .order, html body .list-content .content-action-info .hot-news .hot-item:nth-child(3) .order {
+          background-color: #ff5500;
+          color: #fff; }
+/*# sourceMappingURL=invitation-list.css.map */

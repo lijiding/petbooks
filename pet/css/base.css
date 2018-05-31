@@ -118,6 +118,10 @@ body {
   background-color: #e6e6e6;
   font-family: 'SimHei'; }
 
+.container {
+  width: 1190px;
+  margin: 0 auto; }
+
 .flex {
   display: -webkit-box;
   display: -ms-flexbox;
