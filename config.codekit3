@@ -1827,6 +1827,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/img\/invitation\/corner.png": {
+		"ft": 32768,
+		"iS": 257,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/corner.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/img\/invitation\/friendly-topic1.png": {
+		"ft": 32768,
+		"iS": 4736,
+		"oA": 0,
+		"oAP": "\/pet\/img\/invitation\/friendly-topic1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/img\/invitation\/group-img.png": {
 		"ft": 32768,
 		"iS": 7868,
@@ -4608,6 +4630,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pet\/page\/community\/index.html",
+		"oF": 0
+		},
+	"\/source\/page\/community\/new-invitation\/friendly-group-toplist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pet\/page\/community\/new-invitation\/friendly-group-toplist.html",
 		"oF": 0
 		},
 	"\/source\/page\/community\/new-invitation\/friendly-group.html": {
