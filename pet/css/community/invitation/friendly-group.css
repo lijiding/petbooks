@@ -1,0 +1,95 @@
+html body .search {
+  background-color: #fff; }
+
+html body .section {
+  background-color: #fff; }
+
+html body .gruop-title {
+  width: 1190px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 16px; }
+  html body .gruop-title .tips-list {
+    font-size: 0;
+    margin-left: -20px;
+    margin-top: 20px; }
+
+html body .list-group-item {
+  padding: 15px 20px 15px 15px;
+  display: inline-block;
+  width: 214px;
+  height: 100px;
+  background-color: #b2ceff;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-left: 20px;
+  color: #fff; }
+  html body .list-group-item img {
+    display: inline-block;
+    width: 70px;
+    height: 70px; }
+    html body .list-group-item img.border {
+      border: 5px solid #fff;
+      border-radius: 50%; }
+  html body .list-group-item .flex-item {
+    padding-left: 15px;
+    padding-top: 10px; }
+
+html body .more-groups {
+  background-color: #fff;
+  width: 1190px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
+  html body .more-groups .group-classes {
+    width: 240px;
+    border-right: 1px solid #e6e6e6; }
+    html body .more-groups .group-classes .group-class {
+      padding-bottom: 8px;
+      border-bottom: 1px solid #e6e6e6;
+      font-size: 14px;
+      padding: 20px; }
+      html body .more-groups .group-classes .group-class .group-title {
+        color: #333;
+        cursor: pointer; }
+      html body .more-groups .group-classes .group-class .group-list {
+        color: #999;
+        margin-left: -20px;
+        font-size: 0;
+        margin-top: 12px; }
+        html body .more-groups .group-classes .group-class .group-list span {
+          display: inline-block;
+          font-size: 14px;
+          margin: 4px 0 4px 20px;
+          cursor: pointer; }
+          html body .more-groups .group-classes .group-class .group-list span:hover, html body .more-groups .group-classes .group-class .group-list span.selecting {
+            color: #ff5500; }
+      html body .more-groups .group-classes .group-class.opening {
+        width: 500px;
+        z-index: 100;
+        position: relative;
+        background-color: #fff;
+        border: 1px solid #ff5500;
+        border-radius: 5px; }
+        html body .more-groups .group-classes .group-class.opening .hide-more {
+          color: #ff5500;
+          border: 1px solid #ff5500;
+          padding: 2px 5px;
+          border-radius: 3px; }
+  html body .more-groups .flex-item .classes-group-list {
+    font-size: 0;
+    padding-top: 20px; }
+    html body .more-groups .flex-item .classes-group-list .list-group-item {
+      margin-bottom: 20px;
+      margin-left: 18px; }
+  html body .more-groups .flex-item .load-more-gap {
+    margin-bottom: 20px; }
+/*# sourceMappingURL=friendly-group.css.map */
