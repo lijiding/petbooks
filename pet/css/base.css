@@ -118,6 +118,10 @@ body {
   background-color: #e6e6e6;
   font-family: 'SimHei'; }
 
+.container {
+  width: 1190px;
+  margin: 0 auto; }
+
 .flex {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -126,6 +130,19 @@ body {
     -webkit-box-flex: 1;
         -ms-flex: 1;
             flex: 1; }
+
+.load-more-gap {
+  height: 30px;
+  background-color: #f7f7f7;
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
 
 .pretty-select {
   position: relative;
